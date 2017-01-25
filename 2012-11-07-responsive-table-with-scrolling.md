@@ -30,7 +30,7 @@ On the web, vertical scrolling is a part of the full meal deal.  So, the only th
 
 We want some columns to scroll and others to remain pinned whilst scrolling.  We'll duplicate the table in the markup and wrap each, a la:
 
-{% codeblock lang:html %}
+```html
 <div class="table-wrapper">
   <div class="pinned">
     <!-- table here with pinned columns only-->
@@ -39,7 +39,7 @@ We want some columns to scroll and others to remain pinned whilst scrolling.  We
     <!-- table here with scrollable columns only-->
   </div>
 </div>
-{% endcodeblock %}
+```
 
 #### Line up the rows
 
@@ -65,17 +65,17 @@ I want to make my pinned table columns allow extra-long content, but I don't wan
 
 In short, the solution is to wrap the content inside of the `td` with two `divs`:
 
-{% codeblock lang:html %}
+```html
 <div class="outer">
   <div class="inner">
     Row 4 longer than lotr
   </div>
 </div>
-{% endcodeblock %}
+```
 
 And sprinkle with a bit of stylesheet:
 
-{% codeblock lang:css %}
+```css
 td .outer {
   position: relative;
   height: 30px;
@@ -86,15 +86,13 @@ td .inner {
   position: absolute;
   width: 100%;
 }
-{% endcodeblock %}
+```
 
 This style will let the column width remain and the content overflow.  It will also keep the cell text on one line, and it will be hidden as it flows off the right-hand side of the cell.  To wrap and hide as it flows off the bottom of the cell, remove the `white-space: nowrap` attribute.
 
 ## Responsive Table with Scrolling
 
-For the final result, check out the [CodePen for the responsive table](http://codepen.io/jaketrent/pen/CcboI) below:
-
-{% codepen CcboI jaketrent result 400 %}
+For the final result, check out the [CodePen for the responsive table](http://codepen.io/jaketrent/pen/CcboI).
 
 What are your suggestions for making this better?  How have you solved the responsive table challenge?
 

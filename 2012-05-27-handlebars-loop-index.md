@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Handlebars For-Loop Index"
@@ -25,9 +24,7 @@ Lots of languages have the built-in ability to let you access the current index 
 
 ##For Loop Index Helper
 
-{% raw %}
-The default Handlebars loop helper is `{{#each}}`.  We will replace it with `{{#iter}}`.  It essentially copies the current implementation of the for loop and adds a few more parameters to the loop context.
-{% endraw %}
+The default Handlebars loop helper is `{% raw %}{{#each}}{% endraw %}` .  We will replace it with `{% raw %}{{#iter}}{% endraw %}`.  It essentially copies the current implementation of the for loop and adds a few more parameters to the loop context.
 
 ```js
 Handlebars.registerHelper('iter', function(context, options) {
@@ -51,7 +48,7 @@ The key line is:
 fn(_.extend({}, context[i], { i: i, iPlus1: i + 1 }))
 ```
 
-`fn()` is the call to execute the block of the template surrounded by `{{#iter}}`.  We pass in `context[i]` as in the normal loop, but we extend it with `i` (the 0-based index) and `iPlus1` (for a 1-based index).
+`fn()` is the call to execute the block of the template surrounded by `{% raw %}{{#iter}}{% endraw %}`.  We pass in `context[i]` as in the normal loop, but we extend it with `i` (the 0-based index) and `iPlus1` (for a 1-based index).
 
 Here's an example usage:
 
