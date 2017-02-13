@@ -5,7 +5,13 @@ date: "2015-06-18"
 comments: true
 categories:
   - "Code"
-tags: [js, react, mocha, webpack, jsdom, unit-testing]
+tags:
+  - "js"
+  - "react"
+  - "mocha"
+  - "webpack"
+  - "jsdom"
+  - "unit-testing"
 description: Webpack's dev server for static assets can be quickly configured to handle JavaScript history api pushState.
 keywords: webpack, webpack-dev-server, pushState, history api, client router
 published: true
