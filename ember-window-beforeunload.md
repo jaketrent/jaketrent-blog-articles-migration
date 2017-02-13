@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Detecting Window Closing in Ember"
-date: 2014-03-17 08:04
+date: "2014-03-17"
 comments: true
 categories: [Code, ember, js]
 description: In a long-running app such as you might build in Ember, it can be useful to detect when the window is closing.

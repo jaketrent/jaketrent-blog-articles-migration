@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SORT Conf 2012"
-date: 2012-10-10 16:57
+date: "2012-10-10"
 comments: true
 categories: [Review, conf]
 ---

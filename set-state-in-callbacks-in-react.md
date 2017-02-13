@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Set State in Callbacks in React"
-date: 2014-06-23 08:30
+date: "2014-06-23"
 comments: true
 categories: [Code, js, react, superagent]
 description: Help your React components set state safely in callbacks
@@ -93,7 +93,7 @@ Also note that in my `end` function callback, I'm checking for the existence of 
 
 My favored method for solving the problem is the latter request abort method.  It feels cleaner that we're relying on the lifecycle functions of the component to deal with cleanup, much like we would for [events](http://facebook.github.io/react/tips/dom-event-listeners.html).  How have you dealt with this problem?
 
-## Update: Using ES6 Classes
+## Update: "Using"
 
 With React 0.13, you can define your components using the ES6 `class` definition.  These classes conspicuously change behavior from the old style of `React.createClass` in several ways.  Here are a couple that are relevant here:
 

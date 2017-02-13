@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Impressions of Grunt"
-date: 2012-12-12 14:24
+date: "2012-12-12"
 comments: true
 categories: [Code, js, grunt]
 description: My impressions of writing Grunt plugins and why one might want to.

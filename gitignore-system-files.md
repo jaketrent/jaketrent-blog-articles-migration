@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gitignore System Files"
-date: 2016-03-14 14:43
+date: "2016-03-14"
 comments: true
 categories: [Code]
 description: Ignore system files at the system level.  Keep your project clean.

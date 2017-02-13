@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Inner Joins in JPQL Delete Statements "
-date: 2009-04-29 11:46
+date: "2009-04-29"
 comments: true
 categories: [Code, hibernate, hql, jpa, jpql]
 description: I'm working on a project that utilizes JPA/Hibernate as its ORM.  I was writing a few named queries for an JPQL/HQL delete and was getting an SQLGrammarExce

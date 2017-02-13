@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Serve a Directory"
-date: 2012-06-06 14:14
+date: "2012-06-06"
 comments: true
 categories: [Code, ajax, http, python]
 description: Don't you hate developing a blasted simple webpage that does some asynchronous requests that gets you into cross-origin policy trouble.  If you just read a 

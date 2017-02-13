@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developer Relations for Internal Developers"
-date: 2012-09-26 16:50
+date: "2012-09-26"
 comments: true
 categories: [Productivity, career]
 ---

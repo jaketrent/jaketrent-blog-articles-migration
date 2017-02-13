@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Xquery Imports on MarkLogic"
-date: 2011-01-28 14:06
+date: "2011-01-28"
 comments: true
 categories: [Code, marklogic, maven, xquery]
 description: When a person looks at an Xquery module import, ... um, sorry... he usually gets distracted by something else before he can get to the semicolon at the end 

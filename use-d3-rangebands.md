@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Use D3 rangeBands"
-date: 2013-10-17 07:47
+date: "2013-10-17"
 comments: true
 categories: [Code, js, d3]
 description: When building a bar chart in d3, you could calculate your own bar widths and padding or you could have d3 do it for you

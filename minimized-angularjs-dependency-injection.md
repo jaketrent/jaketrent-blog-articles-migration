@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minimized AngularJs Dependency Injection"
-date: 2012-12-31 16:20
+date: "2012-12-31"
 comments: true
 categories: [Code, js, angularjs]
 description: I just minified my AngularJs code, and all my dependency injection broke.  I'm getting a "Unknown Provider" message.

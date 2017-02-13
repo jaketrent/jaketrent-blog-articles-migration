@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Update Body Class in React"
-date: 2015-09-23 15:31
+date: "2015-09-23"
 comments: true
 categories: [Code, js, react, css]
 description: React Components are self contained.  How can I reach out and modify the body tag from a React app.

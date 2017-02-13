@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Send Props to Children in React"
-date: 2014-08-12 16:55
+date: "2014-08-12"
 comments: true
 categories: [Code, js, react]
 description: Sometimes you'll want to pass properties from a parent component to children components.  Here's how to do it.

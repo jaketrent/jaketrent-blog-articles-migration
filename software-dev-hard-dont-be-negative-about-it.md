@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Software Dev is Hard -- Don't Be Negative About It"
-date: 2011-08-27 12:40
+date: "2011-08-27"
 comments: true
 categories: [Code, engineering, project-management]
 description: Is negativism between developers the norm?  Probably not, but it's common.  Do developers ever compliment each other?  Yes, but it sometimes seems rare.  Wh

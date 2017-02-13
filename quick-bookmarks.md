@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Quick Bookmarks"
-date: 2010-07-28 09:54
+date: "2010-07-28"
 comments: true
 categories: [Code, browser]
 description: For someone who spends mucho time daily on the interwebs, being able to jump around quickly is important -- both for focused productivity and ADD-inducing w

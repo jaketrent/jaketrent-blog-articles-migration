@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strange Loop and Elm Conf 2016 Review"
-date: 2016-09-20 11:38
+date: "2016-09-20"
 comments: true
 categories: [Review, conf]
 description: Strange Loop and Elm conf review and highlight notes from 2016.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bring Your Listeners With You"
-date: 2016-03-20 09:03
+date: "2016-03-20"
 comments: true
 categories: [Productivity, conf]
 description: When speaking and teaching, make sure to remember to bring your listeners with you.

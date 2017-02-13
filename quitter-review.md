@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quitter Review"
-date: 2013-01-03 07:26
+date: "2013-01-03"
 comments: true
 categories: [Review]
 description: When you're ready to quit your day job to pursue your dream job, think twice, and read this book.

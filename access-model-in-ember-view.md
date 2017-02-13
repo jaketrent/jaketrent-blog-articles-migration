@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Access Model in Ember View"
-date: 2013-07-01 07:39
+date: "2013-07-01"
 comments: true
 categories: [Code, js, ember]
 description: Ember views are used for event handling and creating web components.  To make them useful, model data has to make it in and out.

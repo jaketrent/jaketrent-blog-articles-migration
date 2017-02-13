@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Set Cookie on Rack Mock Request"
-date: 2015-01-21 10:58
+date: "2015-01-21"
 comments: true
 categories: [Code, ruby, rack, unit-testing]
 description: Add a cookie to mock requests in order to test your Rack app.

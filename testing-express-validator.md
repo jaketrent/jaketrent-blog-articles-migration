@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Express Validator"
-date: 2014-03-10 07:37
+date: "2014-03-10"
 comments: true
 categories: [Code, js, nodejs]
 description: Express-validator is a great library for validating input.  Here's how you might test code that uses it.

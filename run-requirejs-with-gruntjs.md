@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Run RequireJs with GruntJs"
-date: 2012-10-28 17:02
+date: "2012-10-28"
 comments: true
 categories: [Code, js, grunt, requirejs]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Slack Survival Guide"
-date: 2015-07-17 07:25
+date: "2015-07-17"
 comments: true
 categories: [Productivity, slack]
 description: Slack can be a great help.  If you're not careful, it can be a burden.  Manage with care.

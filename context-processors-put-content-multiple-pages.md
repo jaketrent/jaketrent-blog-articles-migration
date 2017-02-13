@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Context Processors Put Content On Multiple Pages"
-date: 2009-02-28 14:55
+date: "2009-02-28"
 comments: true
 categories: [Code, django, python]
 description: Make your django context processors dry.  

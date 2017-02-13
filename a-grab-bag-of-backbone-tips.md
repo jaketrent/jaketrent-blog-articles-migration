@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Grab Bag of Backbone Tips"
-date: 2012-10-09 16:56
+date: "2012-10-09"
 comments: true
 categories: [Code, js, backbone]
 ---

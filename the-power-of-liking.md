@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Power of Liking"
-date: 2015-04-23 21:50
+date: "2015-04-23"
 comments: true
 categories: [Productivity, dev-happiness]
 description: Liking the tech you use is ok, advantageous, and desireable

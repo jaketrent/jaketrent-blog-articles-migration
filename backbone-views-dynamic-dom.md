@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Backbone Views in a Dynamic DOM"
-date: 2011-12-29 15:58
+date: "2011-12-29"
 comments: true
 categories: [Code, js, jquery, backbonejs, requirejs]
 description: When you start writing applications with BackboneJS, that means that you're dealing with some dynamic UI.  There are elements being pushed into and pulled o

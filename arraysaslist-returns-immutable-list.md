@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Arrays.asList returns immutable List"
-date: 2009-04-29 08:29
+date: "2009-04-29"
 comments: true
 categories: [Code, java]
 description: I was having problems doing operations on a java.util.List object returned by Arrays.asList() method call.   The specific exception was a java.lang.Unsuppor

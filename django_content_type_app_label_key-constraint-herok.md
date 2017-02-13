@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "django_content_type_app_label_key Constraint on Heroku"
-date: 2011-12-30 13:30
+date: "2011-12-30"
 comments: true
 categories: [Code, django, python, heroku, postgres]
 description: Django comes with some awesome CLI tools.  Manage.py is a beast of magic and lore.  And it loves the fantastical kingdom of Heroku, where is romps with merr

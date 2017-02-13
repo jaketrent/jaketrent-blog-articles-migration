@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Loop Index in ui:repeat"
-date: 2009-02-20 13:56
+date: "2009-02-20"
 comments: true
 categories: [Code, a4j, facelets, jsf]
 description: Sometimes it's useful to know what the invariant value is for your loop within a facelets loop.  I use ui:repeat a lot, but have seen <a href="http://aprila

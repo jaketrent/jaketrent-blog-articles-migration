@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Depending on a Shared Lib"
-date: 2016-05-04 09:49
+date: "2016-05-04"
 comments: true
 categories: [Productivity, design]
 description: You're building a project that depends on a shared lib.  How will you evolve?

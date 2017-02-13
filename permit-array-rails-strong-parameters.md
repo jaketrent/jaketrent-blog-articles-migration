@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Permit Array in Rails Strong Parameters"
-date: 2014-01-22 11:19
+date: "2014-01-22"
 comments: true
 categories: [Code, ruby, rails]
 description: Exercism.io has great JavaScript exercises that are made better by a better test runner.  Use grunt-init to set up.

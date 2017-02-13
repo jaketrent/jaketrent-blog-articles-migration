@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "JSF ValidationError with Custom Converters"
-date: 2009-02-10 07:27
+date: "2009-02-10"
 comments: true
 categories: [Code, java, jsf]
 description: Here's an important tidbit...  JSF does not give any default validators for your data if you use a custom converter.  If you're getting a ValidationError ex

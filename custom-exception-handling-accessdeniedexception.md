@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Custom Exception Handling for AccessDeniedException"
-date: 2012-01-06 13:20
+date: "2012-01-06"
 comments: true
 categories: [Code, java, spring, exception-handling]
 description: Our app throws all sorts of exceptions.  Well, it doesn't usually.  It shouldn't normally.  Er... But, when it does we want to put in some handling so that 

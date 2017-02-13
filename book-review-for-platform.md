@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review for Platform"
-date: 2012-09-25 16:46
+date: "2012-09-25"
 comments: true
 categories: [Review, blog, entreprenuer]
 ---

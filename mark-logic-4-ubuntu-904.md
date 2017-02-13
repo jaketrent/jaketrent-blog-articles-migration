@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Mark Logic 4 on Ubuntu 9.04"
-date: 2009-06-04 08:00
+date: "2009-06-04"
 comments: true
 categories: [Code, linux, marklogic, ubuntu]
 description: Mark Logic Server seems to be the latest, greatest in content serve-up.  At least it is generating a lot of excitement at the LDS Church, where it's being u

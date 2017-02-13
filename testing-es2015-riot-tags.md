@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing es2015 Riot Tags"
-date: 2016-07-28 9:45
+date: "2016-07-28"
 comments: true
 categories: [Code, js, riot]
 description: How to test Riot.js tags that are written in es2015. 

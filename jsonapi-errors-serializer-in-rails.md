@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A JSON API Errors Serializer in Rails"
-date: 2014-12-04 10:11
+date: "2014-12-04"
 comments: true
 categories: [Code, rails, ruby, jsonapi]
 description: You can write a custom error serializer in rails to match something like jsonapi.

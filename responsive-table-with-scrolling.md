@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Responsive Table with Scrolling"
-date: 2012-11-07 17:06
+date: "2012-11-07"
 comments: true
 categories: [Code, Design, rwd, css]
 ---

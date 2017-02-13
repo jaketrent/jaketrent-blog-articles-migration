@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "MarkLogic Users Conference 2011 Impressions "
-date: 2011-05-02 13:35
+date: "2011-05-02"
 comments: true
 categories: [Code, confs, marklogic]
 description: I just returned from the MarkLogic Users Conference in San Francisco.  I had a good time.  I think the conference was worthwhile.  I'd go again, and I'd rec

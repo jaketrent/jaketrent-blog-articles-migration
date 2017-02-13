@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sinon Spies vs. Stubs"
-date: 2015-02-25 07:35
+date: "2015-02-25"
 comments: true
 categories: [Code, js, sinon, unit-testing]
 description: Sinon provides spies, stubs, mocks.  They're all useful as fakes in tests with essential differences.

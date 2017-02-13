@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Start Review"
-date: 2013-10-02 07:54
+date: "2013-10-02"
 comments: true
 categories: [Review]
 description: Want to have an awesome life?  Start today and find it.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setup Slim on Sinatra"
-date: 2013-02-19 07:34
+date: "2013-02-19"
 comments: true
 categories: [Code, ruby, sinatra, slim, rails]
 description: Sinatra is quick.  Slim templates are quick.  Together, Slim fits Sinatra quite nicely.

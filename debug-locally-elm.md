@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Debug Locally in Elm"
-date: 2015-11-28 14:39
+date: "2015-11-28"
 comments: true
 categories: [Code, elm]
 keywords: elm, debug, time traveling, locally, watch

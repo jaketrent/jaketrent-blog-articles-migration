@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Destroy Duplicate Tests"
-date: 2014-11-05 16:59
+date: "2014-11-05"
 comments: true
 categories: [Code, tdd, functional-testing, unit-testing]
 description: Don't write duplicate tests.  If you have duplicates, destroy them.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stub Dependencies in Node Without Proxyquire"
-date: 2016-09-29 6:30
+date: "2016-09-29"
 comments: true
 categories: [Code, js, unit-testing, nodejs]
 description: How to stub your own dependencies in node without using a library like proxyquire

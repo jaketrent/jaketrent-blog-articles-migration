@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DateTime in F#"
-date: 2017-01-04 11:11
+date: "2017-01-04"
 comments: true
 categories: [Code, dotnet, fsharp, functional-programming]
 description: Should I use DateTime or DateTimeOffset for Utc or local time in F#?

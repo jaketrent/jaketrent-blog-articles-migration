@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Backbone Inheritance"
-date: 2011-12-14 11:40
+date: "2011-12-14"
 comments: true
 categories: [Code, js, backbonejs, requirejs]
 description: Backbone has a great inheritance mechanism.  It's as easy as Backbone.Model.extend().  This much is obvious.  Let's try a few other things.

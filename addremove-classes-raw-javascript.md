@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Add/Remove Classes with Raw Javascript"
-date: 2010-05-19 10:19
+date: "2010-05-19"
 comments: true
 categories: [Code, js, jquery]
 description: Jquery and other sweeto js frameworks have some awesomeness to help you change the css classes of various elements on the page with ease and grace.  They ha

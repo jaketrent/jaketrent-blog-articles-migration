@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Access NodeJs App on Xip.io"
-date: 2013-04-23 07:22
+date: "2013-04-23"
 comments: true
 categories: [Code, ruby, nodejs, js]
 description: Xip.io is a DNS wildcard initially created for use on Ruby projects.  It makes development much nicer in some respects, so it's worth a few steps to get working on a NodeJs project.
@@ -15,7 +15,7 @@ Xip.io is a DNS wildcard domain that was initially created for use on Ruby proje
 
 <!--more-->
 
-## Update: Proxying is Built Into Pow
+## Update: "Proxying"
 
 After having a handful of problems with these home-grown proxies, my search eventually led me to know that Pow 0.4.0+ includes proxying as a built-in feature.  So, you don't need your own `config.ru` any more.  Once you install pow, choose the port that your app will run on and at what pow address you want to access your app, and run one command in your terminal:
 

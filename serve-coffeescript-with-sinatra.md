@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Serve CoffeeScript from Sinatra"
-date: 2013-02-20 16:39
+date: "2013-02-20"
 comments: true
 categories: [Code, ruby, sinatra, coffeescript]
 description: CoffeeScript is nice.  Sinatra is nice.  Get Sinatra to serve your nice CoffeeScript.

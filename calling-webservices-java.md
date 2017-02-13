@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Calling Webservices in Java"
-date: 2011-12-30 14:54
+date: "2011-12-30"
 comments: true
 categories: [Code, java, security, tomcat, webservice, ssl]
 description: In Java Land, everything is tied up in multiple layers of multi-colored wrapping paper.  The abstraction often provides niceties and protections and conveni

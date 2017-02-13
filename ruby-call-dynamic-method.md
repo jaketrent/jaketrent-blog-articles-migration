@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call Dynamic Method in Ruby"
-date: 2013-11-25 07:10
+date: "2013-11-25"
 comments: true
 categories: [Code, ruby]
 description: Sometimes it's useful to be able to call a different method in your code at runtime depending on a parameter.  Ruby easily does the job.

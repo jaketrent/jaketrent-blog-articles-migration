@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Hibernate Boolean Conversion"
-date: 2008-10-09 14:14
+date: "2008-10-09"
 comments: true
 categories: [Code, hibernate, jpa, orm]
 description: The object-relational mapping world of JPA and Hibernate has made a lot of things really nice and easy.  As with any framework of this sort, however, it bec

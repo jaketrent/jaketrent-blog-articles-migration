@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Authenticated Supertest Tests"
-date: 2013-01-14 07:07
+date: "2013-01-14"
 comments: true
 categories: [Code, js, mocha, supertest, superagent]
 description: Integration tests against authenticated urls will require a login first.  Here's a way to maintain your session in your supertest tests.

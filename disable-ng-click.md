@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disable ngClick"
-date: 2013-08-14 07:53
+date: "2013-08-14"
 comments: true
 categories: [Code, js, angularjs]
 description: ngClicks can go on anything.  Your program might require that they be disabled at certain points.  Here's an easy directive to help.

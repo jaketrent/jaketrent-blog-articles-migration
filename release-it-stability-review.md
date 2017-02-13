@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Release It! Stability Review"
-date: 2009-08-18 07:37
+date: "2009-08-18"
 comments: true
 categories: [Review, functional-testing, requirements]
 description: I recently read Release It! by Michael Nygard.  I became interested in this book when the NFJS 2008 panel cited it as their #1 suggested read.  In my view, 

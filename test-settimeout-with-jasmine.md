@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Test setTimeout with Jasmine"
-date: 2013-05-15 07:08
+date: "2013-05-15"
 comments: true
 categories: [Code, js, jasmine, underscore]
 keywords: javascript, settimeout, setinterval, debounce, throttle, underscore, test, jasmine, mock, clock

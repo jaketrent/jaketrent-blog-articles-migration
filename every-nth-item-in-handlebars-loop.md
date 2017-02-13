@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Every nth Item in Handlebars Loop"
-date: 2012-10-03 16:55
+date: "2012-10-03"
 comments: true
 categories: [Code, js, handlebars]
 ---

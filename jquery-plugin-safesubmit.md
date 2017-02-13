@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Jquery Plugin: safesubmit"
-date: 2010-06-28 14:07
+date: "2010-06-28"
 comments: true
 categories: [Code, ajax, js, jquery, plugins]
 description: Jquery gives a great, easy-to-use mechanism for extending its API and creating your own plugins.  For stuff that looks like it could be useful generally, yo

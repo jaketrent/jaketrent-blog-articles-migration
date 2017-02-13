@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Intellij Maven Source Downloads"
-date: 2008-11-24 14:04
+date: "2008-11-24"
 comments: true
 categories: [Code, intellij, maven]
 description: Debugging time is a blessed time in one's day where the hotkeys for continue, step into, step over, and others often grace the pads of the programmer's fing

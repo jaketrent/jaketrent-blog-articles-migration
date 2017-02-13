@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mocha Testing AngularJs Dependency Injection"
-date: 2013-01-02 16:48
+date: "2013-01-02"
 comments: true
 categories: [Code, js, angularjs, mocha]
 description: When you test your AngularJs code, you need to explicitly inject the services your controllers and modules require.

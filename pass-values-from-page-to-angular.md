@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pass Values From the Page to AngularJs"
-date: 2013-02-22 07:10
+date: "2013-02-22"
 comments: true
 categories: [Code, angularjs, js]
 description: Bootstrap your Angular script with data from your page.

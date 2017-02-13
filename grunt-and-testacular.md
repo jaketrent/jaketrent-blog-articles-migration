@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grunt and Testacular"
-date: 2012-11-06 17:05
+date: "2012-11-06"
 comments: true
 categories: [Code, js, grunt, testacular]
 ---

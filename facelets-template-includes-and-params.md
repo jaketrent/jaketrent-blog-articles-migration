@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Facelets Template Includes and Params"
-date: 2009-03-24 07:36
+date: "2009-03-24"
 comments: true
 categories: [Code, facelets, java, jsf]
 description: Facelets is a great template framework that sits on top of JSF.  They have some fun template includes and parameters that you can pass into the included tem

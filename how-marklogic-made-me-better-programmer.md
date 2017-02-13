@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How MarkLogic Made Me a Better Programmer"
-date: 2013-08-08 09:01
+date: "2013-08-08"
 comments: true
 categories: [Productivity, marklogic, xquery]
 description: MarkLogic was a very new experience for me.  I don't program in it these days, but it helped me become a better programmer.

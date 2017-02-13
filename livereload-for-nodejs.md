@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LiveReload for NodeJs"
-date: 2013-04-23 16:44
+date: "2013-04-23"
 comments: true
 categories: [Code, nodejs, js, grunt]
 description: Livereload allows you to make code changes and see your changes in the browser without refreshing.

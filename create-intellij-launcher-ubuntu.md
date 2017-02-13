@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Create an IntelliJ Launcher in Ubuntu"
-date: 2011-06-20 13:26
+date: "2011-06-20"
 comments: true
 categories: [Code, intellij, linux, ubuntu]
 description: IntelliJ IDEA is a great development environment.  I enjoy it very much.  It complements the OS of pleasure, Linux.

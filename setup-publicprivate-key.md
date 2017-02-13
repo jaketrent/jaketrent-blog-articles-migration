@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Setup Public/Private Key"
-date: 2012-07-19 14:14
+date: "2012-07-19"
 comments: true
 categories: [Code, encryption, networking, ssh]
 description: When you connect to a remote server, you're connecting over ssh or scp or a similar protocol.  In each case, you may have to provide some authentication cre

@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Dynamically Require Optimized Modules in RequireJs"
-date: 2012-07-12 08:36
+date: "2012-07-12"
 comments: true
 categories: [Code, js, requirejs]
 description: Often when building a single-page app, you'll want to optimize all your js into a single asset.  RequireJs is a great mechanism for managing your js depende

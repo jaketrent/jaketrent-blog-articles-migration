@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cons of CSS Preprocessors"
-date: 2012-11-14 09:20
+date: "2012-11-14"
 comments: true
 categories: [Code, css, less, stylus, sass]
 description: They're awesome, but CSS preprocessors come with a few cons.  Don't dump your preprocessor, just work through the cons.

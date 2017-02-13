@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Test-driven Development on MarkLogic"
-date: 2011-10-11 19:46
+date: "2011-10-11"
 comments: true
 categories: [Code, marklogic, tdd, unit-testing, xquery]
 description: Unit testing is a required part of a healthy software development lifecycle and a balanced breakfast.  But test-driven development is a rockin' part of an *

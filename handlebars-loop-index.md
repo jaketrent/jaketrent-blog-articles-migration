@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Handlebars For-Loop Index"
-date: 2012-05-27 21:48
+date: "2012-05-27"
 comments: true
 categories: [Code, js, handlebars]
 description: HandlebarsJs is a great Javascript templating engine.  It's pretty much Mustache templates on steriods -- or Rogaine or something like that.  Well, there's 
@@ -12,7 +12,7 @@ published: true
 HandlebarsJs is a great Javascript templating engine.  It's pretty much Mustache templates on steriods -- or Rogaine or something like that.  Well, there's a great for loop, but it'd be cool if it had a loop index built in.  It doesn't have one as of the current version (1.0.0.beta.6).  But, we can make an easy helper.
 <!--more-->
 
-## Update: Native method
+## Update: "Native"
 
 Thanks to a bit of looking, Zander (see comment thread below), has discovered that Handlebars [now supports a native loop index accessor called `@index`](https://github.com/wycats/handlebars.js/issues/250#issuecomment-9514811).  And there's a [jsfiddle to prove it](http://jsfiddle.net/mpetrovich/gER9M/).  Thanks, Zander.
 

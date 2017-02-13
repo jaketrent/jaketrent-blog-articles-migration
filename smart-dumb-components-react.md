@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart and Dumb Components in React"
-date: 2016-02-17 08:55
+date: "2016-02-17"
 comments: true
 categories: [Code, js, react, redux]
 description: Some thoughts on how to identify and split smart and dumb components in React.

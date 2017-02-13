@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "JSF Won't Submit Null in ui:repeat"
-date: 2008-12-11 14:23
+date: "2008-12-11"
 comments: true
 categories: [Code, facelets, jsf]
 description: It stinks when your jsf components don't do what they're supposed to or even what they usually do.    This was the case with my h:inputText field when tryin

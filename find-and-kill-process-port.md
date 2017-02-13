@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Find and Kill a Process on a Port"
-date: 2012-06-20 09:49
+date: "2012-06-20"
 comments: true
 categories: [Code, bash]
 description: Have you ever tried to start up a local dev server and attach it to a port only to find that the port says it's already in use.  Here's a quick way to find 

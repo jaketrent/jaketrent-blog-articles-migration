@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In Favor of Codenames"
-date: 2015-09-03 09:29
+date: "2015-09-03"
 comments: true
 categories: [Productivity, team, passion]
 description: Be happy, use codenames on your project.

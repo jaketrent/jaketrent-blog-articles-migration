@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Django loaddata on Heroku"
-date: 2011-11-20 09:45
+date: "2011-11-20"
 comments: true
 categories: [Code, django, python, heroku]
 description: Django's manage.py script comes with some great utilitarian commands.  Two of my favorites are dumpdata and loaddata.  I've used these commands recently to 
@@ -69,7 +69,7 @@ heroku run python manage.py loaddata data.json
   
 If it all works, your data fixtures should be found and you should see a confirmation message that they were loaded into the db.  Just like a dream.  The only thing that would make it better is if you never had to commit data.json at all.  Too bad Heroku couldn't pick up local file input like it can pick up STDIN in a 'heroku run' command!
 
-Update: Force Next Push
+Update: "Force"
 -------------------------------
 
 Also note that if you continue to commit to git locally on future enhancements to your app and then want to push again to Heroku, you'll likely get an error message:

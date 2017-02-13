@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developing an Ember Edge Review"
-date: 2014-01-23 11:19
+date: "2014-01-23"
 comments: true
 categories: [Review, js, ember]
 description: Developing an Ember Edge is a great, current intro to Ember.js book.  Go! Go away.  Read some books.

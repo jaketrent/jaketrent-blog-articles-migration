@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Crystal Reports in Ubuntu Linux"
-date: 2008-11-07 14:19
+date: "2008-11-07"
 comments: true
 categories: [Code, crystal-reports, linux, ubuntu]
 description: All over the net, there are questions asked about running Crystal Reports in Linux.  This isn't a solution for running Crystal in Linux per se, but running 

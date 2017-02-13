@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Count number of characters w/ SQL"
-date: 2009-04-30 07:12
+date: "2009-04-30"
 comments: true
 categories: [Code, oracle, sql]
 description: There's no pre-defined method to count the number of occurrences of a certain character in a database table column using SQL.  There's a quick and dirty way

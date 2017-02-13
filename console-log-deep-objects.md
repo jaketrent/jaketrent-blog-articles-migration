@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Console.log Deep Objects"
-date: 2016-03-14 15:13
+date: "2016-03-14"
 comments: true
 categories: [Code, js, nodejs]
 description: Deep objects need some extra help to log all their contents

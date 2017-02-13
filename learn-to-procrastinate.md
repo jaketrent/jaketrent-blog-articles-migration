@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learn to Procrastinate"
-date: 2013-06-10 06:57
+date: "2013-06-10"
 comments: true
 categories: [Productivity]
 description: Sometimes we want everything we could imagine in our software at once.  Learn to procrastinate what is less important.

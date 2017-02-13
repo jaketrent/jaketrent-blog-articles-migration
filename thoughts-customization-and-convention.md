@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Thoughts on Customization and Convention"
-date: 2011-03-11 10:16
+date: "2011-03-11"
 comments: true
 categories: [Code, convention, customization, project-management]
 description: There is an epic balancing act in software today, fought between customization and convention.  When to build, when to buy?  When to create new solutions or

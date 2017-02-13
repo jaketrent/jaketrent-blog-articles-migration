@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruby CLI Options Parsing"
-date: 2015-02-24 07:21
+date: "2015-02-24"
 comments: true
 categories: [Code, ruby]
 description: Making a CLI tool in Ruby is made more straightforward with an OptionParser in stdlib.

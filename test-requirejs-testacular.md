@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Test RequireJs Code in Testacular"
-date: 2012-10-31 17:04
+date: "2012-10-31"
 comments: true
 categories: [Code, js, requirejs, testacular, mocha]
 ---

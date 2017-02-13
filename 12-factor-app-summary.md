@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"12-Factor App\" Summary"
-date: 2015-02-28 16:20
+date: "2015-02-28"
 comments: true
 categories: [Review, deployment]
 description: My take on the 12factor.net Principles

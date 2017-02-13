@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Expose Fields via Java Reflection"
-date: 2009-06-08 13:29
+date: "2009-06-08"
 comments: true
 categories: [Code, java, reflection, unit-testing]
 description: For unit testing purposes, I often want to set field values in objects so that I can setup for the test conditions.  One of most annoying things about testi
@@ -18,7 +18,7 @@ import java.lang.reflect.Field;
     
 /**
  * @author: jtsnake
- * @date: Jun 3, 2009
+ * @date: "Jun"
  */
 public class ReflectionUtil {
     

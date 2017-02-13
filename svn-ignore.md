@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "SVN Ignore"
-date: 2008-11-23 14:20
+date: "2008-11-23"
 comments: true
 categories: [Code, svn, vcs]
 description: In projects that create project meta data or compiled class files in the same directory as source, svn commits can be particularly cluttered with those file

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The JakeTrent.com Logo"
-date: 2012-10-15 16:59
+date: "2012-10-15"
 comments: true
 categories: [Design, art, illustrator, branding]
 ---

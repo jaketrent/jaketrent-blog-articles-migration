@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using JavaScript's Function Bind"
-date: 2015-06-26 07:51
+date: "2015-06-26"
 comments: true
 categories: [Code, js, bind, react]
 description: JavaScript's Function.prototype.bind is a great tool to give you control over the this keyword.

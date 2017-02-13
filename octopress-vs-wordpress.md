@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Octopress vs. WordPress"
-date: 2012-11-12 16:42
+date: "2012-11-12"
 comments: true
 categories: [Announcment, blog, php, ruby, octopress]
 description: Octopress vs. WordPress.  Which should I use for my blog?  I chose WordPress first, then went to Octopress.  Here are some points of comparison.

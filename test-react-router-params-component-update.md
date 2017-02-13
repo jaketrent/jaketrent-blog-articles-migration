@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Test React-Router Previous Params for Component Update"
-date: 2015-02-09 15:39
+date: "2015-02-09"
 comments: true
 categories: [Code, js, react, react-router]
 description: To examine react-router's current and next url in your component, you'll have to store some state.

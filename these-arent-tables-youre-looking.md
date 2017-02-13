@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "These Aren't the Tables You're Looking For"
-date: 2008-10-14 14:15
+date: "2008-10-14"
 comments: true
 categories: [Code, oracle, sql]
 description: Sometimes you have a large database schema and a lot of tables that you're not sure what they contain.  You do know, however, the nature of the data'ific ne

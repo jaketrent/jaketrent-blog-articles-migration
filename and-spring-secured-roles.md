@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "'And' Spring @Secured Roles"
-date: 2012-01-06 10:30
+date: "2012-01-06"
 comments: true
 categories: [Code, security, spring, aop]
 description: Spring Security (previously Acegi) gives you an awesome AOP way of locking down methods in your Java application.  And well-placed <a href="http://www.youtu

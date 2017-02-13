@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "List Npm Scripts"
-date: 2015-03-02 07:44
+date: "2015-03-02"
 comments: true
 categories: [Code, js, npm, nodejs]
 description: A CLI tool that will help you list available npm scripts to run.

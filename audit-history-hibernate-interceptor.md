@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Audit History with Hibernate Interceptor"
-date: 2008-10-20 14:17
+date: "2008-10-20"
 comments: true
 categories: [Code, hibernate, java, orm]
 description: Our goal is to create a history audit tool that fires automatically, tracks only selected fields, categorizes those fields, and saves old vs. new data.

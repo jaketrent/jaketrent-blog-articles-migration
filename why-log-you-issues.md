@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Log Your Issues"
-date: 2013-01-10 07:06
+date: "2013-01-10"
 comments: true
 categories: [Productivity, git, communication]
 description: Why log issues for the project you're working on?  There are many reasons.  Here are a few.

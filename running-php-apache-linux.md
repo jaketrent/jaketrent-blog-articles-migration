@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Running Php in Apache on Linux"
-date: 2008-10-15 14:15
+date: "2008-10-15"
 comments: true
 categories: [Code, apache, linux, php, ubuntu]
 description: I haven't done php for a while, but at work our prototypes are in html/php.  So, I needed to get Apache webserver downloaded and working on my Linux box wit

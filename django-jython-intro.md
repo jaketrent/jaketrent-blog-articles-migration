@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Django on Jython Intro"
-date: 2010-01-14 17:28
+date: "2010-01-14"
 comments: true
 categories: [Code, django, java, jython, python]
 description: Here is a "new and shiney" presentation for running Django on Jython.  It's based on my experiences with the <a href="http://wiki.python.org/jython/DjangoOn

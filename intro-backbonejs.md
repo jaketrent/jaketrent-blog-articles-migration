@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Intro to BackboneJs"
-date: 2012-03-30 09:32
+date: "2012-03-30"
 comments: true
 categories: [Code, js, jquery, backbonejs]
 description: BackboneJs is a great resource for creating rich UIs.  Rich means interactive.  Interactivity grows when the client can do more of the work of an applicatio

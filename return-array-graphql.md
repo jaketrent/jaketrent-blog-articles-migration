@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Return an Array in GraphQL"
-date: 2016-08-16 10:15
+date: "2016-08-16"
 comments: true
 categories: [Code, js, graphql]
 description: How to return an array or a single item from Facebook's graphql

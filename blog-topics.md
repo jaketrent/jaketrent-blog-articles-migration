@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog Topics"
-date: 2012-10-22 17:01
+date: "2012-10-22"
 comments: true
 categories: [Announcement, blog]
 ---

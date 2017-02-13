@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "PNG Gamma Correction Woes"
-date: 2010-06-21 09:59
+date: "2010-06-21"
 comments: true
 categories: [Code, images, png]
 description: PNG was a file format that, among the original reasons for conception, was created to show the same color over different computers, with different OS's, and

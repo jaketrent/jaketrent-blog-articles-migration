@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Organize NodeJs Routes"
-date: 2012-10-02 16:52
+date: "2012-10-02"
 comments: true
 categories: [Code, js, nodejs, express]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Behavior of CoffeeScript Fat Arrow"
-date: 2013-07-01 07:39
+date: "2013-07-01"
 comments: true
 categories: [Code, js, ember]
 description: CoffeeScript functions are defined with arrows.  Fat arrow provides special function binding.

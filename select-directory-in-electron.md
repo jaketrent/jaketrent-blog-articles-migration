@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Selecting a Directory in Electron"
-date: 2016-03-21 10:12
+date: "2016-03-21"
 comments: true
 categories: [Code, js, electron]
 description: Two ways to select a directory to open in Electron

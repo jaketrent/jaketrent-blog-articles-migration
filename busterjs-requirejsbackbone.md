@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "BusterJs with RequireJs/Backbone"
-date: 2012-07-25 14:42
+date: "2012-07-25"
 comments: true
 categories: [Code, js, unit-testing, backbonejs, requirejs]
 description: BusterJs is a still-in-beta library that allows for testing your Javascript.  It's got a wealth of cool features.  The browser capturing is awesome for runn

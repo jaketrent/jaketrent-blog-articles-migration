@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Application Audio Control in Ubuntu"
-date: 2008-11-18 13:56
+date: "2008-11-18"
 comments: true
 categories: [Code, linux, ubuntu]
 description: I love the volume control scheme for Vista that allows one to adjust the volume on a per-application basis.  It turns out that this functionality is also av

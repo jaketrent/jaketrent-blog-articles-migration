@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Find django-admin.py"
-date: 2009-09-03 07:49
+date: "2009-09-03"
 comments: true
 categories: [Code, bash, django, python]
 description: django-admin.py is a utility script that is used by django to start projects, etc.  Sometimes, it seems that it's available to me in the terminal.  At other

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Test React componentWillReceiveProps"
-date: 2015-02-26 08:34
+date: "2015-02-26"
 comments: true
 categories: [Code, js, react, unit-testing]
 description: Testing the componentWillReceiveProps of a React component will take some setup.

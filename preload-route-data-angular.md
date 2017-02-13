@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Preload Route Data in Angular"
-date: 2013-08-13 08:10
+date: "2013-08-13"
 comments: true
 categories: [Code, js, angularjs]
 description: It's sometimes useful to preload/resolve data previous to your Angular view being displayed.  Such was the case recently for our current user object.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Make Your Project Fun"
-date: 2016-04-06 07:16
+date: "2016-04-06"
 comments: true
 categories: [Productivity, teams]
 description: Don't wait to make your software project fun.

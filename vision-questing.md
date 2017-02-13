@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Vision Questing We Will Go"
-date: 2015-08-10 20:34
+date: "2015-08-10"
 comments: true
 categories: [Productivity, Leadership]
 description: Find the vision of what work you think is most important to do

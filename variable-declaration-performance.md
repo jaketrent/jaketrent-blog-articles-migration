@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Variable Declaration Performance"
-date: 2009-09-02 11:52
+date: "2009-09-02"
 comments: true
 categories: [Code, java, performance]
 description: Often when coding, we use a single local variable multiple times, overwriting the value many times.  It is considered good practice to move the variable out

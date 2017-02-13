@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Animating a Line in D3"
-date: 2015-07-27 07:01
+date: "2015-07-27"
 comments: true
 categories: [Code, js, d3]
 description: D3 makes awesome charts, made awesomer by animations.  Make your lines animate!

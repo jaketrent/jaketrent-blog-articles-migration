@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notify NewRelic of Error on UncaughtException"
-date: 2016-09-27 09:50
+date: "2016-09-27"
 comments: true
 categories: [Code, js, monitoring, nodejs]
 description: When your app goes down, call newrelic.notifyError with enough time to send

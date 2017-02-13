@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Change Your Node Script Without Restarting"
-date: 2012-10-03 16:54
+date: "2012-10-03"
 comments: true
 categories: [Code, js, nodejs]
 ---

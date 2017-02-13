@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ember Dynamic Classes"
-date: 2013-08-02 13:02
+date: "2013-08-02"
 comments: true
 categories: [Code, js, ember]
 description: Get your UI to show classes based on the state of your Ember models.

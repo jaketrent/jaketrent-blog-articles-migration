@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fluent Conf Review"
-date: 2016-03-15 06:37
+date: "2016-03-15"
 comments: true
 categories: [Review, conf]
 description: Fluent Conf was a great mix of web tech talk and inspiration.

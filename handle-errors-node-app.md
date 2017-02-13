@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Handle Errors in a Node App"
-date: 2016-08-23 16:34
+date: "2016-08-23"
 comments: true
 categories: [Code, js, express, nodejs]
 description: How to handle 3 types of errors in an Express API in Node.

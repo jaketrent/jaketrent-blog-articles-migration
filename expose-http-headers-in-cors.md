@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Expose HTTP Headers in CORS"
-date: 2014-09-15 09:42
+date: "2014-09-15"
 comments: true
 categories: [Code, cors, http, superagent, rails]
 description: If you don't see your HTTP response header in the browser, check your CORS policy.  It's likely the culprit.

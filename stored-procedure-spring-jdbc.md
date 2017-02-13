@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Stored Procedures in Spring Jdbc"
-date: 2011-12-21 14:33
+date: "2011-12-21"
 comments: true
 categories: [Code, ioc, java, oracle, spring]
 description: In addition to some sweet Inversion of Control injection action, Spring brings flowers and baby deer.  And it brings some nice database connection help.  Sp

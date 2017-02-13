@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Read Request Body in Spring Bean"
-date: 2012-11-27 14:10
+date: "2012-11-27"
 comments: true
 categories: [Code, java, spring, http]
 description: Want to read the body of a request within a Spring bean?  It takes a surprising amount of code.

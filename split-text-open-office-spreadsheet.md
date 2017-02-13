@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Split Text in Open Office Spreadsheet"
-date: 2009-08-27 13:31
+date: "2009-08-27"
 comments: true
 categories: [Code, open-office]
 description: Sometimes I paste text into a spreadsheet so that I can quickly manipulate it.  The same could be done with a small script, but this particular feature is b

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ng-Conf Review"
-date: 2014-01-24 07:22
+date: "2014-01-24"
 comments: true
 categories: [Review, js, angularjs, conf]
 description: Ng-Conf was the first Angular conference.  It was rockin.  Let's do it again!

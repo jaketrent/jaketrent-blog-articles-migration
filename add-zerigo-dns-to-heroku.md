@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Add Zerigo DNS to Heroku"
-date: 2013-12-31 07:03
+date: "2013-12-31"
 comments: true
 categories: [Code, heroku, dns]
 description: Heroku has a great addon to setup DNS routing for you called Zerigo.  Here's help where the docs fail.

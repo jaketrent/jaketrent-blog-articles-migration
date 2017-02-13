@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agile Designers"
-date: 2012-10-15 17:00
+date: "2012-10-15"
 comments: true
 categories: [Productivity, Design, team]
 ---

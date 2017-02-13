@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Pass Parameters to Jquery Event Functions"
-date: 2009-09-08 14:06
+date: "2009-09-08"
 comments: true
 categories: [Code, js, jquery, souit]
 description: Jquery has some awesome event-handling abilities.  The elusive ability to pass parameters into these event callbacks seems way harder than it should be.  Ne

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mountain West JavaScript Review"
-date: 2014-03-25 11:45
+date: "2014-03-25"
 comments: true
 categories: [Review, js, conf]
 description: MountainWest JavaScript was a great conference for JS last week in Utah.  Here's my take.

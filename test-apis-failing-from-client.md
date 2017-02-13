@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Test APIs Failing from Client"
-date: 2016-01-25 13:54
+date: "2016-01-25"
 comments: true
 categories: [Code, js, testing]
 description: A quick tip to make your APIs fail and test client error handling.

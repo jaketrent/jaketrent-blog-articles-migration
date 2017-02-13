@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Document Viewer in the Shell"
-date: 2008-10-08 14:12
+date: "2008-10-08"
 comments: true
 categories: [Code, linux, pdf, ubuntu]
 description: For me, one of the major draws for Linux is the oh-so-awesome bash shell.  I also like the default pdf viewer for Ubuntu.  I always forget that this thing i

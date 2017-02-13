@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grunt-init Exercism.io"
-date: 2014-01-03 07:07
+date: "2014-01-03"
 comments: true
 categories: [Code, js, grunt]
 description: Exercism.io has great JavaScript exercises that are made better by a better test runner.  Use grunt-init to set up.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Https Redirect for Node on Heroku"
-date: 2013-02-26 07:33
+date: "2013-02-26"
 comments: true
 categories: [Code, js, nodejs, heroku, express]
 description: Make a NodeJs app on Heroku redirect to an https address when it is not using one.

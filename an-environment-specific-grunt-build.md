@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Environment-specific Grunt Build"
-date: 2012-10-28 17:03
+date: "2012-10-28"
 comments: true
 categories: [Code, js, grunt]
 ---

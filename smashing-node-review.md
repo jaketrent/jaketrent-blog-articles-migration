@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smashing Node Review"
-date: 2013-01-29 16:51
+date: "2013-01-29"
 comments: true
 categories: [Review, js, nodejs]
 description: Smashing Node is a pretty good book.  Here's what I thought I learned about Node.js while reading it.

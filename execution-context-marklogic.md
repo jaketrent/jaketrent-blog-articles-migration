@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Execution Context in MarkLogic"
-date: 2011-03-11 13:38
+date: "2011-03-11"
 comments: true
 categories: [Code, marklogic, xquery]
 description: Have you ever needed to know the location of the actual file that houses the code that's currently executing?  Well, if you have then you're not alone.  I h

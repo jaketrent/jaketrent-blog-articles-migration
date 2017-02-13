@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Change Maven JDK"
-date: 2009-09-21 12:46
+date: "2009-09-21"
 comments: true
 categories: [Code, java, maven]
 description: Sometimes you want Maven to compile your code with a different JDK than is the one assigned to your JAVA_HOME.  For instance, I have code in a project that 

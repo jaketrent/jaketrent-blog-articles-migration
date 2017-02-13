@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "EasyMock Cause-Effect Exception Mapping"
-date: 2009-07-06 09:36
+date: "2009-07-06"
 comments: true
 categories: [Code, easymock, java, unit-testing]
 description: EasyMock is a great tool for separating external dependencies from unit tests.  There is a learning curve to learning the mock method of testing, and unfort

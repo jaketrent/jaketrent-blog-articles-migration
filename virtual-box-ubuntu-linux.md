@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Virtual Box on Ubuntu Linux"
-date: 2008-11-19 13:58
+date: "2008-11-19"
 comments: true
 categories: [Code, linux, ubuntu, virtualbox, vm]
 description: As awesome as Linux is, I still have moments where I want something from the Windows world.  Shy of putting a whole dual-booted partition on my harddrive, I

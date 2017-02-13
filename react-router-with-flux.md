@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "React-Router with Flux"
-date: 2015-01-15 09:21
+date: "2015-01-15"
 comments: true
 categories: [Code, js, react, react-router]
 description: react-router routing and flux data display needs a bit of glue to work well together.

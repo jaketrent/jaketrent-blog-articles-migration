@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I Chose a WordPress Blog"
-date: 2012-09-25 16:49
+date: "2012-09-25"
 comments: true
 categories: [Announcement, wordpress, blog, php]
 ---

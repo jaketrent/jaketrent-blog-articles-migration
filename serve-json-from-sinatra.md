@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Serve Json from Sinatra"
-date: 2013-02-26 07:18
+date: "2013-02-26"
 comments: true
 categories: [Code, ruby, sinatra, js]
 description: Your Sinatra webservice can be made to serve json quite easily.

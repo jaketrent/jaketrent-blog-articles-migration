@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Synergy on Ubuntu"
-date: 2010-01-04 10:01
+date: "2010-01-04"
 comments: true
 categories: [Code, linux, synergy, ubuntu]
 description: <a href="http://synergy2.sourceforge.net/" target="_blank">Synergy</a> is a fantastic project that allows you to share a single set of input devices (keyboa

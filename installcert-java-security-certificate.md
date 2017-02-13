@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "InstallCert for Java Security Certificate"
-date: 2009-09-16 09:39
+date: "2009-09-16"
 comments: true
 categories: [Code, java, linux, security, ubuntu]
 description: Sometimes you need to install a security certificate for authentication to work for certain services -- services that are accessed by your java application 

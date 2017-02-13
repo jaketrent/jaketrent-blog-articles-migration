@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Naming Anonymous JavaScript Functions"
-date: 2013-01-17 07:10
+date: "2013-01-17"
 comments: true
 categories: [Code, js]
 description: In JavaScript, functions can be defined and used in the same statement.  These are anonymous, but labeling them can be helpful.

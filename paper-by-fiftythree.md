@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paper by FiftyThree"
-date: 2012-10-14 16:58
+date: "2012-10-14"
 comments: true
 categories: [Review, Design, ios, art]
 ---

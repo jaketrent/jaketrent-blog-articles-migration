@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Cross-Domain RequireJs Text"
-date: 2012-06-07 13:11
+date: "2012-06-07"
 comments: true
 categories: [Code, ajax, browser, js, requirejs, cors]
 description: Through long-available browser quirks/features, javascript has been available for requests across disparate domains.  But, other resources, such as text fil

@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Jquery Plugin: readmore"
-date: 2010-06-28 12:46
+date: "2010-06-28"
 comments: true
 categories: [Code, js, jquery, plugins]
 description: Jquery plugins are a joy to use, and they are surprisingly easy to write.  Everyone that writes lots of Jquery code should seek to take potentially-resuable

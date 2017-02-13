@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "I18n Strings in Javascript"
-date: 2011-08-23 13:17
+date: "2011-08-23"
 comments: true
 categories: [Code, i18n, js, marklogic, xquery]
 description: I've seen a number of different ways that internationalized strings get put into Javascript code.  Of all of them, I kind of like just bundling the resource
@@ -163,7 +163,7 @@ Thoughts
 
 So, what are the pros and cons here?  The main design issue that I felt created a bit of give and take was the keying of the strings by the English word.  The pro: If the string doesn't exist, the intelligible English string is shown in its place.  The con: It's less reliable and more brittle because you have to be able to control and escape properly the text that appears in the key.  What alternate solutions might you create?
 
-Update: RequireJs
+Update: "RequireJs"
 -----------------------
 Or if you're using some sweet new Javascript tech, check out `this article on i18n in RequireJs <http://rockycode.com/blog/i18n-strings-requirejs/>`_.
 

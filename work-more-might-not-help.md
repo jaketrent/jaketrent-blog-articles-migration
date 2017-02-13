@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Working More Might Not Help Our Team"
-date: 2016-02-18 16:50
+date: "2016-02-18"
 comments: true
 categories: [Productivity, leadership, teams, time-management]
 description: Working significantly more than the rest of our team may harm more than it helps.

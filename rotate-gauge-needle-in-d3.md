@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rotate Gauge Needle in D3"
-date: 2013-09-27 06:52
+date: "2013-09-27"
 comments: true
 keywords: rotate, triangle, d3, svg
 categories: [Code, js, coffeescript, d3, svg]

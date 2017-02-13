@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So Good They Can't Ignore You"
-date: 2013-07-17 22:35
+date: "2013-07-17"
 comments: true
 categories: [Review, Productivity]
 description: So Good They Can't Ignore You, a book by Cal Newport debunks for the follow your passion mindset and helps you find the job you'll love.

@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Pipe stdout to SocketIO"
-date: 2012-07-20 13:32
+date: "2012-07-20"
 comments: true
 categories: [Code, bash, js, nodejs, websockets]
 description: When you run a shell script or some other process from NodeJs and want to get the output in a stream to a client, you can redirect or pipe the output from t

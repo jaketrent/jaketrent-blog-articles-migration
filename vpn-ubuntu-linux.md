@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "VPN on Ubuntu Linux"
-date: 2008-11-23 14:03
+date: "2008-11-23"
 comments: true
 categories: [Code, linux, ubuntu, vpn]
 description: It is one of the nicest things to be able to work remotely.  Almost all my jobs have allowed this.  My current job allows it on a limited basis as well.  It

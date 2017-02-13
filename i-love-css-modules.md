@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Love CSS Modules"
-date: 2015-08-25 11:03
+date: "2015-08-25"
 comments: true
 categories: [Code, css, icss, react]
 description: CSS Modules will make your styling life, maybe the world, so much better!

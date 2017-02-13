@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Debug.log in Elm Pipes"
-date: 2016-12-15 9:32
+date: "2016-12-15"
 comments: true
 categories: [Code, js, elm, debugging]
 description: How to print to the console when piping data in Elm

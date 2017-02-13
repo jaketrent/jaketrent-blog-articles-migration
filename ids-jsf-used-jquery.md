@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Id's from JSF, used in jQuery"
-date: 2008-11-22 13:58
+date: "2008-11-22"
 comments: true
 categories: [Code, js, jquery, jsf]
 description: For our view layer on our current project at work, we use JSF/Facelets + some jQuery goodness.  I have found that at some times these two tech's have a hard

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GruntJs Access to package.json"
-date: 2012-10-25 17:02
+date: "2012-10-25"
 comments: true
 categories: [Code, js, grunt, npm]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JavaScript Mixins"
-date: 2013-09-06 10:37
+date: "2013-09-06"
 comments: true
 categories: [Code, js]
 description: JavaScript makes mixins inherently easy.  Here are a few methods.

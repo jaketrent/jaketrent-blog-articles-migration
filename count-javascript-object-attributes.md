@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Count Attributes in JavaScript Object"
-date: 2012-11-29 13:11
+date: "2012-11-29"
 comments: true
 categories: [Code, js]
 description: How do you find the number of attributes in a JS object?  Turns out there's not a fantastic way to do it

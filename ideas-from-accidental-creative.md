@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ideas From The Accidental Creative"
-date: 2014-12-10 14:27
+date: "2014-12-10"
 comments: true
 categories: [Review, productivity, creativity]
 description: The Accidental Creative book has many good ideas for productivity and creativity

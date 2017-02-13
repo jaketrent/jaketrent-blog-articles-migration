@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Django Intro Presentation"
-date: 2009-10-14 05:02
+date: "2009-10-14"
 comments: true
 categories: [Code, django, python]
 description: At Sort 2009, a technical conference at the LDS Church, I gave a presentation on my favorite all-in-one web framework, Django.  It's a great tool, and here'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Make Software in the Estuary"
-date: 2015-08-20 10:06
+date: "2015-08-20"
 comments: true
 categories: [Productivity, Leadership, collaboration, team]
 description: Make software in the estuary, in a mix of disciplines, training, and collaboration

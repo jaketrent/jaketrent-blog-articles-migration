@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bower Resolutions"
-date: 2014-05-29 07:18
+date: "2014-05-29"
 comments: true
 categories: [Code, js, bower]
 description: Sometimes there are different versions that bower packages rely on.  You can save your resolution choices in bower.json

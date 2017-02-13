@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When to Use Curlies in Angular Directives"
-date: 2013-06-24 17:03
+date: "2013-06-24"
 comments: true
 categories: [Code, js, angularjs]
 description: Angularjs has some sweet built-in directives.  Sometimes it can be confusing when to use the curly braces around expressions in directive attributes and when not to.  Here are a couple rules.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "React Rally Review"
-date: 2015-08-27 09:03
+date: "2015-08-27"
 comments: true
 categories: [Review, react]
 description: React Rally was a great React.js conference in Salt Lake City, UT.

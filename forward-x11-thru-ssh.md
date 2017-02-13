@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Forward X11 Thru SSH"
-date: 2009-09-22 11:39
+date: "2009-09-22"
 comments: true
 categories: [Code, ssh, xserver]
 description: SSH is a great protocol that allows secure connections to remote systems.  It's easy to use, gives you terminal access to the system in question and allows 

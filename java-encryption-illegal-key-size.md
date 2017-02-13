@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Java Encryption - Illegal Key Size"
-date: 2011-04-04 11:07
+date: "2011-04-04"
 comments: true
 categories: [Code, encryption, java]
 description: By default, Java has a limit on the length of your encryption key.  The limit, by default 128-bit, seems a little small and dated.  So, let's break through 
