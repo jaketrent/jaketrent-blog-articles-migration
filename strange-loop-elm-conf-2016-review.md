@@ -5,7 +5,8 @@ date: "2016-09-20"
 comments: true
 categories:
   - "Review"
-tags: [conf]
+tags:
+  - "conf"
 description: Strange Loop and Elm conf review and highlight notes from 2016.
 keywords: elm, clojure, conf, peabody, st. louis, emerging languages, interesting conf
 published: true

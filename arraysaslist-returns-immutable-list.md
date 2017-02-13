@@ -6,7 +6,8 @@ date: "2009-04-29"
 comments: true
 categories:
   - "Code"
-tags: [java]
+tags:
+  - "java"
 description: I was having problems doing operations on a java.util.List object returned by Arrays.asList() method call.   The specific exception was a java.lang.Unsuppor
 keywords: java
 published: true

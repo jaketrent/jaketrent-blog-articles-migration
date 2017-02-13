@@ -6,7 +6,8 @@ date: "2009-09-30"
 comments: true
 categories:
   - "Code"
-tags: [networking]
+tags:
+  - "networking"
 description: I had some fun this morning when the headless box that I'm ssh'ing into to do test app runs randomly changed IP address.  My goal was to find it on the netw
 keywords: networking
 published: true

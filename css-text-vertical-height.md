@@ -5,7 +5,8 @@ date: "2013-06-03"
 comments: true
 categories:
   - "Code"
-tags: [css]
+tags:
+  - "css"
 description: Setting up text elements to be a specific height is usually straight forward.  Here is the list of attributes that affect the height.
 keywords: js, css, vertical height, line-height, height
 published: true

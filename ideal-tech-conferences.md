@@ -6,7 +6,8 @@ date: "2010-07-12"
 comments: true
 categories:
   - "Code"
-tags: [confs]
+tags:
+  - "confs"
 description: It seems that in the IT, there are many, many conferences offered every year that people are invited to attend in order to glean something of use.  Which ar
 keywords: confs
 published: true

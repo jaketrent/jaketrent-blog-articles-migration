@@ -6,7 +6,8 @@ date: "2012-06-20"
 comments: true
 categories:
   - "Code"
-tags: [bash]
+tags:
+  - "bash"
 description: Have you ever tried to start up a local dev server and attach it to a port only to find that the port says it's already in use.  Here's a quick way to find 
 keywords: bash
 published: true

@@ -5,7 +5,8 @@ date: "2016-04-06"
 comments: true
 categories:
   - "Productivity"
-tags: [teams]
+tags:
+  - "teams"
 description: Don't wait to make your software project fun.
 keywords: fun, have fun, project, teams, morale
 published: true

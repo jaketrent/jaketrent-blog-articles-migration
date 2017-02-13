@@ -5,7 +5,8 @@ date: "2012-11-29"
 comments: true
 categories:
   - "Code"
-tags: [js]
+tags:
+  - "js"
 description: How do you find the number of attributes in a JS object?  Turns out there's not a fantastic way to do it
 keywords: js, javascript attributes, count js attributes
 published: true

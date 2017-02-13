@@ -5,7 +5,8 @@ date: "2015-02-25"
 comments: true
 categories:
   - "Quote"
-tags: [learning]
+tags:
+  - "learning"
 description: The life of a programmer is mostly a never-ending struggle.
 keywords: learning, struggle, programming
 published: true

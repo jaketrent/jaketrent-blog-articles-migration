@@ -5,7 +5,8 @@ date: "2015-02-28"
 comments: true
 categories:
   - "Review"
-tags: [deployment]
+tags:
+  - "deployment"
 description: My take on the 12factor.net Principles
 keywords: 12 factor app, 12 factors, architecture, deployment, summary
 published: true

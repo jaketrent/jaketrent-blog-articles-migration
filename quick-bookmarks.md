@@ -6,7 +6,8 @@ date: "2010-07-28"
 comments: true
 categories:
   - "Code"
-tags: [browser]
+tags:
+  - "browser"
 description: For someone who spends mucho time daily on the interwebs, being able to jump around quickly is important -- both for focused productivity and ADD-inducing w
 keywords: browser, web
 published: true

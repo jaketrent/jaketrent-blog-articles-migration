@@ -5,7 +5,8 @@ date: "2013-09-06"
 comments: true
 categories:
   - "Code"
-tags: [js]
+tags:
+  - "js"
 description: JavaScript makes mixins inherently easy.  Here are a few methods.
 published: true
 ---
