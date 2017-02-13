@@ -6,7 +6,11 @@ date: "2011-12-21"
 comments: true
 categories:
   - "Code"
-tags: [ioc, java, oracle, spring]
+tags:
+  - "ioc"
+  - "java"
+  - "oracle"
+  - "spring"
 description: In addition to some sweet Inversion of Control injection action, Spring brings flowers and baby deer.  And it brings some nice database connection help.  Sp
 keywords: ioc, java, oracle, spring
 published: true

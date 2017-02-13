@@ -6,7 +6,11 @@ date: "2011-05-06"
 comments: true
 categories:
   - "Code"
-tags: [browser, http, marklogic, xquery]
+tags:
+  - "browser"
+  - "http"
+  - "marklogic"
+  - "xquery"
 description: If you've created an internationalized website lately, you've probably implemented some sort of language chooser widget in your site ui to allow your users 
 keywords: browser, http, marklogic, xquery
 published: true

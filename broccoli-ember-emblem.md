@@ -5,7 +5,11 @@ date: "2014-05-30"
 comments: true
 categories:
   - "Code"
-tags: [js, broccoli, ember, emblem]
+tags:
+  - "js"
+  - "broccoli"
+  - "ember"
+  - "emblem"
 description: Make broccoli compile your emblem templates so they're ready for your ember app.
 keywords: js, ember, emblem, handlebars, broccoli
 published: true

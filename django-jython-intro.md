@@ -6,7 +6,11 @@ date: "2010-01-14"
 comments: true
 categories:
   - "Code"
-tags: [django, java, jython, python]
+tags:
+  - "django"
+  - "java"
+  - "jython"
+  - "python"
 description: Here is a "new and shiney" presentation for running Django on Jython.  It's based on my experiences with the <a href="http://wiki.python.org/jython/DjangoOn
 keywords: django, java, jython, python
 published: true

@@ -6,7 +6,11 @@ date: "2008-09-22"
 comments: true
 categories:
   - "Code"
-tags: [java, js, jquery, jsf]
+tags:
+  - "java"
+  - "js"
+  - "jquery"
+  - "jsf"
 description: What a journey of discovery!  I haven't done much many-to-many relationship management in JSF.  Django makes it quite easy.  But at work recently, I did it 
 keywords: java, javascript, jquery, jsf
 published: true

@@ -5,7 +5,11 @@ date: "2013-02-26"
 comments: true
 categories:
   - "Code"
-tags: [js, nodejs, heroku, express]
+tags:
+  - "js"
+  - "nodejs"
+  - "heroku"
+  - "express"
 description: Make a NodeJs app on Heroku redirect to an https address when it is not using one.
 keywords: js, nodejs, node, heroku, https, https redirect, express
 published: true

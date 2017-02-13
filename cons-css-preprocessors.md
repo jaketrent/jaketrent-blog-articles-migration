@@ -5,7 +5,11 @@ date: "2012-11-14"
 comments: true
 categories:
   - "Code"
-tags: [css, less, stylus, sass]
+tags:
+  - "css"
+  - "less"
+  - "stylus"
+  - "sass"
 description: They're awesome, but CSS preprocessors come with a few cons.  Don't dump your preprocessor, just work through the cons.
 keywords: css preprocessor, css, less, stylus, sass
 published: true
