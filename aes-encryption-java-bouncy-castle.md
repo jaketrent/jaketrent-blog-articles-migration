@@ -6,7 +6,12 @@ date: "2011-04-12"
 comments: true
 categories:
   - "Code"
-tags: [aes, encryption, java, tomcat, wireshark]
+tags:
+  - "aes"
+  - "encryption"
+  - "java"
+  - "tomcat"
+  - "wireshark"
 description: Recently, I've been working on a project where I've tried to use AES encryption for the first time.  I didn't have to implement it myself, thank goodness, b
 keywords: aes, bouncy castle, encryption, java, tomcat, wireshark
 published: true

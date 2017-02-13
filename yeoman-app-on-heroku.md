@@ -5,7 +5,12 @@ date: "2013-04-23"
 comments: true
 categories:
   - "Code"
-tags: [heroku, yeoman, nodejs, js, grunt]
+tags:
+  - "heroku"
+  - "yeoman"
+  - "nodejs"
+  - "js"
+  - "grunt"
 description: Yeoman will generate a static site.  Make a few changes, and you can have it running on Heroku.
 keywords: heroku, yeoman, nodejs, javascript, grunt
 published: true

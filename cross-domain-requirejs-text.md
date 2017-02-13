@@ -6,7 +6,12 @@ date: "2012-06-07"
 comments: true
 categories:
   - "Code"
-tags: [ajax, browser, js, requirejs, cors]
+tags:
+  - "ajax"
+  - "browser"
+  - "js"
+  - "requirejs"
+  - "cors"
 description: Through long-available browser quirks/features, javascript has been available for requests across disparate domains.  But, other resources, such as text fil
 keywords: ajax, browser, javascript, requirejs, cors
 published: true

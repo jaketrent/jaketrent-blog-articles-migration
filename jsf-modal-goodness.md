@@ -6,7 +6,12 @@ date: "2008-11-30"
 comments: true
 categories:
   - "Code"
-tags: [hibernate, jquery, jsf, seam, spring]
+tags:
+  - "hibernate"
+  - "jquery"
+  - "jsf"
+  - "seam"
+  - "spring"
 description: Meet the new web.  The simpler the better. The cleaner the better.  The more pleasing the colors the better.  The fuzzier feelings the better.  The latest f
 keywords: hibernate, jquery, jsf, seam, spring
 published: true

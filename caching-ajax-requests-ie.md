@@ -6,7 +6,12 @@ date: "2010-04-08"
 comments: true
 categories:
   - "Code"
-tags: [ajax, ie, java, js, xquery]
+tags:
+  - "ajax"
+  - "ie"
+  - "java"
+  - "js"
+  - "xquery"
 description: Have you ever had a problem with ajax requests caching in Internet Explorer.  I have, and recently I came across a nicer solution than I have traditionally 
 keywords: ajax, ie, java, javascript, xquery
 published: true
