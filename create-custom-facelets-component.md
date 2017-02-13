@@ -4,7 +4,9 @@ layout: post
 title: "Create Custom Facelets Component"
 date: "2009-02-20"
 comments: true
-categories: [Code, facelets, java, jsf]
+categories:
+  - "Code"
+tags: [facelets, java, jsf]
 description: Facelets is a great addition to jsf.  It is very extensible, and it makes creating custom components even easier.  It's fantastic.  This is almost TOO easy.
 keywords: facelets, java, jsf
 published: true

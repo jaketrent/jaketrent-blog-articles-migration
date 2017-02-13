@@ -3,7 +3,9 @@ layout: post
 title: "Strange Loop and Elm Conf 2016 Review"
 date: "2016-09-20"
 comments: true
-categories: [Review, conf]
+categories:
+  - "Review"
+tags: [conf]
 description: Strange Loop and Elm conf review and highlight notes from 2016.
 keywords: elm, clojure, conf, peabody, st. louis, emerging languages, interesting conf
 published: true

@@ -3,7 +3,9 @@ layout: post
 title: "List Npm Scripts"
 date: "2015-03-02"
 comments: true
-categories: [Code, js, npm, nodejs]
+categories:
+  - "Code"
+tags: [js, npm, nodejs]
 description: A CLI tool that will help you list available npm scripts to run.
 keywords: npm, scripts, node, rake -T, list scripts, cli
 published: true

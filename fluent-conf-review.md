@@ -3,7 +3,9 @@ layout: post
 title: "Fluent Conf Review"
 date: "2016-03-15"
 comments: true
-categories: [Review, conf]
+categories:
+  - "Review"
+tags: [conf]
 description: Fluent Conf was a great mix of web tech talk and inspiration.
 keywords: fluent, fluent conf, web tech, web conf
 published: true

@@ -4,7 +4,9 @@ layout: post
 title: "Find network hosts with nmap"
 date: "2009-09-30"
 comments: true
-categories: [Code, networking]
+categories:
+  - "Code"
+tags: [networking]
 description: I had some fun this morning when the headless box that I'm ssh'ing into to do test app runs randomly changed IP address.  My goal was to find it on the netw
 keywords: networking
 published: true

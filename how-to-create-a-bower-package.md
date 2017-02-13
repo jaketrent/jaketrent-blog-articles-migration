@@ -3,7 +3,9 @@ layout: post
 title: "How to Create a Bower Package"
 date: "2013-09-05"
 comments: true
-categories: [Code, js, bower]
+categories:
+  - "Code"
+tags: [js, bower]
 description: Bower is a client-side package manager.  To make it really useful, package your own components.  Here's how.
 published: true
 ---

@@ -4,7 +4,9 @@ layout: post
 title: "SVN Comment Editor"
 date: "2008-11-26"
 comments: true
-categories: [Code, svn, vcs]
+categories:
+  - "Code"
+tags: [svn, vcs]
 description: Comments are essential to Subversion checkins.  A good text editor is essential to a good comment.  Here's how to set the editor of your choice to pop up wh
 keywords: svn, vcs
 published: true

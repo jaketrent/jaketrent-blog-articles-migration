@@ -3,7 +3,9 @@ layout: post
 title: "D3 Class Operations"
 date: "2014-12-24"
 comments: true
-categories: [Code, d3, js, svg]
+categories:
+  - "Code"
+tags: [d3, js, svg]
 description: D3 has class operations like addClass, hasClass, removeClass, and toggleClass.
 keywords: d3, js, svg, addClass, removeClass, hasClass, toggleClass, jquery
 published: true

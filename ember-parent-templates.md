@@ -3,7 +3,9 @@ layout: post
 title: "Ember Parent Templates"
 date: "2013-05-29"
 comments: true
-categories: [Code, js, ember, handlebars, emblem]
+categories:
+  - "Code"
+tags: [js, ember, handlebars, emblem]
 description: Ember's convention of template hierarchy is very specific.  Learn it once, and you'll know it every time.
 keywords: js, coffeescript, javascript, ember, emblem, handlebars, template hierarchy, parent template
 published: true

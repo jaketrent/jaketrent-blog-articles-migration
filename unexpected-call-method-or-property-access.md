@@ -4,7 +4,9 @@ layout: post
 title: "Unexpected call to method or property access"
 date: "2009-12-18"
 comments: true
-categories: [Code, ie, js, browser]
+categories:
+  - "Code"
+tags: [ie, js, browser]
 description: In a recent admin tool I was creating, I was using SOUIT of Javascript... apparently more than I knew how to write well.  Eventually, it all worked wonderfu
 keywords: ie, javascript, web-browser
 published: true

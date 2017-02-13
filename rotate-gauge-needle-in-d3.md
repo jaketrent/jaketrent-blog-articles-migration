@@ -4,7 +4,9 @@ title: "Rotate Gauge Needle in D3"
 date: "2013-09-27"
 comments: true
 keywords: rotate, triangle, d3, svg
-categories: [Code, js, coffeescript, d3, svg]
+categories:
+  - "Code"
+tags: [js, coffeescript, d3, svg]
 description: If you want to make a gauge chart in S3, you'll need a needle on your gauge.  It's not hard to draw a triangle, but here's the extra work to rotate it.
 published: true
 ---

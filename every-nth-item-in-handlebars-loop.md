@@ -3,7 +3,9 @@ layout: post
 title: "Every nth Item in Handlebars Loop"
 date: "2012-10-03"
 comments: true
-categories: [Code, js, handlebars]
+categories:
+  - "Code"
+tags: [js, handlebars]
 ---
 
 Have you ever wanted to do something special every nth time through a Handlebars loop?  The built-in `{% raw %}{{#each}}{% endraw %}` will loop through your items just fine.  It lacks a few features.  For one, you don't have access to the loop index, though you can [find it](http://rockycode.com/blog/handlebars-loop-index/).  Without the index and simple comparisons like modulus, length of the array, and equals, you'll be creating your own Handlebars helpers.  Here's an example of one.

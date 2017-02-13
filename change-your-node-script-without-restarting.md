@@ -3,7 +3,9 @@ layout: post
 title: "Change Your Node Script Without Restarting"
 date: "2012-10-03"
 comments: true
-categories: [Code, js, nodejs]
+categories:
+  - "Code"
+tags: [js, nodejs]
 ---
 
 Have you every wished you could change your node script and not restart the server?  Restarting your node server after changing your script can get annoying.  This is especially true if you're in guess and check mode, changing and checking a lot.  Luckily, there are a few tools to save you the pain.

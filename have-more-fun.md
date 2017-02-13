@@ -3,7 +3,9 @@ layout: post
 title: "Have More Fun"
 date: "2013-03-19"
 comments: true
-categories: [Productivity, fun]
+categories:
+  - "Productivity"
+tags: [fun]
 description: It goes without saying, but we forget.  If you're having fun, you'll like what you're doing.
 keywords: fun, happiness, workplace fun, career
 published: true

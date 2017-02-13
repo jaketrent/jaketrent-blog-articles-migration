@@ -3,7 +3,9 @@ layout: post
 title: "In Favor of Codenames"
 date: "2015-09-03"
 comments: true
-categories: [Productivity, team, passion]
+categories:
+  - "Productivity"
+tags: [team, passion]
 description: Be happy, use codenames on your project.
 keywords: project, coordination, codenames, team name, project name, fun
 published: true

@@ -3,7 +3,9 @@ layout: post
 title: "Change Default NPM License"
 date: "2016-03-24"
 comments: true
-categories: [Code, js, npm]
+categories:
+  - "Code"
+tags: [js, npm]
 description: Change your npm defaults for npm init
 keywords: npm init, npm init defaults, npm license
 published: true

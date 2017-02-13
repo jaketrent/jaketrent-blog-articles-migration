@@ -3,7 +3,9 @@ layout: post
 title: "React Rally Review"
 date: "2015-08-27"
 comments: true
-categories: [Review, react]
+categories:
+  - "Review"
+tags: [react]
 description: React Rally was a great React.js conference in Salt Lake City, UT.
 keywords: react, conf, react.js, elm, functional programming conference
 published: true

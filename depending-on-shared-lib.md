@@ -3,7 +3,9 @@ layout: post
 title: "Depending on a Shared Lib"
 date: "2016-05-04"
 comments: true
-categories: [Productivity, design]
+categories:
+  - "Productivity"
+tags: [design]
 description: You're building a project that depends on a shared lib.  How will you evolve?
 keywords: shared lib, dependencies, autonomy, independence, teams, open source
 published: true

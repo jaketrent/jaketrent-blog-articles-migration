@@ -3,7 +3,9 @@ layout: post
 title: "Save a Gem to Gemfile from Terminal"
 date: "2013-11-18"
 comments: true
-categories: [Code, ruby, rubygem]
+categories:
+  - "Code"
+tags: [ruby, rubygem]
 description: Add a gem to your gemfile without opening the file.  Do it straight from your terminal
 keywords: ruby, gem, gemfile, gemrat, gem install save
 published: true

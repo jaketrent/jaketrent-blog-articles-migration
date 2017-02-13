@@ -3,7 +3,9 @@ layout: post
 title: "Test Angular Directive With Isolate Scope"
 date: "2013-08-21"
 comments: true
-categories: [Code, js, jasmine, angularjs]
+categories:
+  - "Code"
+tags: [js, jasmine, angularjs]
 description: Directives with isolate scope do not inherit their scope from their parent.  Thus, the pattern to test them is slightly different.
 published: true
 ---

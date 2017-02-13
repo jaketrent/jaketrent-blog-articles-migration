@@ -4,7 +4,9 @@ layout: post
 title: "Jasmine Unit Testing with RequireJS"
 date: "2011-12-21"
 comments: true
-jscategories: [Code, js, nginx, unit-testing, requirejs, jasmine]
+jscategories:
+  - "Code"
+tags: [js, nginx, unit-testing, requirejs, jasmine]
 description: As more application logic gets pushed into the browser for client-heavy apps, the need for javascript testing increases.  Lately, I've been doing some Jasmi
 keywords: javascript, nginx, unit-testing, requirejs, jasmine
 published: true

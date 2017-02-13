@@ -4,7 +4,9 @@ layout: post
 title: "ConcurrentModificationException Within One Thread"
 date: "2009-05-12"
 comments: true
-categories: [Code, concurrency, java]
+categories:
+  - "Code"
+tags: [concurrency, java]
 description: I at first thought it odd that a ConcurrentModificationException could be thrown w/in the context of a single Thread.  But, what do you know, it can!  And I
 keywords: concurrency, java
 published: true

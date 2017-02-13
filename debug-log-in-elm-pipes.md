@@ -3,7 +3,9 @@ layout: post
 title: "Debug.log in Elm Pipes"
 date: "2016-12-15"
 comments: true
-categories: [Code, js, elm, debugging]
+categories:
+  - "Code"
+tags: [js, elm, debugging]
 description: How to print to the console when piping data in Elm
 keywords: js, elm, debug, debug.log, console.log
 published: true

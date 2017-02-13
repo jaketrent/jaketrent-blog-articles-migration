@@ -3,7 +3,9 @@ layout: post
 title: "Console.log Deep Objects"
 date: "2016-03-14"
 comments: true
-categories: [Code, js, nodejs]
+categories:
+  - "Code"
+tags: [js, nodejs]
 description: Deep objects need some extra help to log all their contents
 keywords: js, console.log, inspect, depth, deep,
 published: true

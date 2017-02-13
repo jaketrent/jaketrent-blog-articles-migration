@@ -3,7 +3,9 @@ layout: post
 title: "I Love CSS Modules"
 date: "2015-08-25"
 comments: true
-categories: [Code, css, icss, react]
+categories:
+  - "Code"
+tags: [css, icss, react]
 description: CSS Modules will make your styling life, maybe the world, so much better!
 keywords: css modules, webpack, css-loader, modules, local modules, icss, interoperable css
 published: true

@@ -3,7 +3,9 @@ layout: post
 title: "Determining the Health of Your Culture"
 date: "2016-03-21"
 comments: true
-categories: [Productivity, leadership, culture]
+categories:
+  - "Productivity"
+tags: [leadership, culture]
 description: Here's a simple test to determine if your company's culture is as healthy as you think it is
 keywords: health check, culture check, maintain culture, company culture, clay christensen
 published: true

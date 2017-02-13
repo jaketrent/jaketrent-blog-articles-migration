@@ -3,7 +3,9 @@ layout: post
 title: "Test RequireJs Code in Testacular"
 date: "2012-10-31"
 comments: true
-categories: [Code, js, requirejs, testacular, mocha]
+categories:
+  - "Code"
+tags: [js, requirejs, testacular, mocha]
 ---
 
 Did you write your source code as JavaScript AMD modules in [RequireJs](http://requirejs.org/)?  Do you want to test them in real browsers?  Do you want the flexibility of using [Mocha](http://visionmedia.github.com/mocha/) or [Jasmine](http://pivotal.github.com/jasmine/)?  This is the moment you've been waiting for.

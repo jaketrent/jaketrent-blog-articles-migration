@@ -3,7 +3,9 @@ layout: post
 title: "Remove Mobile Safari Click Delay"
 date: "2013-06-24"
 comments: true
-categories: [Code, js]
+categories:
+  - "Code"
+tags: [js]
 description: Mobile Safari, by default, delays click events.  To make your site more responsive, remove this delay.
 keywords: js, mobile safari, click event, delay, slow, mobile browser delay, click delay
 published: true

@@ -3,7 +3,9 @@ layout: post
 title: "Run RequireJs with GruntJs"
 date: "2012-10-28"
 comments: true
-categories: [Code, js, grunt, requirejs]
+categories:
+  - "Code"
+tags: [js, grunt, requirejs]
 ---
 
 RequireJs features a fantastic optimization tool, [r.js](http://requirejs.org/docs/optimization.html), that utilizes [UglifyJs](https://github.com/mishoo/UglifyJS) to minimize and concatenate your JavaScript code.  [Grunt](http://gruntjs.com/) is a build tool that is great for standardizing your build configuration and coordinating multiple build steps -- amongst its other wonders.  Hopefully you get to use both on your project, because they'll both make your development process smoother and leave you to the funnerest stuff -- writing sweet apps.

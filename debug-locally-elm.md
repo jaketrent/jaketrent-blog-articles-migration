@@ -3,7 +3,9 @@ layout: post
 title: "Debug Locally in Elm"
 date: "2015-11-28"
 comments: true
-categories: [Code, elm]
+categories:
+  - "Code"
+tags: [elm]
 keywords: elm, debug, time traveling, locally, watch
 description: Debugging in Elm is easy once you know where to look
 published: true

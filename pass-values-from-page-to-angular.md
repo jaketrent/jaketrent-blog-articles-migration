@@ -3,7 +3,9 @@ layout: post
 title: "Pass Values From the Page to AngularJs"
 date: "2013-02-22"
 comments: true
-categories: [Code, angularjs, js]
+categories:
+  - "Code"
+tags: [angularjs, js]
 description: Bootstrap your Angular script with data from your page.
 keywords: angularjs, js, bootstrap, data passing, server-side page rendering
 published: true

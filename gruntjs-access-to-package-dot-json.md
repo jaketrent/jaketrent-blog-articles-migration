@@ -3,7 +3,9 @@ layout: post
 title: "GruntJs Access to package.json"
 date: "2012-10-25"
 comments: true
-categories: [Code, js, grunt, npm]
+categories:
+  - "Code"
+tags: [js, grunt, npm]
 ---
 
 Have you used GruntJs to build your JavaScript project yet?  It's a great tool.  Often as a part of the build configuration, you'll want to access your package.json with grunt.  Grunt has some built-in support for this.  Some bits can be a little tricky, and some plugins have limited support.  Here are some ways around all that.

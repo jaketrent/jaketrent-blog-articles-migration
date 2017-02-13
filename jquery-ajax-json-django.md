@@ -4,7 +4,9 @@ layout: post
 title: "Jquery, Ajax, Json on Django"
 date: "2011-01-27"
 comments: true
-categories: [Code, ajax, django, django-piston, jquery-templates, json, sammyjs]
+categories:
+  - "Code"
+tags: [ajax, django, django-piston, jquery-templates, json, sammyjs]
 description: Jquery, Ajax, Json, Django -- this is quite a laundry list of technologies.  In fact, it's pretty much the whole stack.
 keywords: ajax, django, django-piston, jquery-templates, json, sammyjs
 published: true

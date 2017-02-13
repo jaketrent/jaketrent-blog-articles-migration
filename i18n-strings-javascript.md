@@ -4,7 +4,9 @@ layout: post
 title: "I18n Strings in Javascript"
 date: "2011-08-23"
 comments: true
-categories: [Code, i18n, js, marklogic, xquery]
+categories:
+  - "Code"
+tags: [i18n, js, marklogic, xquery]
 description: I've seen a number of different ways that internationalized strings get put into Javascript code.  Of all of them, I kind of like just bundling the resource
 keywords: i18n, javascript, marklogic, xquery
 published: true

@@ -3,7 +3,9 @@ layout: post
 title: "Access NodeJs App on Xip.io"
 date: "2013-04-23"
 comments: true
-categories: [Code, ruby, nodejs, js]
+categories:
+  - "Code"
+tags: [ruby, nodejs, js]
 description: Xip.io is a DNS wildcard initially created for use on Ruby projects.  It makes development much nicer in some respects, so it's worth a few steps to get working on a NodeJs project.
 keywords: nodejs, xip.io, pow, powder, ruby
 published: true

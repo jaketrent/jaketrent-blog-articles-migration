@@ -3,7 +3,9 @@ layout: post
 title: "Debug Ruby and Rails"
 date: "2013-11-14"
 comments: true
-categories: [Code, ruby, rails]
+categories:
+  - "Code"
+tags: [ruby, rails]
 description: Interactive debugging is a nice dev tool to have.  It's easy to get in Ruby with a debugger gem.
 keywords: ruby, rails, debugger, interactive debugging, debug
 published: true

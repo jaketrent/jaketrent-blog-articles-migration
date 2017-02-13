@@ -3,7 +3,9 @@ layout: post
 title: "Set State in Callbacks in React"
 date: "2014-06-23"
 comments: true
-categories: [Code, js, react, superagent]
+categories:
+  - "Code"
+tags: [js, react, superagent]
 description: Help your React components set state safely in callbacks
 keywords: js, react, components, setState, componentWillUnmount, componentDidMount, unmounted
 published: true

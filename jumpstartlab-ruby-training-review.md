@@ -3,7 +3,9 @@ layout: post
 title: "Jumpstart Lab Ruby Training Review"
 date: "2013-02-19"
 comments: true
-categories: [Review, ruby, rails]
+categories:
+  - "Review"
+tags: [ruby, rails]
 description: Jumpstart Lab offers a Ruby and Rails training.  I participated.  Here's what I thought.
 keywords: jumpstart lab, ruby, ruby on rails, rails, training, franklin webber
 published: true

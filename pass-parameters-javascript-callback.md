@@ -4,7 +4,9 @@ layout: post
 title: "Pass Parameters to Javascript Callback"
 date: "2009-09-09"
 comments: true
-categories: [Code, js, jquery, souit]
+categories:
+  - "Code"
+tags: [js, jquery, souit]
 description: Callback functions are a nice feature of Javascript.  It's nice to be able to just use a function handle to show that it should be called when a certain som
 keywords: javascript, jquery, souit
 published: true

@@ -3,7 +3,9 @@ layout: post
 title: "Make Jsonp Requests with AngularJs"
 date: "2013-03-20"
 comments: true
-categories: [Code, angularjs, js, cors]
+categories:
+  - "Code"
+tags: [angularjs, js, cors]
 description: How to make a jsonp request in AngularJs for cross-domain requests.
 keywords: angularjs, js, javascript, cors, cross domain, jsonp, json
 published: true

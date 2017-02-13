@@ -4,7 +4,9 @@ layout: post
 title: "Replace Text With Css-Defined Image"
 date: "2009-02-28"
 comments: true
-categories: [Code, css, images]
+categories:
+  - "Code"
+tags: [css, images]
 description: Sometimes bland text on a webpage needs a little spicing up with an image.  Instead of having to mess with markup, this text can be replaced with an image. 
 keywords: css, images
 published: true

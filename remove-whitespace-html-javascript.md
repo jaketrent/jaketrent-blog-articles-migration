@@ -4,7 +4,9 @@ layout: post
 title: "Remove Whitespace in Html with Javascript"
 date: "2009-09-15"
 comments: true
-categories: [Code, html, js]
+categories:
+  - "Code"
+tags: [html, js]
 description: Lots of websites give you the ability to copy certain pieces of text/code/something off their website in a "copy to clipboard"-type functionality.  In the p
 keywords: html, javascript
 published: true

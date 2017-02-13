@@ -4,7 +4,9 @@ layout: post
 title: "Engineering for Engineering's Sake"
 date: "2009-11-10"
 comments: true
-categories: [Code, engineering]
+categories:
+  - "Code"
+tags: [engineering]
 description: Software engineers are sometimes very, very prone to making things more complex than they need to be.  In the engineer's mind, "complex" can be replaced wit
 keywords: engineering
 published: true

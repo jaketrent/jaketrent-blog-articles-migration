@@ -4,7 +4,9 @@ layout: post
 title: "Not in vs. Outer join Performance"
 date: "2009-09-17"
 comments: true
-categories: [Code, oracle, performance, sql]
+categories:
+  - "Code"
+tags: [oracle, performance, sql]
 description: I was running an SQL query today and it was sooooo slow.  So slow, in fact, that it never returned.  I asked the DBA, Reed, who built the table what might b
 keywords: oracle, performance, sql
 published: true

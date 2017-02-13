@@ -3,7 +3,9 @@ layout: post
 title: "Make Your Project Fun"
 date: "2016-04-06"
 comments: true
-categories: [Productivity, teams]
+categories:
+  - "Productivity"
+tags: [teams]
 description: Don't wait to make your software project fun.
 keywords: fun, have fun, project, teams, morale
 published: true

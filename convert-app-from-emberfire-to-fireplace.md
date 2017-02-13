@@ -3,7 +3,9 @@ layout: post
 title: "Convert App From EmberFire to Fireplace"
 date: "2014-03-17"
 comments: true
-categories: [Code, ember, ember-data, js, firebase]
+categories:
+  - "Code"
+tags: [ember, ember-data, js, firebase]
 description: There are a few changes required to convert your Ember app from using EmberFire to Fireplace.  Here are those I've found.
 keywords: js, ember, emberfire, firebase, fireplace, emberfire to fireplace, ember-data
 published: true

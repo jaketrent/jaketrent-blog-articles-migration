@@ -3,7 +3,9 @@ layout: post
 title: "AngularJs Find Element in Context"
 date: "2013-02-21"
 comments: true
-categories: [Code, angularjs, js]
+categories:
+  - "Code"
+tags: [angularjs, js]
 description: In jQuery finding an element within a given context.  Is there an "Angular way" to do the same thing?  Here's one.
 keywords: angularjs, js, find element, sizzle, element in context, jquery
 published: true

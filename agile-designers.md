@@ -3,7 +3,9 @@ layout: post
 title: "Agile Designers"
 date: "2012-10-15"
 comments: true
-categories: [Productivity, Design, team]
+categories:
+  - "Productivity"
+tags: [Design, team]
 ---
 
 The Agile method of software creation contains many principles of development that will help create good software.  Some of my most successful projects have had as a key feature an agile designer.  As Jobs said, design *is* how it works, and that means that to really deliver well in an agile environment, design *and* development have to be on the agile train together.

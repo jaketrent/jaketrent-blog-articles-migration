@@ -3,7 +3,9 @@ layout: post
 title: "JavaScript Mixins"
 date: "2013-09-06"
 comments: true
-categories: [Code, js]
+categories:
+  - "Code"
+tags: [js]
 description: JavaScript makes mixins inherently easy.  Here are a few methods.
 published: true
 ---

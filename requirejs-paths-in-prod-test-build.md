@@ -3,7 +3,9 @@ layout: post
 title: "RequireJs Paths in Prod, Test, and Build"
 date: "2012-12-07"
 comments: true
-categories: [Code, js, requirejs, testacular]
+categories:
+  - "Code"
+tags: [js, requirejs, testacular]
 description: One of the hardest parts of RequireJs can be the pathing.  Making your paths work in prod and in test environments -- even more adventuresome.
 keywords: js, requirejs, testacular, testing, r.js, build, paths
 published: true 

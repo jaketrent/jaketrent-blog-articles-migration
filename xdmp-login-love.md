@@ -4,7 +4,9 @@ layout: post
 title: "Xdmp:Login Love"
 date: "2011-02-03"
 comments: true
-categories: [Code, marklogic, security, xquery]
+categories:
+  - "Code"
+tags: [marklogic, security, xquery]
 description: How do you log into a MarkLogic application to run as a user besides the default app server user?  Use xdmp:login(), baby!  User/role management can be awes
 keywords: marklogic, security, xquery
 published: true

@@ -3,7 +3,9 @@ layout: post
 title: "Npm Install Local Files"
 date: "2012-12-14"
 comments: true
-categories: [Code, js, nodejs, npm]
+categories:
+  - "Code"
+tags: [js, nodejs, npm]
 description: How do you install a package with npm that's not in the npm registry?  Perhaps you're developing a package locally.  A few options.
 keywords: js, javascript, node, nodejs, npm, local install, package
 published: true 

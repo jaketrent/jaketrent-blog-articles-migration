@@ -3,7 +3,9 @@ layout: post
 title: "Test React componentWillReceiveProps"
 date: "2015-02-26"
 comments: true
-categories: [Code, js, react, unit-testing]
+categories:
+  - "Code"
+tags: [js, react, unit-testing]
 description: Testing the componentWillReceiveProps of a React component will take some setup.
 keywords: react, unit testing, testing, nextprops, test setup, componentWillReceiveProps, lifecycle
 published: true

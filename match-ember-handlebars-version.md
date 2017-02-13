@@ -3,7 +3,9 @@ layout: post
 title: "Match Ember and Handlebars Versions"
 date: "2013-05-21"
 comments: true
-categories: [Code, js, ember, handlebars]
+categories:
+  - "Code"
+tags: [js, ember, handlebars]
 description: Specific versions of Ember require specific versions of Handlebars.  Here's a way to help them match.
 keywords: js, coffeescript, javascript, ember, handlebars, version
 published: true

@@ -3,7 +3,9 @@ layout: post
 title: "Exercism Review"
 date: "2013-11-19"
 comments: true
-categories: [Review, Productivity, ruby]
+categories:
+  - "Review"
+tags: [Productivity, ruby]
 description: Exercism.io provides a great resource for daily code exercises and review.
 keywords: exercism.io, exercism, daily exercise, ruby, javascript, objective-c, haskell, elixir
 published: true

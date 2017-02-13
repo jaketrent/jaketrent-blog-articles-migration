@@ -4,7 +4,9 @@ layout: post
 title: "Growing a Whole New Mind"
 date: "2010-11-08"
 comments: true
-categories: [Review, career, design, evolution]
+categories:
+  - "Review"
+tags: [career, design, evolution]
 description: Daniel Pink has written a great book, A Whole New Mind.  Here are my thoughts on the book.  
 keywords: career-building, design, evolution
 published: true

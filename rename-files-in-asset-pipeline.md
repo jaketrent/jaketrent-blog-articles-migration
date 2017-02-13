@@ -3,7 +3,9 @@ layout: post
 title: "Rename Files in Rails Asset Pipeline"
 date: "2013-02-06"
 comments: true
-categories: [Code, rails, ruby]
+categories:
+  - "Code"
+tags: [rails, ruby]
 description: Rails' asset pipeline provides a powerful mechanism for preparing your static assets for the web.  There are defaults.  Learn how to change them.
 keywords: asset pipeline, precompile, rails, ruby, default name, application.js, application.css
 published: true

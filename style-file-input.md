@@ -3,7 +3,9 @@ layout: post
 title: "Style File Input"
 date: "2013-07-23"
 comments: true
-categories: [Code, css]
+categories:
+  - "Code"
+tags: [css]
 description: File input fields are notoriously painful to style.  Here are a few quick tips to that will save you some dead ends.
 keywords: style file input, css, double click file input in ie, trigger click on file input
 published: true

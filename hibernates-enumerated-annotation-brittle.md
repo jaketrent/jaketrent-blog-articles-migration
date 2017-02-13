@@ -4,7 +4,9 @@ layout: post
 title: "Hibernate's @Enumerated Annotation is Brittle"
 date: "2009-02-23"
 comments: true
-categories: [Code, hibernate, jpa, orm]
+categories:
+  - "Code"
+tags: [hibernate, jpa, orm]
 description: Hibernate's @Enumerated annotation seems much too brittle in the case of using it with EnumType.ORDINAL.   If you're using EnumType.STRING, I think it works
 keywords: hibernate, jpa, orm
 published: true

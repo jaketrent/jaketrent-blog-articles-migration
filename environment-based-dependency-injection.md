@@ -4,7 +4,9 @@ layout: post
 title: "Environment-based Dependency Injection"
 date: "2009-09-02"
 comments: true
-categories: [Code, ioc, java, spring]
+categories:
+  - "Code"
+tags: [ioc, java, spring]
 description: In developing an email notification system recently, we became interested in code acting differently depending on what environment we were in.  A potentiall
 keywords: ioc, java, spring
 published: true

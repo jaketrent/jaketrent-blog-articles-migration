@@ -4,7 +4,9 @@ layout: post
 title: "Arrays.asList returns immutable List"
 date: "2009-04-29"
 comments: true
-categories: [Code, java]
+categories:
+  - "Code"
+tags: [java]
 description: I was having problems doing operations on a java.util.List object returned by Arrays.asList() method call.   The specific exception was a java.lang.Unsuppor
 keywords: java
 published: true

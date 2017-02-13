@@ -3,7 +3,9 @@ layout: post
 title: "What React Stateless Components are Missing"
 date: "2016-01-04"
 comments: true
-categories: [Code, js, react]
+categories:
+  - "Code"
+tags: [js, react]
 description: Statless components, new to React 0.14, don't have a few things that you might be used to by now.
 keywords: js, react, stateless components, statless functions, ref, backing instance, lifecycle
 published: true

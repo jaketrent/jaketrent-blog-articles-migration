@@ -3,7 +3,9 @@ layout: post
 title: "Impressions of Grunt"
 date: "2012-12-12"
 comments: true
-categories: [Code, js, grunt]
+categories:
+  - "Code"
+tags: [js, grunt]
 description: My impressions of writing Grunt plugins and why one might want to.
 keywords: js, javascript, grunt, build configuration
 published: true 

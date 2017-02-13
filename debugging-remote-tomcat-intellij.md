@@ -4,7 +4,9 @@ layout: post
 title: "Debugging Remote Tomcat from IntelliJ with Style"
 date: "2011-04-13"
 comments: true
-categories: [Code, debugging, intellij, tomcat]
+categories:
+  - "Code"
+tags: [debugging, intellij, tomcat]
 description: One of the worst things to debug can be something that works just fine in your local development environment but does not work in a deployed environment.  I
 keywords: debugging, intellij, tomcat
 published: true

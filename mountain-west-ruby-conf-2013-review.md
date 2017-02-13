@@ -3,7 +3,9 @@ layout: post
 title: "Mountain West Ruby Conf 2013 Review"
 date: "2013-04-05"
 comments: true
-categories: [Review, conf, ruby, rails]
+categories:
+  - "Review"
+tags: [conf, ruby, rails]
 description: Mountain West Ruby Conference is the premier Ruby Conference in the Mountain West.  :)
 keywords: mountain west, ruby, ruby conf, rails, conference
 published: true

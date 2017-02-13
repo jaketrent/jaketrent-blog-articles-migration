@@ -3,7 +3,9 @@ layout: post
 title: "react-dnd With Text Drag Preview"
 date: "2016-04-21"
 comments: true
-categories: [Code, js, react, react-dnd]
+categories:
+  - "Code"
+tags: [js, react, react-dnd]
 description: How to create a text drag preview in react-dnd
 keywords: react, react-dnd, text, drag preview, string, drag and drop
 published: true

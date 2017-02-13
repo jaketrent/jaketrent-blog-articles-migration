@@ -4,7 +4,9 @@ layout: post
 title: "Monitor Network Traffic with EtherApe"
 date: "2009-01-05"
 comments: true
-categories: [Code, networking]
+categories:
+  - "Code"
+tags: [networking]
 description: I wanted to count packets coming back and forth while telnet'ing to test out some different email protocols on our mail server and found this nifty little u
 keywords: networking
 published: true

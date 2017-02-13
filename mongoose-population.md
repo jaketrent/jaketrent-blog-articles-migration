@@ -3,7 +3,9 @@ layout: post
 title: "Mongoose Population"
 date: "2013-06-18"
 comments: true
-categories: [Code, js, mongo, mongoose, nodejs]
+categories:
+  - "Code"
+tags: [js, mongo, mongoose, nodejs]
 description: Mongoose is an object modeler for MongoDb in Node.js.  It has a great feature, population, for including references to other Mongoose models.
 keywords: nodejs, js, javascript, mongo, mongodb, mongoose, join, include objects
 published: true

@@ -3,7 +3,9 @@ layout: post
 title: "UtahJS Conf 2013 Review"
 date: "2013-05-20"
 comments: true
-categories: [Review, js, conf]
+categories:
+  - "Review"
+tags: [js, conf]
 description: The Utah JavaScript user group just put on its 2nd annual conference in Salt Lake City.  It was a good time.  Here's my take.
 published: true
 ---

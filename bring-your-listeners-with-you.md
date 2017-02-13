@@ -3,7 +3,9 @@ layout: post
 title: "Bring Your Listeners With You"
 date: "2016-03-20"
 comments: true
-categories: [Productivity, conf]
+categories:
+  - "Productivity"
+tags: [conf]
 description: When speaking and teaching, make sure to remember to bring your listeners with you.
 keywords: conference, speaking, expectations, definitions, respect, attention
 published: true

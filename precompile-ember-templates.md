@@ -3,7 +3,9 @@ layout: post
 title: "Precompile Ember Templates"
 date: "2013-05-21"
 comments: true
-categories: [Code, js, ember, handlebars, emblem, grunt]
+categories:
+  - "Code"
+tags: [js, ember, handlebars, emblem, grunt]
 description: When you're working with Ember's Handlebars templates, you're going to want to precompile them for performance reasons.
 keywords: js, coffeescript, javascript, ember, emblem, grunt, handlebars, version
 published: true

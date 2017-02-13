@@ -3,7 +3,9 @@ layout: post
 title: "Link to Broccoli Assets on a Webpage"
 date: "2014-03-18"
 comments: true
-categories: [Code, js, broccoli]
+categories:
+  - "Code"
+tags: [js, broccoli]
 description: Broccoli.js is good at building assets.  Now, how do I use them on a webpage?
 keywords: js, broccoli, broccoli.js, reference, link to broccoli assets, serve broccoli
 published: true

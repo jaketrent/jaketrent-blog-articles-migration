@@ -4,7 +4,9 @@ layout: post
 title: "Java Reflection for methods with primitive params"
 date: "2009-04-14"
 comments: true
-categories: [Code, java, reflection, testng, unit-testing]
+categories:
+  - "Code"
+tags: [java, reflection, testng, unit-testing]
 description: First-class objects are the norm in the code that I usually write and edit, but every now and then I run across a method with a primitive parameter.  I use 
 keywords: java, reflection, testng, unit-testing
 published: true

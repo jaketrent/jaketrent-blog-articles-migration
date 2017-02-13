@@ -4,7 +4,9 @@ layout: post
 title: "Unexpected Results in MarkLogic Xquery Type Coercion"
 date: "2010-12-17"
 comments: true
-categories: [Code, marklogic, typing, xquery]
+categories:
+  - "Code"
+tags: [marklogic, typing, xquery]
 description: Recently, we've been working on writing an API using xquery.  We have wanted to make the API as solid as possible, since we're putting the brunt of the comp
 keywords: marklogic, typing, xquery
 published: true

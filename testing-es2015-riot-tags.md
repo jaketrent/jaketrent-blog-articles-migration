@@ -3,7 +3,9 @@ layout: post
 title: "Testing es2015 Riot Tags"
 date: "2016-07-28"
 comments: true
-categories: [Code, js, riot]
+categories:
+  - "Code"
+tags: [js, riot]
 description: How to test Riot.js tags that are written in es2015. 
 keywords: es2015, riot, riotjs, riot.js, riot tags, testing, unit test, ava, avajs, jsdom
 published: true

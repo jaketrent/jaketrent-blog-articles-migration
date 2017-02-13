@@ -3,7 +3,9 @@ layout: post
 title: "SORT Conf 2012"
 date: "2012-10-10"
 comments: true
-categories: [Review, conf]
+categories:
+  - "Review"
+tags: [conf]
 ---
 
 The sky lightens with the rising sun.  Wheels are on the road.  Friends are in the car.  The leaves are changing on the towering Wasatch mountains.  Finally, we pull up to the University of Utah Institute building.  Stepping out of the car, the October air is fresh and clear, high in the Rockies.  It's a good day for a tech conference.  It's a good day for SORT.

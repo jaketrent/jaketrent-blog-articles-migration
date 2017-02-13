@@ -3,7 +3,9 @@ layout: post
 title: "Working More Might Not Help Our Team"
 date: "2016-02-18"
 comments: true
-categories: [Productivity, leadership, teams, time-management]
+categories:
+  - "Productivity"
+tags: [leadership, teams, time-management]
 description: Working significantly more than the rest of our team may harm more than it helps.
 keywords: working more, overtime, come early, stay late, false heroism, team work, team wins, pride
 published: true

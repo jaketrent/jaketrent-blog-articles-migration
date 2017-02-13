@@ -4,7 +4,9 @@ layout: post
 title: "Expose Fields via Java Reflection"
 date: "2009-06-08"
 comments: true
-categories: [Code, java, reflection, unit-testing]
+categories:
+  - "Code"
+tags: [java, reflection, unit-testing]
 description: For unit testing purposes, I often want to set field values in objects so that I can setup for the test conditions.  One of most annoying things about testi
 keywords: java, reflection, unit-testing
 published: true

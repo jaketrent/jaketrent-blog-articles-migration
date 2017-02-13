@@ -4,7 +4,9 @@ layout: post
 title: "Iteration Planning"
 date: "2010-09-10"
 comments: true
-categories: [Code, agile, project-management]
+categories:
+  - "Code"
+tags: [agile, project-management]
 description: In Agile software development, an iteration is a time period of work, where the full software dev cycle is completed.  Iterations are iterative, done over a
 keywords: agile, project-management
 published: true

@@ -4,7 +4,9 @@ layout: post
 title: "Run a Shell Script from NodeJs"
 date: "2012-07-20"
 comments: true
-categories: [Code, bash, js, nodejs]
+categories:
+  - "Code"
+tags: [bash, js, nodejs]
 description: Node can fork and run external binaries.
 keywords: bash, javascript, nodejs, shell, spawn, fork, exec
 published: true

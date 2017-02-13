@@ -3,7 +3,9 @@ layout: post
 title: "Namespacing Angular Controller Attributes"
 date: "2013-07-10"
 comments: true
-categories: [Code, angularjs, js]
+categories:
+  - "Code"
+tags: [angularjs, js]
 description: Usually attributes of your Angular controllers are not namespaced.  But you can namespace them.  But you might not want to.
 published: true
 ---

@@ -3,7 +3,9 @@ layout: post
 title: "Spies with Sinon and Chai"
 date: "2013-08-19"
 comments: true
-categories: [Code, js, sinon, chai, angularjs]
+categories:
+  - "Code"
+tags: [js, sinon, chai, angularjs]
 description: Spies will help you verify calls to methods.  Sinon is a library that provides spies.  Chai will provide appropriate assertions.
 published: true
 ---

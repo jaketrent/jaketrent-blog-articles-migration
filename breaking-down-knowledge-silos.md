@@ -4,7 +4,9 @@ layout: post
 title: "Breaking Down Knowledge Silos"
 date: "2010-09-30"
 comments: true
-categories: [Code, agile, pair-programming, project-management]
+categories:
+  - "Code"
+tags: [agile, pair-programming, project-management]
 description: Barriers are created all the time on software projects (by organization layout, role definition, project management, or indiscriminately) that keep develope
 keywords: agile, pair-programming, project-management
 published: true

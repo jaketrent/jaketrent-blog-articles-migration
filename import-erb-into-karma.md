@@ -3,7 +3,9 @@ layout: post
 title: "Import Erb Into Karma"
 date: "2013-09-20"
 comments: true
-categories: [Code, js, coffeescript, karma, ruby, rails]
+categories:
+  - "Code"
+tags: [js, coffeescript, karma, ruby, rails]
 description: Rails asset pipeline allows you to use erb helpers in your CoffeeScript.  You'll still need to bring get these files into Karma runner.
 published: true
 ---

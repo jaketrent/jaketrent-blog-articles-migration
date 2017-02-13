@@ -4,7 +4,9 @@ layout: post
 title: "Encrypt your IMs in Pidgin"
 date: "2011-04-20"
 comments: true
-categories: [Code, chat, encryption, pidgin, security]
+categories:
+  - "Code"
+tags: [chat, encryption, pidgin, security]
 description: Around the office, when someone security-minded finds out that I instant message (IM) over Pidgin (using Google Talk's service), there tends to be wailing a
 keywords: chat, encryption, pidgin, security
 published: true

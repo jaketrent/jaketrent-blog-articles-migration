@@ -3,7 +3,9 @@ layout: post
 title: "Switch: How to Change Things When Change is Hard Review"
 date: "2014-03-04"
 comments: true
-categories: [Review, Book, Productivity]
+categories:
+  - "Review"
+tags: [Book, Productivity]
 description: The book Switch shows interesting anecdotes and good strategies on how to motivate people and situations to change.
 keywords: book, productivity, switch, dan and chip health, change, change is hard
 published: true

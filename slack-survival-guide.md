@@ -3,7 +3,9 @@ layout: post
 title: "Slack Survival Guide"
 date: "2015-07-17"
 comments: true
-categories: [Productivity, slack]
+categories:
+  - "Productivity"
+tags: [slack]
 description: Slack can be a great help.  If you're not careful, it can be a burden.  Manage with care.
 keywords: slack, chat, ping, channels, keywords, distraction
 published: true

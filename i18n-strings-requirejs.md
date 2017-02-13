@@ -4,7 +4,9 @@ layout: post
 title: "i18n Strings in RequireJs"
 date: "2012-01-10"
 comments: true
-categories: [Code, i18n, js, requirejs, handlebars]
+categories:
+  - "Code"
+tags: [i18n, js, requirejs, handlebars]
 description: If you have to store your text strings for internationalization (i18n) on the server, that's <a href="http://rockycode.com/blog/i18n-strings-javascript/">on
 keywords: i18n, javascript, requirejs, handlebarsjs
 published: true

@@ -3,7 +3,9 @@ layout: post
 title: "The Power of Liking"
 date: "2015-04-23"
 comments: true
-categories: [Productivity, dev-happiness]
+categories:
+  - "Productivity"
+tags: [dev-happiness]
 description: Liking the tech you use is ok, advantageous, and desireable
 keywords: productivity, liking, differences, enjoyment, developer happiness, choosing a tech
 published: true

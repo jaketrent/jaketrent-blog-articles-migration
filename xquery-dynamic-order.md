@@ -4,7 +4,9 @@ layout: post
 title: "XQuery Dynamic Order By"
 date: "2012-05-19"
 comments: true
-categories: [Code, marklogic, xquery]
+categories:
+  - "Code"
+tags: [marklogic, xquery]
 description: When ordering a sequence of items in XQuery, sometimes it's desirable to be able to decide the order based on a parameter value (something dynamic).  XQuery
 keywords: marklogic, xquery
 published: true

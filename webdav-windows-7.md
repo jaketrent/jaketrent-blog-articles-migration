@@ -4,7 +4,9 @@ layout: post
 title: "WebDAV on Windows 7"
 date: "2010-10-05"
 comments: true
-categories: [Code, marklogic, webdav, windows7]
+categories:
+  - "Code"
+tags: [marklogic, webdav, windows7]
 description: The spectre of webdav has again appeared before me.  This time's it's on Windows.  My last experience on webdav was in the dojo of Linux.  Now, my Linuxy nu
 keywords: marklogic, webdav, windows7
 published: true

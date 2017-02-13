@@ -4,7 +4,9 @@ layout: post
 title: "SVN Ignore"
 date: "2008-11-23"
 comments: true
-categories: [Code, svn, vcs]
+categories:
+  - "Code"
+tags: [svn, vcs]
 description: In projects that create project meta data or compiled class files in the same directory as source, svn commits can be particularly cluttered with those file
 keywords: svn, vcs
 published: true

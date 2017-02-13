@@ -3,7 +3,9 @@ layout: post
 title: "How to Organize NodeJs Routes"
 date: "2012-10-02"
 comments: true
-categories: [Code, js, nodejs, express]
+categories:
+  - "Code"
+tags: [js, nodejs, express]
 ---
 
 A few routes in a NodeJs app -- no problem.  Just put them in your `app.js`.  More than a handful?  You'll probably want to look at organizing your routes a different way.  This will help keep your core `app.js` clean and make your actual routes easier to find.

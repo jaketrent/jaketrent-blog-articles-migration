@@ -4,7 +4,9 @@ layout: post
 title: "Greater Flexibility with Responsive Design"
 date: "2011-05-18"
 comments: true
-categories: [Code, css, design, html, responsive-design]
+categories:
+  - "Code"
+tags: [css, design, html, responsive-design]
 description: With the advent of mobile devices, tablets, and screens attached to your toaster, we as web developers -- er, ninjas -- can no longer be ok with creating ma
 keywords: css, design, html, responsive-design
 published: true

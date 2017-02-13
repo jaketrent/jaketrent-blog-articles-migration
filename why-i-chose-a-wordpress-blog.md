@@ -3,7 +3,9 @@ layout: post
 title: "Why I Chose a WordPress Blog"
 date: "2012-09-25"
 comments: true
-categories: [Announcement, wordpress, blog, php]
+categories:
+  - "Announcement"
+tags: [wordpress, blog, php]
 ---
 
 Some might ask why a guy who loves his life of code would choose WordPress as the framework for one of his websites. Well, I chose a WordPress blog. I almost didn't. It's been a long time coming. It's early in the game, but I think it was a good choice.
