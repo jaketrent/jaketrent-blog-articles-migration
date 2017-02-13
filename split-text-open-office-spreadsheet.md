@@ -6,7 +6,8 @@ date: "2009-08-27"
 comments: true
 categories:
   - "Code"
-tags: [open-office]
+tags:
+  - "open-office"
 description: Sometimes I paste text into a spreadsheet so that I can quickly manipulate it.  The same could be done with a small script, but this particular feature is b
 keywords: open-office
 published: true
