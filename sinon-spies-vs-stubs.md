@@ -5,7 +5,10 @@ date: "2015-02-25"
 comments: true
 categories:
   - "Code"
-tags: [js, sinon, unit-testing]
+tags:
+  - "js"
+  - "sinon"
+  - "unit-testing"
 description: Sinon provides spies, stubs, mocks.  They're all useful as fakes in tests with essential differences.
 keywords: js, sinon, spy, stub, mock, unit testing, mocha
 published: true

@@ -5,7 +5,10 @@ date: "2015-01-21"
 comments: true
 categories:
   - "Code"
-tags: [ruby, rack, unit-testing]
+tags:
+  - "ruby"
+  - "rack"
+  - "unit-testing"
 description: Add a cookie to mock requests in order to test your Rack app.
 keywords: ruby, rack, mock, mock request, set cookie, cookie header, testing
 published: true

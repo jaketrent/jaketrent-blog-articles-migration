@@ -6,7 +6,10 @@ date: "2009-07-06"
 comments: true
 categories:
   - "Code"
-tags: [easymock, java, unit-testing]
+tags:
+  - "easymock"
+  - "java"
+  - "unit-testing"
 description: EasyMock is a great tool for separating external dependencies from unit tests.  There is a learning curve to learning the mock method of testing, and unfort
 keywords: easymock, java, unit-testing
 published: true

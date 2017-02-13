@@ -5,7 +5,10 @@ date: "2016-02-18"
 comments: true
 categories:
   - "Productivity"
-tags: [leadership, teams, time-management]
+tags:
+  - "leadership"
+  - "teams"
+  - "time-management"
 description: Working significantly more than the rest of our team may harm more than it helps.
 keywords: working more, overtime, come early, stay late, false heroism, team work, team wins, pride
 published: true

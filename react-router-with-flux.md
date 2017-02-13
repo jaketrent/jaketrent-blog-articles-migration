@@ -5,7 +5,10 @@ date: "2015-01-15"
 comments: true
 categories:
   - "Code"
-tags: [js, react, react-router]
+tags:
+  - "js"
+  - "react"
+  - "react-router"
 description: react-router routing and flux data display needs a bit of glue to work well together.
 keywords: react, react-router, transition, data change, store
 published: true

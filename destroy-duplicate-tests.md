@@ -5,7 +5,10 @@ date: "2014-11-05"
 comments: true
 categories:
   - "Code"
-tags: [tdd, functional-testing, unit-testing]
+tags:
+  - "tdd"
+  - "functional-testing"
+  - "unit-testing"
 description: Don't write duplicate tests.  If you have duplicates, destroy them.
 keywords: testing, tdd, duplicates, test code smells
 published: true

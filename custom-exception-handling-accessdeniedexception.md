@@ -6,7 +6,10 @@ date: "2012-01-06"
 comments: true
 categories:
   - "Code"
-tags: [java, spring, exception-handling]
+tags:
+  - "java"
+  - "spring"
+  - "exception-handling"
 description: Our app throws all sorts of exceptions.  Well, it doesn't usually.  It shouldn't normally.  Er... But, when it does we want to put in some handling so that 
 keywords: java, spring, exception-handling
 published: true

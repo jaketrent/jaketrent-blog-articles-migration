@@ -6,7 +6,10 @@ date: "2011-09-01"
 comments: true
 categories:
   - "Code"
-tags: [js, jquery, jquery-mobile]
+tags:
+  - "js"
+  - "jquery"
+  - "jquery-mobile"
 description: As web developers we're used to being able to write a jQuery selector and easily get the DOM elements back on the page that we're looking for.
 keywords: javascript, jquery, jquery-mobile
 published: true
