@@ -5,7 +5,8 @@ date: "2015-08-15"
 comments: true
 categories:
   - "Productivity"
-tags: [Leadership, continuous-delivery, lean]
+  - "Leadership"
+tags: [continuous-delivery, lean]
 description: This isn't your last great work.  Stop worrying, and release.
 keywords: great work, analysis paralysis, release, continuous delivery, mvp, lean
 published: true
