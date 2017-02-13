@@ -6,7 +6,11 @@ date: "2011-03-31"
 comments: true
 categories:
   - "Code"
-tags: [cross-browser, css, html, iframe]
+tags:
+  - "cross-browser"
+  - "css"
+  - "html"
+  - "iframe"
 description: With few exceptions, it seems that when a developer puts a iframe on his page, he wants it to be seamless on his page.  In other words, he doesn't want the 
 keywords: cross-browser, css, html, iframe
 published: true

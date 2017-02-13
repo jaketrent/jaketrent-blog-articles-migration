@@ -5,7 +5,11 @@ date: "2014-03-17"
 comments: true
 categories:
   - "Code"
-tags: [ember, ember-data, js, firebase]
+tags:
+  - "ember"
+  - "ember-data"
+  - "js"
+  - "firebase"
 description: There are a few changes required to convert your Ember app from using EmberFire to Fireplace.  Here are those I've found.
 keywords: js, ember, emberfire, firebase, fireplace, emberfire to fireplace, ember-data
 published: true

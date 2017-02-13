@@ -6,7 +6,11 @@ date: "2011-05-18"
 comments: true
 categories:
   - "Code"
-tags: [css, design, html, responsive-design]
+tags:
+  - "css"
+  - "design"
+  - "html"
+  - "responsive-design"
 description: With the advent of mobile devices, tablets, and screens attached to your toaster, we as web developers -- er, ninjas -- can no longer be ok with creating ma
 keywords: css, design, html, responsive-design
 published: true
