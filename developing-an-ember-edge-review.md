@@ -5,7 +5,9 @@ date: "2014-01-23"
 comments: true
 categories:
   - "Review"
-tags: [js, ember]
+tags:
+  - "js"
+  - "ember"
 description: Developing an Ember Edge is a great, current intro to Ember.js book.  Go! Go away.  Read some books.
 keywords: ember, javascript, ember edge, book, learn ember
 published: true

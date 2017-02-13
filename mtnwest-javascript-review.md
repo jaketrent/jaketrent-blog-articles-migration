@@ -5,7 +5,9 @@ date: "2014-03-25"
 comments: true
 categories:
   - "Review"
-tags: [js, conf]
+tags:
+  - "js"
+  - "conf"
 description: MountainWest JavaScript was a great conference for JS last week in Utah.  Here's my take.
 keywords: js, ember, emberfire, firebase, fireplace, emberfire to fireplace, ember-data
 published: true

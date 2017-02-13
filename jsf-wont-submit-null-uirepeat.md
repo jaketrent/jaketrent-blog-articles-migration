@@ -6,7 +6,9 @@ date: "2008-12-11"
 comments: true
 categories:
   - "Code"
-tags: [facelets, jsf]
+tags:
+  - "facelets"
+  - "jsf"
 description: It stinks when your jsf components don't do what they're supposed to or even what they usually do.    This was the case with my h:inputText field when tryin
 keywords: facelets, jsf
 published: true

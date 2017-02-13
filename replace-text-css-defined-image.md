@@ -6,7 +6,9 @@ date: "2009-02-28"
 comments: true
 categories:
   - "Code"
-tags: [css, images]
+tags:
+  - "css"
+  - "images"
 description: Sometimes bland text on a webpage needs a little spicing up with an image.  Instead of having to mess with markup, this text can be replaced with an image. 
 keywords: css, images
 published: true

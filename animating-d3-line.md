@@ -5,7 +5,9 @@ date: "2015-07-27"
 comments: true
 categories:
   - "Code"
-tags: [js, d3]
+tags:
+  - "js"
+  - "d3"
 description: D3 makes awesome charts, made awesomer by animations.  Make your lines animate!
 keywords: js, d3, line, animating, drawing, line chart
 published: true

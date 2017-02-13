@@ -5,7 +5,9 @@ date: "2013-01-10"
 comments: true
 categories:
   - "Productivity"
-tags: [git, communication]
+tags:
+  - "git"
+  - "communication"
 description: Why log issues for the project you're working on?  There are many reasons.  Here are a few.
 keywords: git, git log, communication, teamwork, issues, bugtracker
 published: true

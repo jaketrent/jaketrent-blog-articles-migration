@@ -5,7 +5,9 @@ date: "2016-03-21"
 comments: true
 categories:
   - "Code"
-tags: [js, electron]
+tags:
+  - "js"
+  - "electron"
 description: Two ways to select a directory to open in Electron
 keywords: electron, directory, open, file input for directory, electron.js
 published: true

@@ -6,7 +6,9 @@ date: "2010-06-21"
 comments: true
 categories:
   - "Code"
-tags: [images, png]
+tags:
+  - "images"
+  - "png"
 description: PNG was a file format that, among the original reasons for conception, was created to show the same color over different computers, with different OS's, and
 keywords: images, png
 published: true

@@ -5,7 +5,9 @@ date: "2015-09-03"
 comments: true
 categories:
   - "Productivity"
-tags: [team, passion]
+tags:
+  - "team"
+  - "passion"
 description: Be happy, use codenames on your project.
 keywords: project, coordination, codenames, team name, project name, fun
 published: true

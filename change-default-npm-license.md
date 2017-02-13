@@ -5,7 +5,9 @@ date: "2016-03-24"
 comments: true
 categories:
   - "Code"
-tags: [js, npm]
+tags:
+  - "js"
+  - "npm"
 description: Change your npm defaults for npm init
 keywords: npm init, npm init defaults, npm license
 published: true

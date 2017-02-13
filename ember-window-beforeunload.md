@@ -5,7 +5,9 @@ date: "2014-03-17"
 comments: true
 categories:
   - "Code"
-tags: [ember, js]
+tags:
+  - "ember"
+  - "js"
 description: In a long-running app such as you might build in Ember, it can be useful to detect when the window is closing.
 keywords: js, ember, beforeunload, window.beforeunload, close tab, close window, save data
 published: true

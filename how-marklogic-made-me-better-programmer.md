@@ -5,7 +5,9 @@ date: "2013-08-08"
 comments: true
 categories:
   - "Productivity"
-tags: [marklogic, xquery]
+tags:
+  - "marklogic"
+  - "xquery"
 description: MarkLogic was a very new experience for me.  I don't program in it these days, but it helped me become a better programmer.
 published: true
 ---

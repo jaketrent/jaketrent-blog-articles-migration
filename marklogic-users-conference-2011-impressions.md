@@ -6,7 +6,9 @@ date: "2011-05-02"
 comments: true
 categories:
   - "Code"
-tags: [confs, marklogic]
+tags:
+  - "confs"
+  - "marklogic"
 description: I just returned from the MarkLogic Users Conference in San Francisco.  I had a good time.  I think the conference was worthwhile.  I'd go again, and I'd rec
 keywords: confs, marklogic
 published: true

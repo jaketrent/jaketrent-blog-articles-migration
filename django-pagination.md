@@ -6,7 +6,9 @@ date: "2008-10-24"
 comments: true
 categories:
   - "Code"
-tags: [django, python]
+tags:
+  - "django"
+  - "python"
 description: The amount of content on the blog and its pages has become substantial (in length only) enough to make it a worthwhile idea to paginate it (spread the conte
 keywords: django, python
 published: true

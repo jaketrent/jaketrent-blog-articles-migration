@@ -5,7 +5,9 @@ date: "2016-01-25"
 comments: true
 categories:
   - "Code"
-tags: [js, testing]
+tags:
+  - "js"
+  - "testing"
 description: A quick tip to make your APIs fail and test client error handling.
 keywords: js, api, spa, axios, promise, async await
 published: true

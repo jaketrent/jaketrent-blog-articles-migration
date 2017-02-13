@@ -5,7 +5,9 @@ date: "2012-10-09"
 comments: true
 categories:
   - "Code"
-tags: [js, backbone]
+tags:
+  - "js"
+  - "backbone"
 ---
 
 Backbone.js is a great MV* library created by Jeremy Ashkenas.  It is small and powerful, yet unopinionated.  That means that it will let you walk straight into a pit.  It so happens that I'm speaking to you now from the bottom of such a chasm.  Do not fall into the same pit.  As a guide to your travel, here are a few Backbone tips that might help you avoid a few problems.

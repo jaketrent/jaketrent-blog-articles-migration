@@ -6,7 +6,9 @@ date: "2009-09-02"
 comments: true
 categories:
   - "Code"
-tags: [java, performance]
+tags:
+  - "java"
+  - "performance"
 description: Often when coding, we use a single local variable multiple times, overwriting the value many times.  It is considered good practice to move the variable out
 keywords: java, performance
 published: true

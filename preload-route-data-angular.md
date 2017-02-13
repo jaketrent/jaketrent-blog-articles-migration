@@ -5,7 +5,9 @@ date: "2013-08-13"
 comments: true
 categories:
   - "Code"
-tags: [js, angularjs]
+tags:
+  - "js"
+  - "angularjs"
 description: It's sometimes useful to preload/resolve data previous to your Angular view being displayed.  Such was the case recently for our current user object.
 published: true
 ---

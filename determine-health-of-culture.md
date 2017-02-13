@@ -5,7 +5,9 @@ date: "2016-03-21"
 comments: true
 categories:
   - "Productivity"
-tags: [leadership, culture]
+tags:
+  - "leadership"
+  - "culture"
 description: Here's a simple test to determine if your company's culture is as healthy as you think it is
 keywords: health check, culture check, maintain culture, company culture, clay christensen
 published: true

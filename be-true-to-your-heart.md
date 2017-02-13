@@ -5,7 +5,9 @@ date: "2013-01-08"
 comments: true
 categories:
   - "Productivity"
-tags: [interviewing, passion]
+tags:
+  - "interviewing"
+  - "passion"
 description: When you're interviewed, be honest in your interests, and stick to them.
 keywords: interviewing, software, passion, interests
 published: true

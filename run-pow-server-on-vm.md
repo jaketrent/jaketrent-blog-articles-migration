@@ -5,7 +5,9 @@ date: "2013-01-31"
 comments: true
 categories:
   - "Code"
-tags: [rails, ruby]
+tags:
+  - "rails"
+  - "ruby"
 description: Pow creates an easy way to run Rails server locally.  Running them on a Windows VM is just as easy.
 keywords: pow, vm, rails, windows, virtualbox, powder, ruby
 published: true

@@ -6,7 +6,9 @@ date: "2009-09-21"
 comments: true
 categories:
   - "Code"
-tags: [java, maven]
+tags:
+  - "java"
+  - "maven"
 description: Sometimes you want Maven to compile your code with a different JDK than is the one assigned to your JAVA_HOME.  For instance, I have code in a project that 
 keywords: java, maven
 published: true

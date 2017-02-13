@@ -5,7 +5,9 @@ date: "2012-12-05"
 comments: true
 categories:
   - "Code"
-tags: [js, nodejs]
+tags:
+  - "js"
+  - "nodejs"
 description: Do you need to change variables per environment in NodeJs?  There's a great nconf package that helps out.
 keywords: js, nodejs, node, environment variables, nconf
 published: true 

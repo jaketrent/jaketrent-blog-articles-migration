@@ -6,7 +6,9 @@ date: "2008-11-27"
 comments: true
 categories:
   - "Code"
-tags: [java, ubuntu]
+tags:
+  - "java"
+  - "ubuntu"
 description: It's important to understand what libraries, utilities, engines and so on that are used by your Ubuntu Linux OS.  It's easy to tell if you only have on opti
 keywords: java, ubuntu
 published: true

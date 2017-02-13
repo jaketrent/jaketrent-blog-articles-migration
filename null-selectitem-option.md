@@ -6,7 +6,9 @@ date: "2008-11-24"
 comments: true
 categories:
   - "Code"
-tags: [java, jsf]
+tags:
+  - "java"
+  - "jsf"
 description: Sometimes it's desirable to be able to have a null or "none of these" option for a dropdown.  I've gotten tripped up on the syntax a couple times and have f
 keywords: java, jsf
 published: true

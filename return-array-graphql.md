@@ -5,7 +5,9 @@ date: "2016-08-16"
 comments: true
 categories:
   - "Code"
-tags: [js, graphql]
+tags:
+  - "js"
+  - "graphql"
 description: How to return an array or a single item from Facebook's graphql
 keywords: js, javascript, graphql, graphqllist, array, multiple items, return array, return multiple
 published: true

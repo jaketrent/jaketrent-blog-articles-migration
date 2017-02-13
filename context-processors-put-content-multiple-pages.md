@@ -6,7 +6,9 @@ date: "2009-02-28"
 comments: true
 categories:
   - "Code"
-tags: [django, python]
+tags:
+  - "django"
+  - "python"
 description: Make your django context processors dry.  
 keywords: django, python
 published: true

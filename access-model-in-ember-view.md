@@ -5,7 +5,9 @@ date: "2013-07-01"
 comments: true
 categories:
   - "Code"
-tags: [js, ember]
+tags:
+  - "js"
+  - "ember"
 description: Ember views are used for event handling and creating web components.  To make them useful, model data has to make it in and out.
 keywords: ember model, ember view, ember, js, javascript
 published: true

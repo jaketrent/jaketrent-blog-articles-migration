@@ -6,7 +6,9 @@ date: "2009-10-14"
 comments: true
 categories:
   - "Code"
-tags: [django, python]
+tags:
+  - "django"
+  - "python"
 description: At Sort 2009, a technical conference at the LDS Church, I gave a presentation on my favorite all-in-one web framework, Django.  It's a great tool, and here'
 keywords: django, python
 published: true

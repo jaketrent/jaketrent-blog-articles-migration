@@ -5,7 +5,9 @@ date: "2013-08-02"
 comments: true
 categories:
   - "Code"
-tags: [js, ember]
+tags:
+  - "js"
+  - "ember"
 description: Get your UI to show classes based on the state of your Ember models.
 published: true
 ---

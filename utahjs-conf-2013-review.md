@@ -5,7 +5,9 @@ date: "2013-05-20"
 comments: true
 categories:
   - "Review"
-tags: [js, conf]
+tags:
+  - "js"
+  - "conf"
 description: The Utah JavaScript user group just put on its 2nd annual conference in Salt Lake City.  It was a good time.  Here's my take.
 published: true
 ---

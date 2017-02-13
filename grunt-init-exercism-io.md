@@ -5,7 +5,9 @@ date: "2014-01-03"
 comments: true
 categories:
   - "Code"
-tags: [js, grunt]
+tags:
+  - "js"
+  - "grunt"
 description: Exercism.io has great JavaScript exercises that are made better by a better test runner.  Use grunt-init to set up.
 keywords: grunt, grunt-init, exercism, jasmine_node, watch, js, javascript
 published: true
