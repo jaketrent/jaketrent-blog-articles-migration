@@ -6,7 +6,12 @@ date: "2008-08-26"
 comments: true
 categories:
   - "Code"
-tags: [captcha, django, pil, python, spam-filter]
+tags:
+  - "captcha"
+  - "django"
+  - "pil"
+  - "python"
+  - "spam-filter"
 description: I really need an answer to this question.  Why?  Because I was, until recently, on the verge of shutting down the comments on the site because of the load o
 keywords: captcha, django, pil, python, spam-filter
 published: true
