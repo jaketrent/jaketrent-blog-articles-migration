@@ -6,7 +6,10 @@ date: "2008-10-09"
 comments: true
 categories:
   - "Code"
-tags: [hibernate, jpa, orm]
+tags:
+  - "hibernate"
+  - "jpa"
+  - "orm"
 description: The object-relational mapping world of JPA and Hibernate has made a lot of things really nice and easy.  As with any framework of this sort, however, it bec
 keywords: hibernate, jpa, orm
 published: true

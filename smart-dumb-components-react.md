@@ -5,7 +5,10 @@ date: "2016-02-17"
 comments: true
 categories:
   - "Code"
-tags: [js, react, redux]
+tags:
+  - "js"
+  - "react"
+  - "redux"
 description: Some thoughts on how to identify and split smart and dumb components in React.
 keywords: react, js, smart components, dumb components, presentational, container, design
 published: true

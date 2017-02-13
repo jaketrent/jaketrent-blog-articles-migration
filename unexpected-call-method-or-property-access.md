@@ -6,7 +6,10 @@ date: "2009-12-18"
 comments: true
 categories:
   - "Code"
-tags: [ie, js, browser]
+tags:
+  - "ie"
+  - "js"
+  - "browser"
 description: In a recent admin tool I was creating, I was using SOUIT of Javascript... apparently more than I knew how to write well.  Eventually, it all worked wonderfu
 keywords: ie, javascript, web-browser
 published: true

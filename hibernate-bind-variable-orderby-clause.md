@@ -6,7 +6,10 @@ date: "2009-08-24"
 comments: true
 categories:
   - "Code"
-tags: [hibernate, jpa, orm]
+tags:
+  - "hibernate"
+  - "jpa"
+  - "orm"
 description: I have spent mucho time trying to get some named parameters working in the "order by" clause of a dynamic sql query that I'm building.  The query isn't even
 keywords: hibernate, jpa, orm
 published: true

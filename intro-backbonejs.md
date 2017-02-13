@@ -6,7 +6,10 @@ date: "2012-03-30"
 comments: true
 categories:
   - "Code"
-tags: [js, jquery, backbonejs]
+tags:
+  - "js"
+  - "jquery"
+  - "backbonejs"
 description: BackboneJs is a great resource for creating rich UIs.  Rich means interactive.  Interactivity grows when the client can do more of the work of an applicatio
 keywords: javascript, jquery, backbonejs
 published: true

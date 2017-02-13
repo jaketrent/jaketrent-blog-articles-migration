@@ -5,7 +5,10 @@ date: "2013-02-26"
 comments: true
 categories:
   - "Code"
-tags: [ruby, sinatra, js]
+tags:
+  - "ruby"
+  - "sinatra"
+  - "js"
 description: Your Sinatra webservice can be made to serve json quite easily.
 keywords: sinatra, json, sinatra-contrib, ruby
 published: true

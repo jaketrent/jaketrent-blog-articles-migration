@@ -5,7 +5,10 @@ date: "2015-06-26"
 comments: true
 categories:
   - "Code"
-tags: [js, bind, react]
+tags:
+  - "js"
+  - "bind"
+  - "react"
 description: JavaScript's Function.prototype.bind is a great tool to give you control over the this keyword.
 keywords: js, function, bind, function.prototype.bind, partial function application, context, react
 published: true

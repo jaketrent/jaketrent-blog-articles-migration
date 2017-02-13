@@ -5,7 +5,10 @@ date: "2016-08-23"
 comments: true
 categories:
   - "Code"
-tags: [js, express, nodejs]
+tags:
+  - "js"
+  - "express"
+  - "nodejs"
 description: How to handle 3 types of errors in an Express API in Node.
 keywords: js, javascript, express, nodejs, node, error handling, uncaughtException, middleware
 published: true

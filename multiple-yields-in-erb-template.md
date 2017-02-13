@@ -5,7 +5,10 @@ date: "2013-02-08"
 comments: true
 categories:
   - "Code"
-tags: [ruby, rails, erb]
+tags:
+  - "ruby"
+  - "rails"
+  - "erb"
 description: When you setup your Rails application, a single default yield block is created.  Learn how to setup multiple yields in your template.
 keywords: rails, erb, yield, multiple yield, template, code block
 published: true

@@ -6,7 +6,10 @@ date: "2010-01-04"
 comments: true
 categories:
   - "Code"
-tags: [linux, synergy, ubuntu]
+tags:
+  - "linux"
+  - "synergy"
+  - "ubuntu"
 description: <a href="http://synergy2.sourceforge.net/" target="_blank">Synergy</a> is a fantastic project that allows you to share a single set of input devices (keyboa
 keywords: linux, synergy, ubuntu
 published: true

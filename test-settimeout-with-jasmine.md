@@ -5,7 +5,10 @@ date: "2013-05-15"
 comments: true
 categories:
   - "Code"
-tags: [js, jasmine, underscore]
+tags:
+  - "js"
+  - "jasmine"
+  - "underscore"
 keywords: javascript, settimeout, setinterval, debounce, throttle, underscore, test, jasmine, mock, clock
 description: Code that utilizes setTimeout or setInterval becomes asynchronous.  Jasmine has some nice helpers to make your test synchronous again.
 published: true

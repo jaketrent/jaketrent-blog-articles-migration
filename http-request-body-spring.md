@@ -5,7 +5,10 @@ date: "2012-11-27"
 comments: true
 categories:
   - "Code"
-tags: [java, spring, http]
+tags:
+  - "java"
+  - "spring"
+  - "http"
 description: Want to read the body of a request within a Spring bean?  It takes a surprising amount of code.
 keywords: java, spring, http, request body
 published: true 

@@ -5,7 +5,10 @@ date: "2014-06-23"
 comments: true
 categories:
   - "Code"
-tags: [js, react, superagent]
+tags:
+  - "js"
+  - "react"
+  - "superagent"
 description: Help your React components set state safely in callbacks
 keywords: js, react, components, setState, componentWillUnmount, componentDidMount, unmounted
 published: true

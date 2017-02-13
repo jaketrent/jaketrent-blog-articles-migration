@@ -6,7 +6,10 @@ date: "2012-07-20"
 comments: true
 categories:
   - "Code"
-tags: [bash, js, nodejs]
+tags:
+  - "bash"
+  - "js"
+  - "nodejs"
 description: Node can fork and run external binaries.
 keywords: bash, javascript, nodejs, shell, spawn, fork, exec
 published: true

@@ -6,7 +6,10 @@ date: "2010-12-17"
 comments: true
 categories:
   - "Code"
-tags: [marklogic, typing, xquery]
+tags:
+  - "marklogic"
+  - "typing"
+  - "xquery"
 description: Recently, we've been working on writing an API using xquery.  We have wanted to make the API as solid as possible, since we're putting the brunt of the comp
 keywords: marklogic, typing, xquery
 published: true

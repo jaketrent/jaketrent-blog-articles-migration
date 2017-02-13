@@ -5,7 +5,10 @@ date: "2013-04-05"
 comments: true
 categories:
   - "Review"
-tags: [conf, ruby, rails]
+tags:
+  - "conf"
+  - "ruby"
+  - "rails"
 description: Mountain West Ruby Conference is the premier Ruby Conference in the Mountain West.  :)
 keywords: mountain west, ruby, ruby conf, rails, conference
 published: true

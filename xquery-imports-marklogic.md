@@ -6,7 +6,10 @@ date: "2011-01-28"
 comments: true
 categories:
   - "Code"
-tags: [marklogic, maven, xquery]
+tags:
+  - "marklogic"
+  - "maven"
+  - "xquery"
 description: When a person looks at an Xquery module import, ... um, sorry... he usually gets distracted by something else before he can get to the semicolon at the end 
 keywords: marklogic, maven, xquery
 published: true

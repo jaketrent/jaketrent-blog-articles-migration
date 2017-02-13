@@ -6,7 +6,10 @@ date: "2011-11-20"
 comments: true
 categories:
   - "Code"
-tags: [django, python, heroku]
+tags:
+  - "django"
+  - "python"
+  - "heroku"
 description: Django's manage.py script comes with some great utilitarian commands.  Two of my favorites are dumpdata and loaddata.  I've used these commands recently to 
 keywords: django, python, heroku
 published: true

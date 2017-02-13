@@ -5,7 +5,10 @@ date: "2016-01-26"
 comments: true
 categories:
   - "Code"
-tags: [js, nodejs, interviewing]
+tags:
+  - "js"
+  - "nodejs"
+  - "interviewing"
 description: A collection of Node.js skills to explore in an interview
 keywords: nodejs, js, interview, coding interview, technical interview, nodejs interview
 published: true

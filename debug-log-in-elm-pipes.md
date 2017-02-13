@@ -5,7 +5,10 @@ date: "2016-12-15"
 comments: true
 categories:
   - "Code"
-tags: [js, elm, debugging]
+tags:
+  - "js"
+  - "elm"
+  - "debugging"
 description: How to print to the console when piping data in Elm
 keywords: js, elm, debug, debug.log, console.log
 published: true

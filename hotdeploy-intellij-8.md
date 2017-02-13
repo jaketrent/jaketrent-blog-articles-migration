@@ -6,7 +6,10 @@ date: "2008-11-22"
 comments: true
 categories:
   - "Code"
-tags: [deployment, ide, intellij]
+tags:
+  - "deployment"
+  - "ide"
+  - "intellij"
 description: Development on JEE projects can be a real pain sometime.  1/2 of this (sometimes in literal minutes) is because of the need to spin up the server in order t
 keywords: deployment, ide, intellij
 published: true
