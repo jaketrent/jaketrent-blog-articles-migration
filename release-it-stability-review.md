@@ -6,7 +6,9 @@ date: "2009-08-18"
 comments: true
 categories:
   - "Review"
-tags: [functional-testing, requirements]
+tags:
+  - "functional-testing"
+  - "requirements"
 description: I recently read Release It! by Michael Nygard.  I became interested in this book when the NFJS 2008 panel cited it as their #1 suggested read.  In my view, 
 keywords: functional-testing, requirements
 published: true
