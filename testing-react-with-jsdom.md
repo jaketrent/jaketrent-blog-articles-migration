@@ -20,8 +20,6 @@ image: http://i.imgur.com/DXuSNbw.png
 
 React allows you to create components that will render UI for your application.  If your UI is of any complexity, you'll likely want to test that it functions correctly and allows for future refactors.  There are numerous ways to do this.  One way that you might appreciate is using [jsdom](https://github.com/tmpvar/jsdom), an in-JavaScript implementation of the DOM.
 
-![react on jsdom](http://i.imgur.com/DXuSNbw.png)
-
 <!--more-->
 
 ## What is jsdom?

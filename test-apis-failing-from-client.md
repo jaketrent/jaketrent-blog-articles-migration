@@ -16,8 +16,6 @@ image: http://i.imgur.com/8Fm1cn2.jpg
 
 In the case where you can't edit a local version of your APIs in order to cause them to fail, you need to be able to edit your client so that it *looks* like the API request fails.  Here's a quick code change that should make this easy for you.
 
-![We have a problem](http://i.imgur.com/8Fm1cn2.jpg)
-
 <!--more-->
 
 This is one of many possible manual testing techniques.  This allow you to see the change in your running app as you work through it.  For instance, I like to use this as I'm testing through the error alerting features that are common in an app when an API request fails.  

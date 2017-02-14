@@ -17,8 +17,6 @@ image: http://i.imgur.com/E5NwBek.png
 
 [react-dnd](http://gaearon.github.io/react-dnd/) is a fantastic library for implementing drag and drop features in a React application.  In browsers, you have the ability to specify a drag preview for the thing your dragging.  Images are easy.  Text takes more work -- because you need to generate an image.
 
-![react-dnd text drag previews](http://i.imgur.com/E5NwBek.png)
-
 <!--more-->
 
 I love the abstractions in react-dnd.  They seem very elegant.  We're going to need another abstraction here, because there's a short list of things that we need to do in order to get a text-based drag preview showing up in our app.  These things are required because drag previews in browsers only support images.  Thus we will need to take source text from our app code and convert it into an image in order to hand it off to the drag and drop api.

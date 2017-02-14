@@ -11,11 +11,10 @@ tags:
 description: Do you need to change variables per environment in NodeJs?  There's a great nconf package that helps out.
 keywords: js, nodejs, node, environment variables, nconf
 published: true 
+image: http://i.imgur.com/5rZ8H.png
 ---
 
 Sometimes things change in different environments.  For one, I wear a tie to church but try not to otherwise.  In Node, you might want variables to change per environment.  And it turns out people have wanted this exact thing, creating marvels of code for us to use as we please.  Enter, nconf.
-
-![Environment variables in Node](http://i.imgur.com/5rZ8H.png)
 
 <!--more-->
 

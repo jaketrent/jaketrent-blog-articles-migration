@@ -10,11 +10,10 @@ tags:
   - "angularjs"
 description: ngClicks can go on anything.  Your program might require that they be disabled at certain points.  Here's an easy directive to help.
 published: true
+image: http://i.imgur.com/wVBKD.png
 ---
 
 Angular's ngClicks can be attached to anything.  This makes it easy to add interactivity to elements on the DOM.  Your program might require that these click callbacks be disabled at certain points, such as during form processing.  ngClick doesn't have a toggle built in.  Let's build one that might help.
-
-![Angularjs](http://i.imgur.com/wVBKD.png)
 
 <!--more-->
 

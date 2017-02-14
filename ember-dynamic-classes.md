@@ -10,11 +10,10 @@ tags:
   - "ember"
 description: Get your UI to show classes based on the state of your Ember models.
 published: true
+image: http://i.imgur.com/85v8PQP.png
 ---
 
 In Ember, your state is separated from the UI inside models.  But, often you want the state of your models to be represented visually in the UI via dynamic class names.  Make it happen with `Ember.View`s.
-
-![Dynamic Classes with Ember Views](http://i.imgur.com/85v8PQP.png)
 
 <!--more-->
 

@@ -16,8 +16,6 @@ image: http://i.imgur.com/DXuSNbw.png
 
 React gives us a great component abstraction.  Each of these components represents a node in the DOM.  Each component is self contained, doesn't talk up the component hierarchy directly and passes explicit data and code down the hierarchy.  But what about when you have a React app that wants to reach out and modify something it doesn't control?
 
-![react modify body tag](http://i.imgur.com/DXuSNbw.png)
-
 <!--more-->
 
 ## A Couple Use Cases

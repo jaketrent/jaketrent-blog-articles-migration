@@ -17,8 +17,6 @@ image: http://i.imgur.com/DXuSNbw.png
 
 In React, you can setup components that fetch their own data and set their own state with that data.  Because of the async nature of data fetching, you’ll have to make sure to keep things cleaned up to avoid the error of trying to set state in an unmounted component.
 
-![React](http://i.imgur.com/DXuSNbw.png)
-
 <!--more-->
 
 **Updated** for React 0.13.  See below

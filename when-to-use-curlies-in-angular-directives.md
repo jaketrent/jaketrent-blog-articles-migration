@@ -11,11 +11,10 @@ tags:
 description: Angularjs has some sweet built-in directives.  Sometimes it can be confusing when to use the curly braces around expressions in directive attributes and when not to.  Here are a couple rules.
 keywords: js, javascript, angular, angular directives, angular direct curlies, curly braces
 published: true
+image: http://i.imgur.com/wVBKD.png
 ---
 
 Angularjs has some sweet built-in directives.  Sometimes it can be confusing when to use the curly braces around expressions in directive attributes and when not to.  Here are a couple rules.
-
-![Angular directive curlies](http://i.imgur.com/wVBKD.png)
 
 <!--more-->
 

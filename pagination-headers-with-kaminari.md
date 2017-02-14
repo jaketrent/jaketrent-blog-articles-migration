@@ -16,8 +16,6 @@ image: http://i.imgur.com/XOUecnw.jpg
 
 [Kaminari](https://github.com/amatsuda/kaminari) provides easy pagination in a rails app.  It's great to use.  We'll make it better by adding a little function to your controllers to provide useful pagination headers.
 
-![kaminari pagination](http://i.imgur.com/XOUecnw.jpg)
-
 <!--more-->
 
 ## Pagination from Kaminari

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "jQuery Mobile Selector Context"
@@ -16,6 +15,7 @@ published: true
 ---
 
 As web developers we're used to being able to write a jQuery selector and easily get the DOM elements back on the page that we're looking for.  In the case of jQuery Mobile, it's slightly more complicated because a "page" is a different beast.
+
 <!--more-->
 
 First Page Loads the Head

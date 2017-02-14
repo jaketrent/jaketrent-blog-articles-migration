@@ -11,11 +11,10 @@ tags:
 description: Jumpstart Lab offers a Ruby and Rails training.  I participated.  Here's what I thought.
 keywords: jumpstart lab, ruby, ruby on rails, rails, training, franklin webber
 published: true
+image: http://i.imgur.com/DniDljD.png
 ---
 
 [Jumpstart Lab](http://jumpstartlab.com/) offers a [Ruby training](http://www.jumpstartlab.com/courses/).  I recently attended.  I had a great experience and learned a lot in my first real introduction to Ruby and Ruby on Rails.  I would highly recommend the course.  Here are a few more details on my experience.
-
-![Jumpstart Lab](http://i.imgur.com/DniDljD.png)
 
 <!--more-->
 

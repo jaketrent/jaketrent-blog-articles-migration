@@ -17,8 +17,6 @@ image: http://i.imgur.com/ozzuTNQ.png
 
 As soon as we begin to write a test for our code, it is natural for us to think that we are doing a good thing, and often, we are.  Yet, I believe there are times that we’re writing tests when we’re hurting more than helping — and, of course, this is not on purpose.  To clarify, I’m an advocate for testing in general, and this is a short thought on how to make it better.
 
-![Double tests are not fine](http://i.imgur.com/ozzuTNQ.png)
-
 <!--more-->
 
 As soon as we begin to write a test for our code, it is natural for us to think that we are doing a good thing, and often, we are.  Yet, I believe there are times that we’re writing tests when we’re hurting more than helping — and, of course, this is not on purpose.  To clarify, I’m an advocate for testing in general, and this is a short thought on how to make it better.

@@ -12,11 +12,10 @@ tags:
 description: How to make a jsonp request in AngularJs for cross-domain requests.
 keywords: angularjs, js, javascript, cors, cross domain, jsonp, json
 published: true
+image: http://i.imgur.com/wVBKD.png
 ---
 
 There are a couple ways to make cross domain requests from a client browser.  One method is called Jsonp or Json with padding.  The AngularJs library makes this really simple.
-
-![AngularJs Jsonp](http://i.imgur.com/wVBKD.png)
 
 <!--more-->
 

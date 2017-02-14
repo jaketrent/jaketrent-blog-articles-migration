@@ -15,8 +15,6 @@ image: http://i.imgur.com/HmNq6Xz.jpg
 
 When there is a new software product to write, there's a decision to be made on what to write it in.  In other words, what tech should we use?  Technologists have technology they "like".  So then, what tech should they choose for the new project?  Does it matter what they like?
 
-![Like!](http://i.imgur.com/HmNq6Xz.jpg)
-
 <!--more-->
 
 ## We Like Different Tech

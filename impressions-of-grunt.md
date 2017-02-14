@@ -11,11 +11,10 @@ tags:
 description: My impressions of writing Grunt plugins and why one might want to.
 keywords: js, javascript, grunt, build configuration
 published: true 
+image: http://i.imgur.com/4773D.jpg
 ---
 
 Grunt is a great build tool for JavaScript projects.  It comes with a lot out of the box, and you can write your own custom tasks.  It joins a world fraught with many, glorious build tool options.  So, a bit has been made of the decision to have Grunt join the fray.  Perhaps most prominently, Miller Medeiros had [a few problems with Grunt](http://blog.millermedeiros.com/node-js-ant-grunt-and-other-build-tools/).  And in response, Ben Alman gave his reasoning on [why he wrote it](http://benalman.com/news/2012/08/why-grunt/).  Having used it for a bit, I have a few impressions.  Here they are so far.
-
-![Grunt impressions](http://i.imgur.com/4773D.jpg)
 
 <!--more-->
 

@@ -8,12 +8,10 @@ categories:
 tags:
   - "Design"
   - "team"
+image: http://i.imgur.com/GOXzL.jpg
 ---
 
 The Agile method of software creation contains many principles of development that will help create good software.  Some of my most successful projects have had as a key feature an agile designer.  As Jobs said, design *is* how it works, and that means that to really deliver well in an agile environment, design *and* development have to be on the agile train together.
-
-![Blueprint design](http://i.imgur.com/GOXzL.jpg)
-http://flic.kr/p/bpV8UA
 
 <!--more-->
 

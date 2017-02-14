@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Custom Exception Handling for AccessDeniedException"
@@ -16,6 +15,7 @@ published: true
 ---
 
 Our app throws all sorts of exceptions.  Well, it doesn't usually.  It shouldn't normally.  Er... But, when it does we want to put in some handling so that the app doesn't blow up in some unsuspecting user's face.  And even then, sometimes we want special handling for certain exceptions and make sure others are just caught.  And that's what we'll do with AccessDeniedException.
+
 <!--more-->
 
 The Simple Case

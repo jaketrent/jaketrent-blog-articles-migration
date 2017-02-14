@@ -10,11 +10,10 @@ tags:
   - "xquery"
 description: MarkLogic was a very new experience for me.  I don't program in it these days, but it helped me become a better programmer.
 published: true
+image: http://i.imgur.com/32OKIUH.png
 ---
 
 I started programming on the [MarkLogic](http://www.marklogic.com/) platform in 2010.  It was a very new experience for me.  I don't program in it these days, but I still think back on the experiences I had with MarkLogic and in general believe that they made me a better programmer.  Here's how.
-
-![MarkLogic](http://i.imgur.com/32OKIUH.png)
 
 <!--more-->
 

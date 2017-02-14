@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Test-driven Development on MarkLogic"
@@ -17,6 +16,7 @@ published: true
 ---
 
 Unit testing is a required part of a healthy software development lifecycle and a balanced breakfast.  But test-driven development is a rockin' part of an *awesome* development lifecycle.  What's the difference?  If you don't test-drive the dev of your MarkLogic XQuery, you may never come back to test again.  Test-driven XQuery development will ease your headaches, put you into the plush seat of a developer with confidence, and rocket you down the road to making all your wildest dreams come true.  Kachow!
+
 <!--more-->
 
 Ok, it may be slightly <em>more</em> magical than that.  But, I don't want to get your hopes up.  Seriously, though, if TDD is fun in, say Java Land (and it still is in MarkLogic land with "the Swede"), then it's a required portion of fun in MarkLogic Land?  Why?  While you might imagine yourself going back and adding tests to your Java project and sometimes you do, if you imagine it and then attempt it in your XQuery project, I believe the likelihood that you shrivel in shame and tears under your desk is much higher than in some other environments.

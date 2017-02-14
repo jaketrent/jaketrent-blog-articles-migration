@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Parameterized States in Webflow"
@@ -15,7 +14,7 @@ keywords: java, spring, webflow
 published: true
 ---
 
-My first experience with <a href="http://www.springsource.org/webflow" target="_blank">Spring Webflow</a> is on a project that uses Webflow 1.0.5.  So far, I'm impressed.  Apparently, Webflow 2 offers even more incredible awesomeness, but thusfar I would put my webflow experience over that of my previous couple years in Seam.  (I was just waiting for a chance to abandon that library anyway.)  
+My first experience with [Spring Webflow](http://www.springsource.org/webflow) is on a project that uses Webflow 1.0.5.  So far, I'm impressed.  Apparently, Webflow 2 offers even more incredible awesomeness, but thusfar I would put my webflow experience over that of my previous couple years in Seam.  (I was just waiting for a chance to abandon that library anyway.)  
 
 <!--more-->
 

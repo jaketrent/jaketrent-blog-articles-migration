@@ -13,11 +13,10 @@ tags:
 description: Mongoose is an object modeler for MongoDb in Node.js.  It has a great feature, population, for including references to other Mongoose models.
 keywords: nodejs, js, javascript, mongo, mongodb, mongoose, join, include objects
 published: true
+image: http://i.imgur.com/pezEyw7.jpg
 ---
 
 [Mongoose](http://mongoosejs.com) is an object modeler for [MongoDb](http://mongodb.org).  It has a particularly great feature, called [population](http://mongoosejs.com/docs/populate.html).  Population allows you to include other objects in a specified object.  It makes the process a lot easier and more automatic.
-
-![Mongoose](http://i.imgur.com/pezEyw7.jpg)
 
 <!--more-->
 

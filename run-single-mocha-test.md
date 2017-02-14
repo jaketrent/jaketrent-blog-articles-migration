@@ -11,11 +11,10 @@ tags:
 description: If you have a whole suite of Mocha tests, sometimes you don't want to run all of them.  Here's how to run a subset of Mocha tests.
 keywords: js, javascript, mocha, subset, run subset, run one
 published: true
+image: http://i.imgur.com/hbcnU.png
 ---
 
 When working inside your test suite, it's often the case that you don't want to run all of your tests.  Mocha has a great mechanism that allows you to easily specify what exactly you want run.  This can help make your processes such as TDD faster and more focused.
-
-![Mocha](http://i.imgur.com/hbcnU.png)
 
 <!--more-->
 

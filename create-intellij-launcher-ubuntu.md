@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Create an IntelliJ Launcher in Ubuntu"
@@ -16,6 +15,7 @@ published: true
 ---
 
 IntelliJ IDEA is a great development environment.  I enjoy it very much.  It complements the OS of pleasure, Linux.  I mostly the Ubuntu distro or a derivative.  Here's a easy way to get yourself an IntelliJ launcher so you don't have to run the bin/idea.sh file if you don't want to.
+
 <!--more-->
 
 As a note:  I'm still using IntelliJ 10.0.3 on my Linux machine.  I was having some issues with 10.5 gobbling 100% CPU.  Bad juju.

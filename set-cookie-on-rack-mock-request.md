@@ -17,8 +17,6 @@ image: http://i.imgur.com/044x6s6.jpg
 
 Rack apps are generally straightforward to test because of their very basic public interface.  But where do we put specific things, in this case, a cookie for the request, on that `env` argument it takes?  Here's one way.
 
-![rack mock request](http://i.imgur.com/044x6s6.jpg)
-
 <!--more-->
 
 # env

@@ -12,11 +12,10 @@ tags:
 description: Want to read the body of a request within a Spring bean?  It takes a surprising amount of code.
 keywords: java, spring, http, request body
 published: true 
+image: http://i.imgur.com/w8Ezm.jpg
 ---
 
 Spring is a great addition to your Java stack.  It helps you access the request for inside your Spring beans easily.  Maybe I'm doing it wrong, but reading the request body seems blasted verbose after that.  It takes a surprising amount of code.  
-
-![Happy Spring](http://i.imgur.com/w8Ezm.jpg)
 
 <!--more-->
 

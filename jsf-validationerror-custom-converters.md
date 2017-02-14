@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "JSF ValidationError with Custom Converters"

@@ -13,11 +13,10 @@ tags:
   - "rails"
 description: Rails asset pipeline allows you to use erb helpers in your CoffeeScript.  You'll still need to bring get these files into Karma runner.
 published: true
+image: http://i.imgur.com/i5fJT6j.png
 ---
 
 Rails asset pipeline allows you to use erb helpers in your CoffeeScript.  You'll still need to bring get these files into Karma runner.  It's really easy.  You just need to get to know your Karma config options.
-
-![erb files in Karma runner](http://i.imgur.com/i5fJT6j.png)
 
 <!--more-->
 

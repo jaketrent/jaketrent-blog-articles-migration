@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Use Java Reflection to Get Field w/ Accessor"
@@ -15,6 +14,7 @@ published: true
 ---
 
 Java is about objects.  Reflection is about knowing things about those objects generally without have specific fields and methods in hand.  I must get to one of those field values via its accessor, allowing me to keep the fields private and abstracted away... of course, until I start unit testing.  Here's one method...
+
 <!--more-->
 
 In our application, we use a jsf converter that converts the string representation of the a jpa-managed object into the object proper.  

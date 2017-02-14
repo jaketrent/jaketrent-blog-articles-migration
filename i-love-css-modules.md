@@ -17,8 +17,6 @@ image: http://i.imgur.com/MtjAduk.jpg
 
 I heard a fantastic yesterday by [Glen Maddern](https://twitter.com/glenmaddern) where Interoperable CSS was well-illustrated as the fantastic CSS language advancement that it is.  I was happy to hear hushed ooo's and ahh's from the audience as they realized the power of what they were seeing.  I have been enjoying the benefits of CSS modules myself and my team and would share some of my favorite features in hopes that others will be inclined to use this feature as well.  Cleanse the world of global stylesheets!
 
-![i love css modules](http://i.imgur.com/MtjAduk.jpg)
-
 <!--more-->
 
 ## Local Variables

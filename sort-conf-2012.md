@@ -7,12 +7,10 @@ categories:
   - "Review"
 tags:
   - "conf"
+image: http://i.imgur.com/q1cr5.jpg
 ---
 
 The sky lightens with the rising sun.  Wheels are on the road.  Friends are in the car.  The leaves are changing on the towering Wasatch mountains.  Finally, we pull up to the University of Utah Institute building.  Stepping out of the car, the October air is fresh and clear, high in the Rockies.  It's a good day for a tech conference.  It's a good day for SORT.
-
-![Wasatch mountains](http://i.imgur.com/q1cr5.jpg)
-http://flic.kr/p/bDP2fF
 
 <!--more-->
 

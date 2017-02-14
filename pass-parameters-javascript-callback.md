@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Pass Parameters to Javascript Callback"
@@ -16,6 +15,7 @@ published: true
 ---
 
 Callback functions are a nice feature of Javascript.  It's nice to be able to just use a function handle to show that it should be called when a certain something completes.  Sometimes, however, we want to do more than just specify a function handle.  We want to pass parameters.  Why?  Because sometimes the callback method cares about other data that was available before the original request.  Here's an example:
+
 <!--more-->
 
 As a part of the same voting mechanism that I wrote about for [this article on event handler parameter passing](http://rockycode.com/blog/pass-parameters-jquery-event-functions/), I wanted to keep id and (vote) direction around for the callback, which was to update the UI.  

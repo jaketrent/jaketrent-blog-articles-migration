@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Hibernate Bind Variable in OrderBy Clause"
@@ -16,6 +15,7 @@ published: true
 ---
 
 I have spent mucho time trying to get some named parameters working in the "order by" clause of a dynamic sql query that I'm building.  The query isn't even HQL/JPQL.  It's native.  And yet, it turns out that you cannot use bind variables, named or ordered, in an order by clause.  
+
 <!--more-->
 
 I was trying to do something like this:

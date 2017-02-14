@@ -11,11 +11,10 @@ tags:
 description: Jetbrains makes quality coder products.  IntelliJ 12 is no exception.  Here's what I mostly like.
 keywords: ide, jetbrains, intellij, idea, darkula, review
 published: true 
+image: http://i.imgur.com/RM3Q1.jpg
 ---
 
 I've used IntelliJ since version 6.  Now we're version 12.  It's just gotten better.  Version 12 is definitely an incremental release.  There's nothing too whiz bang here that I care about, but the quality overall is increased.  
-
-![IntelliJ 12](http://i.imgur.com/RM3Q1.jpg)
 
 <!--more-->
 

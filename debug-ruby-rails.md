@@ -11,11 +11,10 @@ tags:
 description: Interactive debugging is a nice dev tool to have.  It's easy to get in Ruby with a debugger gem.
 keywords: ruby, rails, debugger, interactive debugging, debug
 published: true
+image: http://i.imgur.com/Z7WWtL0.jpg
 ---
 
 Interactive debugging can sometimes be faster and more effective in helping you code than a `puts` statement.  It's easy to get interactive debugging in Ruby or on Rails with the help of a nice gem.
-
-![Ruby](http://i.imgur.com/Z7WWtL0.jpg)
 
 <!--more-->
 

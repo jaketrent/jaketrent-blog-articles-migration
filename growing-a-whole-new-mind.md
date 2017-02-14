@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Growing a Whole New Mind"

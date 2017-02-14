@@ -9,11 +9,10 @@ tags:
   - "js"
   - "grunt"
   - "npm"
+image: http://i.imgur.com/4773D.jpg
 ---
 
 Have you used GruntJs to build your JavaScript project yet?  It's a great tool.  Often as a part of the build configuration, you'll want to access your package.json with grunt.  Grunt has some built-in support for this.  Some bits can be a little tricky, and some plugins have limited support.  Here are some ways around all that.
-
-![Grunt JS](http://i.imgur.com/4773D.jpg)
 
 <!--more-->
 

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Thoughts on Customization and Convention"
@@ -16,6 +15,7 @@ published: true
 ---
 
 There is an epic balancing act in software today, fought between customization and convention.  When to build, when to buy?  When to create new solutions or reuse those already created?  What are the pros and cons to either?  I don't think that there is a quick answer that is going to always be true for any of these questions?  Each situation brings with it too many diverse aspects.  But, here are some of my observations.
+
 <!--more-->
 
 * If you buy instead of build, expect to change your business processes to match the purchased product or expect to build onto what you have bought.

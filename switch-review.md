@@ -16,8 +16,6 @@ image: http://i.imgur.com/zjnOrqX.jpg
 
 The book is called Switch: How to Change Things When Change is Hard.  It's by Chip Heath and Dan Heath.  It shows interesting anecdotes and good strategies on how to motivate people and situations to change.
 
-![Switch](http://i.imgur.com/zjnOrqX.jpg)
-
 <!--more-->
 
 ## Who are you?

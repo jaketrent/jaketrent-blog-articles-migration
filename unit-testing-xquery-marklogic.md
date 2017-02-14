@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Unit Testing XQuery on MarkLogic"
@@ -24,6 +23,7 @@ Skills: We'll code Xquery examples to learn general skills including the TDD wor
 Tools: We'll also introduce you to in-house-developed tooling for creating unit tests and running them.  This tooling provides an all-Xquery method of creating test functions, annotating them as such so they're runnable in the test runner, isolating certain modules to test, and viewing clear test results.
 
 With a few principles, skills, and tools for unit testing, you can go forward with increased confidence that the Xquery code you write on MarkLogic is more awesome than ever.
+
 <!--more-->
 
 This slide deck is from a presentation at the MarkLogic Users Conference 2011.  

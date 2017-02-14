@@ -10,11 +10,10 @@ tags:
   - "js"
 description: Usually attributes of your Angular controllers are not namespaced.  But you can namespace them.  But you might not want to.
 published: true
+image: http://i.imgur.com/wVBKD.png
 ---
 
 Usually attributes of your Angular controllers are not namespaced.  But you can namespace them.  But you might not want to.
-
-![AngularJs controller namespacing](http://i.imgur.com/wVBKD.png)
 
 <!--more-->
 

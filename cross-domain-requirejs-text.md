@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Cross-Domain RequireJs Text"
@@ -18,6 +17,7 @@ published: true
 ---
 
 Through long-available browser quirks/features, javascript has been available for requests across disparate domains.  But, other resources, such as text files (eg, handlebars templates) have had more restrictions placed on them.  Recently, CORS support has enhanced the ability to make these requests.  Here's how you get your text files from another domain via requirejs.
+
 <!--more-->
 
 ## CORS

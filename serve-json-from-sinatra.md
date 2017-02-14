@@ -12,11 +12,10 @@ tags:
 description: Your Sinatra webservice can be made to serve json quite easily.
 keywords: sinatra, json, sinatra-contrib, ruby
 published: true
+image: http://i.imgur.com/ZyCgi56.jpg
 ---
 
 By default, Sinatra knows how to serve up a rendered html page.  With a slight tweak, we can make it spit out Json too!
-
-![JSON on Sinatra](http://i.imgur.com/ZyCgi56.jpg)
 
 <!--more-->
 

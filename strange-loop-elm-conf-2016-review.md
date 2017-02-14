@@ -15,8 +15,6 @@ image: http://i.imgur.com/SusCISQ.jpg
 
 Here's a quick conference review and some highlight bullets from some of my favorite parts.  It was my first time going to Strange Loop.  It was also host to the first Elm Conf ever.  I was excited to go to both.  I was looking for new, eclectic content to consider.  I was not disappointed.
 
-![strange loop and elm-conf](http://i.imgur.com/SusCISQ.jpg)
-
 <!--more-->
 
 ## Venue

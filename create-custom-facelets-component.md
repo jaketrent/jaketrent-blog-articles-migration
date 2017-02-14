@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Create Custom Facelets Component"
@@ -16,6 +15,7 @@ published: true
 ---
 
 Facelets is a great addition to jsf.  It is very extensible, and it makes creating custom components even easier.  It's fantastic.  This is almost TOO easy.  If you have a pile of view markup and/or client-side logic, then this is a good option.  And by good, I mean awesome.
+
 <!--more-->
 
 In memory of a good [sandwich post](http://bentanner.blogspot.com/2009/02/lets-talk-about-sandwiches-baby.html), I present this to you al la phases.

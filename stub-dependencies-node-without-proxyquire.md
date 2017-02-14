@@ -17,8 +17,6 @@ image: http://i.imgur.com/1arT8Ho.jpg
 
 When testing a unit, often you'll want to stub out that unit's dependencies.  Some libraries will help you do this.  But you can do it with plain JavaScript, and it works quite well.
 
-![nodejs testing](http://i.imgur.com/1arT8Ho.jpg)
-
 <!--more-->
 
 ## Stubbing Dependencies

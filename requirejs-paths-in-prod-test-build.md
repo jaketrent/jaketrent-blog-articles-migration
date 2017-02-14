@@ -12,11 +12,10 @@ tags:
 description: One of the hardest parts of RequireJs can be the pathing.  Making your paths work in prod and in test environments -- even more adventuresome.
 keywords: js, requirejs, testacular, testing, r.js, build, paths
 published: true 
+image: http://i.imgur.com/xZqm5.png
 ---
 
 RequireJs makes dependency management on the client mostly better.  Once it's setup, it's nice.  Getting the patterns of your paths to work correctly can be difficult to setup, depending on the constraints of your system.  Making the same paths work in a prod, test, and build environment can be even more adventuresome.  In my case, there were a few extra hoops.  My scenario might not fully match yours, but perhaps you can apply this solution to your own needs.
-
-![Alt Text](http://i.imgur.com/xZqm5.png)
 
 <!--more-->
 

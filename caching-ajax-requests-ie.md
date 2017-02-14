@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Caching Ajax Requests in IE"

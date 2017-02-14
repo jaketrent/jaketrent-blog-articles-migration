@@ -17,8 +17,6 @@ image: http://i.imgur.com/DXuSNbw.png
 
 Once upon a time, react-router transferred params and query params from the url via props into components.  It doesn't happen this way any more.  So, let's say you have a need in your component like overriding `shouldComponentUpdate` in your component which only has access to `this.props` and `this.state`.   How can you use the url data to affect the component re-render or not?
 
-![react](http://i.imgur.com/DXuSNbw.png)
-
 <!--more-->
 
 ## Why control rendering with the url?

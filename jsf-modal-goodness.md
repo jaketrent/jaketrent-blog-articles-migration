@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "JSF Modal Goodness"
@@ -20,6 +19,7 @@ published: true
 Meet the new web.  The simpler the better. The cleaner the better.  The more pleasing the colors the better.  The fuzzier feelings the better.  The latest fuzzies have been brought on by a slew of modals.  Previously, we haven't used many modals in our layouts and designs, so here's the first working pattern on how to get this kind of stuff working.  
 
 This solution allows content to appear in a modal, validation errors to post back to the modal, edits made in a modal to persist back to the database, and success messages to appear on parent page.
+
 <!--more-->
 
 Meet the new web.  The simpler the better. The cleaner the better.  The more pleasing the colors the better.  The fuzzier feelings the better.  The latest fuzzies have been brought on by a slew of modals.  Previously, we haven't used many modals in our layouts and designs, so here's the first working pattern on how to get this kind of stuff working.  

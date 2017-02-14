@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "EasyMock Cause-Effect Exception Mapping"

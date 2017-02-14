@@ -11,11 +11,10 @@ tags:
 description: Heroku has a great addon to setup DNS routing for you called Zerigo.  Here's help where the docs fail.
 keywords: heroku, zerigo, dns, nameserver, bamboo, h70
 published: true
+image: http://i.imgur.com/6DUwRKt.png
 ---
 
 Once upon a time, I could setup DNS super easily on Heroku using their Zerigo DNS addon.  Lately, I tried again using the same pattern and failed.  Here's an updated step-by-step guide.
-
-![Heroku and Zerigo](http://i.imgur.com/6DUwRKt.png)
 
 <!--more-->
 

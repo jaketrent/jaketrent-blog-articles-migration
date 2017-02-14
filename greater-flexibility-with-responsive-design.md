@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Greater Flexibility with Responsive Design"
@@ -17,6 +16,7 @@ published: true
 ---
 
 With the advent of mobile devices, tablets, and screens attached to your toaster, we as web developers -- er, ninjas -- can no longer be ok with creating markup and styles that only appear properly in a traditional desktop environment.  Well, I guess we could, but we'd soon be defeated by much more gnarly ninjas.  Based on work and ideas of the Unstoppable Robot Ninja himself, your css dexterity is sure to reach levels of cosmic explosion by reviewing just a few principles of responsive design.
+
 <!--more-->
 
 Ebb and Flow

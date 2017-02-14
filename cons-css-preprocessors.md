@@ -13,11 +13,10 @@ tags:
 description: They're awesome, but CSS preprocessors come with a few cons.  Don't dump your preprocessor, just work through the cons.
 keywords: css preprocessor, css, less, stylus, sass
 published: true
+image: http://i.imgur.com/Mzozm.jpg
 ---
 
 If you have any sizeable stylesheet these days, you should use a CSS preprocessor.  They're awesome, but they come with a few cons.  The pros still definitely out-weigh the cons.  Use the preprocessor.  The cons are just things you'll want to look out for to make your experience with CSS preprocessors better.
-
-![CSS Preprocessors](http://i.imgur.com/Mzozm.jpg)
 
 <!--more-->
 

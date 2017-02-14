@@ -15,6 +15,7 @@ published: true
 ---
 
 The amount of content on the blog and its pages has become substantial (in length only) enough to make it a worthwhile idea to paginate it (spread the content over multiple pages).  Django makes it very easy!  There are some nice objects available for paginating.
+
 <!--more-->
 
 The amount of content on the blog and its pages has become substantial (in length only) enough to make it a worthwhile idea to paginate it (spread the content over multiple pages).  Django makes it very easy!  There are some nice objects available for paginating.

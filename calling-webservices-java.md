@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Calling Webservices in Java"
@@ -18,6 +17,7 @@ published: true
 ---
 
 In Java Land, everything is tied up in multiple layers of multi-colored wrapping paper.  The abstraction often provides niceties and protections and convenience, etc.  But, sometimes it practically makes you forget where you are.  For instance, why would anyone write a little howto on requesting something over the web from the context of the web.  That should be easy, right?  Well, yes, I think so.  And it turns out it is in Java, as it is in many <a href="http://developer.marklogic.com/pubs/5.0/apidocs/Ext-2.html">other languages</a>.  It's just that there you're super close to the HTTP protocol all the time, and in many Java uber-frameworks, if you want to know how to break into the low-level operations, you have to know where the fire exit is.
+
 <!--more-->
 
 The Right Class

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "'And' Spring @Secured Roles"

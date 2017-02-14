@@ -12,11 +12,10 @@ tags:
 description: How do you install a package with npm that's not in the npm registry?  Perhaps you're developing a package locally.  A few options.
 keywords: js, javascript, node, nodejs, npm, local install, package
 published: true 
+image: http://i.imgur.com/xnDMm.jpg
 ---
 
 Sometimes you'll want to use [npm](http://npmjs.org/) to install a package that doesn't exist in the official npm registry for some reason.  Maybe you're developing the package yourself.  Maybe it's an internal use-only package. Maybe the package writer never published it.  Here are a few ways to install a local package with npm.
-
-![Node Package Manager](http://i.imgur.com/xnDMm.jpg)
 
 <!--more-->
 

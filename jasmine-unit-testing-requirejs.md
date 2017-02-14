@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Jasmine Unit Testing with RequireJS"
@@ -18,6 +17,7 @@ published: true
 ---
 
 As more application logic gets pushed into the browser for client-heavy apps, the need for javascript testing increases.  Lately, I've been doing some Jasmine unit testing of an application that uses RequireJS.  Here are some general pointers and potential pitfalls to watch for.
+
 <!--more-->
 
 Jasmine Standalone

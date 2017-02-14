@@ -15,8 +15,6 @@ image: http://i.imgur.com/aG1CC3U.jpg
 
 I went to my first [Fluent conf](http://conferences.oreilly.com/fluent/javascript-html-us) this year.  It was a generally good experience.  I enjoyed the company and the topics.  Maybe I'll go again.
 
-![Fluent Conf](http://i.imgur.com/aG1CC3U.jpg)
-
 <!--more-->
 
 ## Training

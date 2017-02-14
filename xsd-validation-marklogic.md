@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "XSD Validation in MarkLogic"

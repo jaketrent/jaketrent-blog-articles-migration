@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "ConcurrentModificationException Within One Thread"
@@ -15,6 +14,7 @@ published: true
 ---
 
 I at first thought it odd that a ConcurrentModificationException could be thrown w/in the context of a single Thread.  But, what do you know, it can!  And I seem to be getting better at writing code that does!
+
 <!--more-->
 
 As a part of a recent hack, I wanted to remove a certain element from a list.  As I was iterating over the list, I tried to find an object that met a certain criteria and then remove it, as follows:

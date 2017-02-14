@@ -12,11 +12,10 @@ tags:
 description: Specific versions of Ember require specific versions of Handlebars.  Here's a way to help them match.
 keywords: js, coffeescript, javascript, ember, handlebars, version
 published: true
+image: http://i.imgur.com/x5HT4FN.jpg
 ---
 
 [Ember](http://emberjs.com) is very specific about what version of [Handlebars](http://handlebarsjs.com) it requires.  This is probably good, but it's also a pain to work with as different versions of the two libraries are released independently.  There are a few good tools to help us out.
-
-![Ember and Handlebars](http://i.imgur.com/x5HT4FN.jpg)
 
 <!--more-->
 

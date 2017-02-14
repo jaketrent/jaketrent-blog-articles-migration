@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Application Audio Control in Ubuntu"
@@ -15,6 +14,7 @@ published: true
 ---
 
 I love the volume control scheme for Vista that allows one to adjust the volume on a per-application basis.  It turns out that this functionality is also available for Linux!
+
 <!--more-->
 
 I love the volume control scheme for Vista that allows one to adjust the volume on a per-application basis.  It turns out that this functionality is also available for Linux!

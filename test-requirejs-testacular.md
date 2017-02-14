@@ -10,6 +10,7 @@ tags:
   - "requirejs"
   - "testacular"
   - "mocha"
+image: http://i.imgur.com/7gh40.jpg
 ---
 
 Did you write your source code as JavaScript AMD modules in [RequireJs](http://requirejs.org/)?  Do you want to test them in real browsers?  Do you want the flexibility of using [Mocha](http://visionmedia.github.com/mocha/) or [Jasmine](http://pivotal.github.com/jasmine/)?  This is the moment you've been waiting for.
@@ -17,8 +18,6 @@ Did you write your source code as JavaScript AMD modules in [RequireJs](http://r
 [Testacular is a "spetacular test runner for JavaScript"](http://vojtajina.github.com/testacular/) that was written to support the [AngularJs](http://angularjs.org/) project.  It is valuable because it will run your tests in real browsers.  This is important for front-end code that relies on browser globals such as `window` (eg, if you use jQuery) or that manipulates the DOM (which could vary browser to browser).
 
 Client-side JavaScript testing is a somewhat crazy space.  Some have even called it ["insane"](http://rzrsharp.net/2012/08/01/client-side-testing-insanity.html) and taken drastically different routes than what follows.  But we're gonna see if we can power through, and Testacular will help us get the job done.
-
-![Testacular Javascript Testing](http://i.imgur.com/7gh40.jpg)
 
 <!--more-->
 

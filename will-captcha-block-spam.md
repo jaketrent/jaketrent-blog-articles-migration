@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Will a Captcha Block Spam?"
@@ -18,6 +17,7 @@ published: true
 ---
 
 I really need an answer to this question.  Why?  Because I was, until recently, on the verge of shutting down the comments on the site because of the load of blog spam that I was receiving.  It was insufferable.  But, luckily, Django came to my rescue again and made a potential solution very pain-free -- except for one problem.
+
 <!--more-->
 
 My friend Josh introduced me to a good little captcha for Django: <a href="http://django.agami.at/media/captcha/">Captcha for Django 1.1</a>.  There are several other captchas out there: <a href="http://code.google.com/p/django-captcha/">Djaptcha</a>, <a href="http://www.mysoftparade.com/blog/mathematical-captcha/">MathCaptchaForm</a> and some good <a href="http://www.rkblog.rk.edu.pl/w/p/django-and-captcha-images/">tutorials</a>.  But, I like this captcha solution for a couple reasons: 

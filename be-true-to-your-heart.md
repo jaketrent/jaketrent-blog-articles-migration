@@ -11,11 +11,10 @@ tags:
 description: When you're interviewed, be honest in your interests, and stick to them.
 keywords: interviewing, software, passion, interests
 published: true
+image: http://i.imgur.com/fYzBj.png
 ---
 
 When you're interviewing and are asked to share what you're most interested in.  You'd better know.  You'd better be enthused about it.  And don't abandon it, or you'll look insincere.
-
-![Alt Text](http://i.imgur.com/fYzBj.png)
 
 <!--more-->
 

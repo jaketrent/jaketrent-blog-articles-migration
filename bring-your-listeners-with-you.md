@@ -15,8 +15,6 @@ image: http://i.imgur.com/keI6970.jpg
 
 Remember that last time that you spoke at a conference and really felt like you had connected with your audience?  You were able to keep them with you for the length of your journey.  You felt like they grew and were enlightened with you.  There's a certain magic to that, and there's also some deliberate thought you can give the experience that will help it happen more often.
 
-![Speaking](http://i.imgur.com/keI6970.jpg)
-
 <!--more-->
 
 ## Set Expectations

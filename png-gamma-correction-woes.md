@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "PNG Gamma Correction Woes"

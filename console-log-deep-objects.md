@@ -16,8 +16,6 @@ image: http://i.imgur.com/00WAox4.jpg
 
 With deep object structures, `console.log` can leave you wondering what's down in the depths of the objects you're printing out.  Here's a quick help from Node stdlib.
 
-![console.log deep objects](http://i.imgur.com/00WAox4.jpg)
-
 <!--more-->
 
 You can usually see the objects that you're `console.log`ing, and life is good:

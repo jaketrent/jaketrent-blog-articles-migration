@@ -14,11 +14,10 @@ tags:
 description: Yeoman will generate a static site.  Make a few changes, and you can have it running on Heroku.
 keywords: heroku, yeoman, nodejs, javascript, grunt
 published: true
+image: http://i.imgur.com/1Mc2kXh.jpg
 ---
 
 Yeoman is great developer tool that will help you generate a project format that is easy to get up and running quickly.  Out of the box, Yeoman only generates static sites.  But, with a few small tweaks, you can get it running on an app server, Nodejs, and up on Heroku.
-
-![Yeoman](http://i.imgur.com/1Mc2kXh.jpg)
 
 <!--more-->
 

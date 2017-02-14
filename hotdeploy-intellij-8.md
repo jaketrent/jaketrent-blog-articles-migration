@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Hotdeploy in Intellij 8"
@@ -18,6 +17,7 @@ published: true
 Development on JEE projects can be a real pain sometime.  1/2 of this (sometimes in literal minutes) is because of the need to spin up the server in order to run your code.  This server startup time can be a killer of one's development momentum. 
 
 True to its mantra, IntelliJ IDEA delivers some goodness is making this pain a little more pleasurable -- if that's possible.
+
 <!--more-->
 
 Development on JEE projects can be a real pain sometime.  1/2 of this (sometimes in literal minutes) is because of the need to spin up the server in order to run your code.  This server startup time can be a killer of one's development momentum.  If one is trying to make a change to code and then follow through and check the resulting differences, it can be much like running downstairs in one's house to fetch something, forgetting what that something was upon arrival.

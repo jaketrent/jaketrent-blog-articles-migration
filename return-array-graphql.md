@@ -16,8 +16,6 @@ image: http://i.imgur.com/RitF21I.jpg
 
 [GraphQL](http://graphql.org/) provides a query language to define the shape of data you'd like returned from an HTTP API on a server and a library to help make it happen.  It's easy to return a single item or multiple items.
 
-![graphql](http://i.imgur.com/RitF21I.jpg)
-
 <!--more-->
 
 # Query Many Items

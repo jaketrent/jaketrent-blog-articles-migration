@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Virtual Box on Ubuntu Linux"
@@ -17,6 +16,7 @@ published: true
 ---
 
 As awesome as Linux is, I still have moments where I want something from the Windows world.  Shy of putting a whole dual-booted partition on my harddrive, I am doing the virtual machine gig.  I have tried VMWare before, but have just found the whole experience rather clunky.  I even found VirtualPC (running on Windows) more pleasing.  Another big kicker with VM's is performace -- I can't ever seem to get even comparable performance from a VM.  Several of my coworkers report, however, that they are please with the performance of Sun's VirtualBox.  I, therefore, am giving it a try.
+
 <!--more-->
 
 As awesome as Linux is, I still have moments where I want something from the Windows world.  Shy of putting a whole dual-booted partition on my harddrive, I am doing the virtual machine gig.  I have tried VMWare before, but have just found the whole experience rather clunky.  I even found VirtualPC (running on Windows) more pleasing.  Another big kicker with VM's is performace -- I can't ever seem to get even comparable performance from a VM.  Several of my coworkers report, however, that they are please with the performance of Sun's VirtualBox.  I, therefore, am giving it a try.

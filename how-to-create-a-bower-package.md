@@ -10,11 +10,10 @@ tags:
   - "bower"
 description: Bower is a client-side package manager.  To make it really useful, package your own components.  Here's how.
 published: true
+image: http://i.imgur.com/t4XxrHn.jpg
 ---
 
 Bower is a client-side or browser package manager.  It will handle your 3rd-party packages that are registered with the service.  To make it more useful, you can package up some of your own code and create a component to install with Bower.
-
-![Bower](http://i.imgur.com/t4XxrHn.jpg)
 
 <!--more-->
 

@@ -17,8 +17,6 @@ image: http://i.imgur.com/xRlumnh.jpg
 
 Some have surmised that working more will help their team.  It may.  It may not.  It depends.  Here's just one collection of thoughts on how working significantly _more_ than the _rest_ of our team might not help and may actually hinder.
 
-![Rise together as a team](http://i.imgur.com/xRlumnh.jpg)
-
 <!--more-->
 
 ## What is "More"?

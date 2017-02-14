@@ -12,11 +12,10 @@ tags:
 description: Livereload allows you to make code changes and see your changes in the browser without refreshing.
 keywords: nodejs, js, grunt, grunt-livereload, connect-livereload
 published: true
+image: http://i.imgur.com/4773D.jpg
 ---
 
 LiveReload is a wonderful tool/strategy for being able to develop websites more quickly.  You can make a change and see it immediately shown in the browser without requiring you to manually refresh.  To do this in NodeJs with Express, you'll need just a few packages.
-
-![grunt](http://i.imgur.com/4773D.jpg)
 
 <!--more-->
 

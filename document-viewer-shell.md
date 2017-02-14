@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Document Viewer in the Shell"
@@ -16,6 +15,7 @@ published: true
 ---
 
 For me, one of the major draws for Linux is the oh-so-awesome bash shell.  I also like the default pdf viewer for Ubuntu.  I always forget that this thing is called evince.  
+
 <!--more-->
 
 For me, one of the major draws for Linux is the oh-so-awesome bash shell.  I also like the default pdf viewer for Ubuntu.  I always forget that this thing is called <a href="http://www.gnome.org/projects/evince/">evince</a>.  It's a gnome project and is very nice.  Xpdf is also nice, but not preinstalled, but still pretty fast.  

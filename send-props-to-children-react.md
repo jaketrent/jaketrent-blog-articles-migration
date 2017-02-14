@@ -16,8 +16,6 @@ image: http://i.imgur.com/DXuSNbw.png
 
 In React, you're always making components.  Sometimes components are standalone.  Other times, you'll have components that can nest children components.  Sometimes you'll want to send properties to the children components from the parent as often as a doting parent wants to send packages to a child missionary.  It's possible, it's simple, and it's not documented super well.  Here's one method.
 
-![React](http://i.imgur.com/DXuSNbw.png)
-
 <!--more-->
 
 *Updated: 29 Apr 2016 for React 15.x.*

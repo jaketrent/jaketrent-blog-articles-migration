@@ -17,8 +17,6 @@ image: http://i.imgur.com/ApNvY7f.jpg
 
 NewRelic is a monitoring vendor that has good support for Node.js apps.  When your Node app goes down, you'll want to tell NewRelic about it.  It's surprisingly easy.
 
-![newrelic](http://i.imgur.com/ApNvY7f.jpg)
-
 <!--more-->
 
 ## `newrelic` npm Package

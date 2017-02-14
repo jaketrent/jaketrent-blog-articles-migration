@@ -12,11 +12,10 @@ tags:
 description: CoffeeScript is nice.  Sinatra is nice.  Get Sinatra to serve your nice CoffeeScript.
 keywords: sinatra, coffeescript, ruby
 published: true
+image: http://i.imgur.com/Ta27Zd4.jpg
 ---
 
 Sinatra is nice because it's super lightweight.  This will allow you to make it do exactly what you want, nothing more.  This is the opposite of Ruby on Rail's convention.  Likewise, it takes just a bit more configuration to make Sinatra serve CoffeeScript as compared to Rails.
-
-![Sintra and CoffeeScripting](http://i.imgur.com/Ta27Zd4.jpg)
 
 <!--more-->
 

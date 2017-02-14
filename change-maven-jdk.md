@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Change Maven JDK"
@@ -15,6 +14,7 @@ published: true
 ---
 
 Sometimes you want Maven to compile your code with a different JDK than is the one assigned to your JAVA_HOME.  For instance, I have code in a project that I'm working on that only compiles on Java 1.5.  My JAVA_HOME, however, is 1.6.  So, how do we specify the JDK for Maven?
+
 <!--more-->
 
 Go to the pom.xml for the module or submodule that needs a specific JDK version for compilation, and insert such a goody:

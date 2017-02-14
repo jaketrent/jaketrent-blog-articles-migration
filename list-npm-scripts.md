@@ -17,8 +17,6 @@ image: http://i.imgur.com/ZDCd9u1.png
 
 Tools for storing and then later easily running scripts alias names are awesome.  Npm is one of those tools.  Rake is another.  Rake has a cool feature of allowing you to list the scripts available to you.  Npm has not -- until now.
 
-![npm](http://i.imgur.com/ZDCd9u1.png)
-
 <!--more-->
 
 ## Npm Scripts

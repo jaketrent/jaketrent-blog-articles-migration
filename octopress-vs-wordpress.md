@@ -12,11 +12,10 @@ tags:
   - "octopress"
 description: Octopress vs. WordPress.  Which should I use for my blog?  I chose WordPress first, then went to Octopress.  Here are some points of comparison.
 keywords: octopress, wordpress, php, ruby, blog
+image: http://i.imgur.com/uACBn.jpg
 ---
 
 Why would one choose Octopress over WordPress?  What are the pros and cons?  I've recently implemented a blog -- this blog -- in WordPress.  It was a difficult decision for me.  At the time, I looked at Octopress, but I was jazzed by the success of others on WordPress, and I wanted to try it out.  I'm glad that I did try it out, but now I'm glad that I've switched to Octopress.  Here's why.
-
-![Octopress](http://i.imgur.com/uACBn.jpg)
 
 <!--more-->
 

@@ -12,11 +12,10 @@ tags:
 description: Sinon provides spies, stubs, mocks.  They're all useful as fakes in tests with essential differences.
 keywords: js, sinon, spy, stub, mock, unit testing, mocha
 published: true
+image: http://i.imgur.com/yuKcrP9.jpg
 ---
 
 [Sinon](http://sinonjs.org/) provides spies, stubs, and mocks.  They're all useful as fakes in tests.  They come with essential differences for what they're helpful in doing and how they work.
-
-![spies vs stubs](http://i.imgur.com/yuKcrP9.jpg)
 
 <!--more-->
 

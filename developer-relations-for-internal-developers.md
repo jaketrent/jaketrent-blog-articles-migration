@@ -7,12 +7,10 @@ categories:
   - "Productivity"
 tags:
   - "career"
+image: http://i.imgur.com/QAxW5.jpg
 ---
 
 When a company has a platform or API that it wants outside developers to create cool stuff on, it will sometimes create a developer relations group. This group will help developers get what they need. What about custom dev shops that already have a host of developers? Who's watching these developers' backs?
-
-![Love note](http://i.imgur.com/QAxW5.jpg)
-http://flic.kr/p/5iwNAG
 
 <!--more-->
 

@@ -7,11 +7,10 @@ categories: [Review]
 description: Want to have an awesome life?  Start today and find it.
 keywords: start, jon acuff, awesome, start book, stages of awesome
 published: true
+image: http://i.imgur.com/ERlkwHb.jpg
 ---
 
 Starting tends to be one of the biggest hurdles that we must jump in order to find out what awesome we really have inside of us and let it shine.  In the book [Start by Jon Acuff](http://www.amazon.com/gp/product/1937077594/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1937077594&linkCode=as2&tag=jaktre-20), he gives great motivation and tactical steps for starting to find our awesome.  It's a hilarious, inspiring, and practical guide.
-
-![Start Book](http://i.imgur.com/ERlkwHb.jpg)
 
 <!--more-->
 

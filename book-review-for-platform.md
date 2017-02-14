@@ -8,12 +8,10 @@ categories:
 tags:
   - "blog"
   - "entreprenuer"
+image: http://c.michaelhyatt.com/banners/platform/728x901.png
 ---
 
 How do you inform people of your next big idea? How do you motivate others to continue listening to you once you have their attention? In the age of the Internet, there are countless competitors in almost every space. To differentiate yourself, you'll need to create something truly amazing. But that's not enough. Get that product or service into the public eye, and engage the masses to take a look and spread the good word. Michael Hyatt shares how to build the *platform* upon which this process will happen.
-
-![Just over that rise](http://c.michaelhyatt.com/banners/platform/728x901.png)
-http://michaelhyatt.com/platform
 
 <!--more-->
 

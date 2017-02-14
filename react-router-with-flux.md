@@ -17,8 +17,6 @@ image: http://i.imgur.com/DXuSNbw.png
 
 react-router provides great route handling with route params and query params.  Flux provides a pattern for building React apps, including a pattern from providing data to your components.  Here's a straightforward way to make route changes trigger data changes in your components.
 
-![react](http://i.imgur.com/DXuSNbw.png)
-
 <!--more-->
 
 Note: Code here reflects usage of react-router 0.11.x.

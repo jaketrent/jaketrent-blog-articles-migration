@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Xquery Optimization Tips"
@@ -18,7 +17,6 @@ published: true
 My first xquery experience has been on the MarkLogic platform.  The project that we just released was written entirely in xquery and on that platform.  As our site continues to gains popularity, we continue to realize how little about xquery we knew or know.  Sometimes and in some places, the site is just really not that performant.  "But I thought MarkLogic/xquery is super-scalable," some exclaim indignantly.  If you do it right, an Oracle relational database can be made to scale.  Done wrong, a MarkLogic database can be made to not scale at all.  There's a lot to be said about knowledge of the platform, the language, and how to wrestle it to do your bidding.  Here are a few optimization ditties that I've collected as of late that might help in your future xquery dev.
 
 <!--more-->
-
 
 * Flatten your query - This means push your where clause into the xpath at the beginning of your FLOWR statement, limiting the amount of work you have to do once you're inside the for statement.
 

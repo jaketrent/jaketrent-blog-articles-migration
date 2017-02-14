@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Find django-admin.py"

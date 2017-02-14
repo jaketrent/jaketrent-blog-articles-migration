@@ -16,8 +16,6 @@ image: http://i.imgur.com/DXuSNbw.png
 
 Stateless React components got a new syntax in React 0.14.  It's much simpler.  It's just a function call.  Besides it just looking simpler, there are some major differences in what is available in a stateless component written this way.  There are some things missing -- purposefully not included -- that you may be used to.  Let's look at a few things.
 
-![http://i.imgur.com/DXuSNbw.png](http://i.imgur.com/DXuSNbw.png)
-
 <!--more-->
 
 Stateless components are now specifically not just components where you don't use `this.state`.  They're componets that are written in the form of a function:

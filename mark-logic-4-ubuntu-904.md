@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Mark Logic 4 on Ubuntu 9.04"
@@ -18,6 +17,7 @@ published: true
 Mark Logic Server seems to be the latest, greatest in content serve-up.  At least it is generating a lot of excitement at the LDS Church, where it's being used for new content-centric apps/sites.  Being caught in the wave of awesome, I was interested in getting it running in my favorite dev environment: Ubunutu-flavored Linux.
 
 It wasn't bad at all.  In fact, it was accomplished in almost as few steps as installing Apache or Tomcat.  Except, after this installation, full XML xquery'age is now possible!  Here are the steps, slightly elongated by the fact that all Mark Logic-supported Unix systems are rpm-based.
+
 <!--more-->
 
 Here are the steps, ya'll:

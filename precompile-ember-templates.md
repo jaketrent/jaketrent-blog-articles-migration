@@ -14,11 +14,10 @@ tags:
 description: When you're working with Ember's Handlebars templates, you're going to want to precompile them for performance reasons.
 keywords: js, coffeescript, javascript, ember, emblem, grunt, handlebars, version
 published: true
+image: http://i.imgur.com/x5HT4FN.jpg
 ---
 
 [Ember](http://emberjs.com) makes use of the wonderful [Handlebars](http://handlebarsjs.com) templates.  These templates, in order to be performant, must be precompiled.  Based on the Ember docs, it's not abundantly clear how this is to happen.  Here's a solution that works well.
-
-![Ember and Handlebars](http://i.imgur.com/x5HT4FN.jpg)
 
 <!--more-->
 

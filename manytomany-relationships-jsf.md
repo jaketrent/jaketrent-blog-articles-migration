@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "ManyToMany Relationships in JSF"
@@ -17,6 +16,7 @@ published: true
 ---
 
 What a journey of discovery!  I haven't done much many-to-many relationship management in JSF.  Django makes it quite easy.  But at work recently, I did it in JSF.  It was quite the experience, hereafter chronicled.
+
 <!--more-->
 
 What a journey of discovery!  I haven't done much many-to-many relationship management in JSF.  Django makes it quite easy.  But at work recently, I did it in JSF.  It was quite the experience, hereafter chronicled.

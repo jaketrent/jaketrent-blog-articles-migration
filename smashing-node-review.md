@@ -11,11 +11,10 @@ tags:
 description: Smashing Node is a pretty good book.  Here's what I thought I learned about Node.js while reading it.
 keywords: js, nodejs, smashing mag, smashing node, guillermo rauch, javascript everywhere
 published: true
+image: http://i.imgur.com/hQTBeAF.jpg
 ---
 
 Node.js is everywhere.  There's a lot of room for people to learn and get into it.  A good starter book is [Smashing Node by Guillermo Rauch](http://amzn.to/14ttetp).  Here's what I thought and what I learned while reading it.
-
-![Smashing Node](http://i.imgur.com/hQTBeAF.jpg)
 
 <!--more-->
 

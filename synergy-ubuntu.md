@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Synergy on Ubuntu"
@@ -15,7 +14,8 @@ keywords: linux, synergy, ubuntu
 published: true
 ---
 
-<a href="http://synergy2.sourceforge.net/" target="_blank">Synergy</a> is a fantastic project that allows you to share a single set of input devices (keyboard and mouse) over multiple machines.  Clipboard sharing is also supported.  It's remarkably easy to set up, and it works across multiple platforms.
+[Synergy](http://synergy2.sourceforge.net/) is a fantastic project that allows you to share a single set of input devices (keyboard and mouse) over multiple machines.  Clipboard sharing is also supported.  It's remarkably easy to set up, and it works across multiple platforms.
+
 <!--more-->
 
 For my personal setup, I wanted to link my Linux box (lds-lap-3) and my Windows (sidekick) box.  I wanted the Linux box to be the server and the Windows box to be the client.  I also want both to work on login.  Here are are the steps:

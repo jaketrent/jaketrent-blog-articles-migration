@@ -15,8 +15,6 @@ image: http://i.imgur.com/ACkhQQK.jpg
 
 You work every day.  It's a part of life.  It's a good part of life, and you have the power to make it better.  Ever since you were  young child, you knew what the magic ingredient was: fun!
 
-![Fun](http://i.imgur.com/ACkhQQK.jpg)
-
 <!--more-->
 
 Making software is a creative endeavor.  It allows situations for lots of free thinking.  It comes with the satisfaction of creating something from nothing.  It allows stretching of your cognitive ability.  This is all made more enjoyable by having a mental affinity for fun.  

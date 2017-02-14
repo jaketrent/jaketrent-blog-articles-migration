@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Null SelectItem Option"
@@ -15,6 +14,7 @@ published: true
 ---
 
 Sometimes it's desirable to be able to have a null or "none of these" option for a dropdown.  I've gotten tripped up on the syntax a couple times and have found enough variance in "solutions" listed on forums that I'll just add to the mix and record what works well for me here.
+
 <!--more-->
 
 Sometimes it's desirable to be able to have a null or "none of these" option for a dropdown.  I've gotten tripped up on the syntax a couple times and have found enough variance in "solutions" listed on forums that I'll just add to the mix and record what works well for me here.

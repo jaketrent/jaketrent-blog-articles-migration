@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Change hostname on Ubuntu"
@@ -16,6 +15,7 @@ published: true
 ---
 
 When you setup your computer at the time of your initial Ubuntu installation, you assign your computer a hostname.  In my case, I gave it a hostname and then later wanted to change it to something else.  This is accomplished in two easy steps.  
+
 <!--more-->
 
 First, 

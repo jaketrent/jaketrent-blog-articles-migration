@@ -11,11 +11,10 @@ tags:
 description: Exercism.io has great JavaScript exercises that are made better by a better test runner.  Use grunt-init to set up.
 keywords: grunt, grunt-init, exercism, jasmine_node, watch, js, javascript
 published: true
+image: http://i.imgur.com/XOUecnw.jpg
 ---
 
 Rails 4 introduced the pattern of strong parameters at the controller layer.  As a best practice, you will explicitly list the parameters that an endpoint should accept in payloads.  Arrays are specified just slightly different.
-
-![Rails](http://i.imgur.com/XOUecnw.jpg)
 
 <!--more-->
 

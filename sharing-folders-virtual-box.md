@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Sharing Folders in Virtual Box"
@@ -15,6 +14,7 @@ published: true
 ---
 
 One of the stinky things about having a VM is that is can be difficult to transfer files to and from the host machine.  You generally have everything that you need on the host machine and don't want to re-download stuff, burn CD's, or go through any of that jazz.  Sharing folders is probably the best option.
+
 <!--more-->
 
 One of the stinky things about having a VM is that is can be difficult to transfer files to and from the host machine.  You generally have everything that you need on the host machine and don't want to re-download stuff, burn CD's, or go through any of that jazz.  Sharing folders is probably the best option.

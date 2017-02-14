@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Java Encryption - Illegal Key Size"
@@ -15,6 +14,7 @@ published: true
 ---
 
 By default, Java has a limit on the length of your encryption key.  The limit, by default 128-bit, seems a little small and dated.  So, let's break through that glass ceiling!  With the hammer of Thor!
+
 <!--more-->
 
 I'm currently trying to do 192-bit AES encryption.  So, I need to do a few things to get around this nasty exception I keep getting:

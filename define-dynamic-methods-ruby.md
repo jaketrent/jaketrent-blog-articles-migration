@@ -10,11 +10,10 @@ tags:
 description: Ruby makes it very easy to define more methods on your classes.  The syntax is easy, and it's done every day.
 keywords: ruby, define_method, define new method, dynamic method, metaprogramming
 published: true
+image: http://i.imgur.com/Z7WWtL0.jpg
 ---
 
 In Ruby, it's common to see new methods defined dynamically or on the fly for your class.  And who doesn't want to have a piece of that metaprogramming?
-
-![Ruby](http://i.imgur.com/Z7WWtL0.jpg)
 
 <!--more-->
 

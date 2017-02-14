@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Context Processors Put Content On Multiple Pages"
@@ -15,6 +14,7 @@ published: true
 ---
 
 In software development, be <a href="http://en.wikipedia.org/wiki/Don%27t_repeat_yourself">dry</a>, and define data once.  But, what if that data needs to be used in many places?  This is the case with parts of a web page, for instance, that are common to many different pages.  Django has a great mechanism for this: it is context processors.
+
 <!--more-->
 
 You can define a context processor, containing within in the things that you would like to be present and available for use within the given context.  There are two ways that I've found to include context processors: Per request or for all requests.

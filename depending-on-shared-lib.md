@@ -15,8 +15,6 @@ image: http://i.imgur.com/6TDbI7O.png
 
 You build a product.  Someone else builds a shared lib.  You want to use the shared lib in your app for its apparent utility.  There come _new_ features that the product team wants to adjust and add to your product.  The shared lib provides utility that is _related_ to these new features but does not provide these new features per se.
 
-![a shared lib](http://i.imgur.com/6TDbI7O.png)
-
 <!--more-->
 
 ## Wishing the Shared Lib Did More

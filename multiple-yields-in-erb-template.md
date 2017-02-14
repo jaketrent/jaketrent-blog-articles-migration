@@ -12,11 +12,10 @@ tags:
 description: When you setup your Rails application, a single default yield block is created.  Learn how to setup multiple yields in your template.
 keywords: rails, erb, yield, multiple yield, template, code block
 published: true
+image: http://i.imgur.com/YqUKEfw.png
 ---
 
 When you setup a new Rails project, you'll have a single layout file which has a single default `yield` block.  This will soon be inadequate, and you'll want another.  Here's how to setup multiple `yield` blocks per ERB template.
-
-![Multiple ERB yields](http://i.imgur.com/YqUKEfw.png)
 
 <!--more-->
 

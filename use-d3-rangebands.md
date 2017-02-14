@@ -11,11 +11,10 @@ tags:
 description: When building a bar chart in d3, you could calculate your own bar widths and padding or you could have d3 do it for you
 keywords: d3, chart, bar chart, ordinal scale, scale, rangebands, rangeroundbands
 published: true
+image: http://i.imgur.com/JEniNrp.jpg
 ---
 
 When building a chart such as a bar chart in d3, you'll want an evenly divided space on your x axis.  You could divide the space up with your own manual calculations, accounting for space available, bar width, and inner and outer padding.  Or, you could have d3 do the calculation for you via a `rangeBand`.
-
-![d3 rangeBand](http://i.imgur.com/JEniNrp.jpg)
 
 <!--more-->
 

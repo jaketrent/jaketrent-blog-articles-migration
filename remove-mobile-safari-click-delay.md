@@ -10,11 +10,10 @@ tags:
 description: Mobile Safari, by default, delays click events.  To make your site more responsive, remove this delay.
 keywords: js, mobile safari, click event, delay, slow, mobile browser delay, click delay
 published: true
+image: http://i.imgur.com/PH8Zosr.png
 ---
 
 Did you know that Mobile Safari and other mobile browsers are delaying your click events?  If you've been testing your mobile site, and it feels sluggish in Mobile Safari, this could be one of the reasons.  Disable the click delay and rejoice at a bit more snappy response.
-
-![mobile browser delay](http://i.imgur.com/PH8Zosr.png)
 
 <!--more-->
 

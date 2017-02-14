@@ -16,8 +16,6 @@ image: http://i.imgur.com/94JQ8N8.jpg
 
 You can make some awesome charts in D3.  Animate your charts, and they're made even awesomerer.  To animate lines, such as those found in line charts, try out the following methods.
 
-![d3 line animation](http://i.imgur.com/94JQ8N8.jpg)
-
 <!--more-->
 
 ## D3 Transition

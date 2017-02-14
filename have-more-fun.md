@@ -10,11 +10,10 @@ tags:
 description: It goes without saying, but we forget.  If you're having fun, you'll like what you're doing.
 keywords: fun, happiness, workplace fun, career
 published: true
+image: http://i.imgur.com/YdZuWS2.jpg
 ---
 
 You enjoy your work more when you're having fun, right?  I wouuld think that much would be obvious to us all.  And yet, we need reminded now and again what really makes us tick.  Whether our endeavor is serious or purely for entertainment;  Whether the cause means a lot to us or we are just trying to pay the bills;  We will do better and be happier in every case if we inject a whole lot of fun into our work.
-
-![I love to laugh](http://i.imgur.com/YdZuWS2.jpg)
 
 <!--more-->
 

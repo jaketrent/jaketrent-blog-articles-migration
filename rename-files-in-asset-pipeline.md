@@ -11,11 +11,10 @@ tags:
 description: Rails' asset pipeline provides a powerful mechanism for preparing your static assets for the web.  There are defaults.  Learn how to change them.
 keywords: asset pipeline, precompile, rails, ruby, default name, application.js, application.css
 published: true
+image: http://i.imgur.com/HPJDXPB.jpg
 ---
 
 Rails provides a powerful mechanism for preparing your site's static assets for the web.  It's called the asset pipeline.  True to Rails, it has sensible defaults.  Also true to form, it's not immediately clear what's required to change from the defaults. 
-
-![Asset Pipeline](http://i.imgur.com/HPJDXPB.jpg)
 
 <!--more-->
 

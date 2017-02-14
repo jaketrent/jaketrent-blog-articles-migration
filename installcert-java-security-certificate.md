@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "InstallCert for Java Security Certificate"
@@ -17,6 +16,7 @@ published: true
 ---
 
 Sometimes you need to install a security certificate for authentication to work for certain services -- services that are accessed by your java application that requirement a secure connection.  For instance, needing to authenticate against an LDAP server from one of our apps, we had to run a little InstallCert.java on all JDKs used to run the app.
+
 <!--more-->
 
 Interesting to me, the [InstallCert.java](http://blogs.sun.com/andreas/resource/InstallCert.java) code is found mostly on Sun blogs.  But, there you have it.  If you have much trouble with the manual process of installing these certificates, there's a good [blog post](http://stufftohelpyouout.blogspot.com/2008/10/unable-to-find-valid-certification-path.html) to help you figure it out.

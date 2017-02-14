@@ -16,6 +16,7 @@ published: true
 ---
 
 Barriers are created all the time on software projects (by organization layout, role definition, project management, or indiscriminately) that keep developer knowledge separate.  Sometimes these barriers are referred to as silos.  We can create better teams and products for our organizations if we can break down these silos -- or if particularly scrappy, blow them up.
+
 <!--more-->
 
 <div style="width:425px" id="__ss_5324753"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/rockycode/breaking-down-knowledge-silos" title="Breaking Down Knowledge Silos">Breaking Down Knowledge Silos</a></strong><object id="__sse5324753" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=breakingdownknowledgesilos-100930104326-phpapp02&rel=0&stripped_title=breaking-down-knowledge-silos&userName=rockycode" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse5324753" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=breakingdownknowledgesilos-100930104326-phpapp02&rel=0&stripped_title=breaking-down-knowledge-silos&userName=rockycode" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/rockycode">rockycode</a>.</div></div>

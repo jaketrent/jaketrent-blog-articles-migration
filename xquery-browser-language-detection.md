@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "XQuery Browser Language Detection"
@@ -17,6 +16,7 @@ published: true
 ---
 
 If you've created an internationalized website lately, you've probably implemented some sort of language chooser widget in your site ui to allow your users to indicate which language they would like to see content displayed in.  What I often forget is that the user may have already made this indication previous to visiting your site, and you might be like to think about respecting their previously indicated preference.
+
 <!--more-->
 
 Within the browser, a user can store their preferred language.  The w3c has a [nice browser list](http://www.w3.org/International/questions/qa-lang-priorities#changing) to give some terse instructions on how to set your language in your browser.

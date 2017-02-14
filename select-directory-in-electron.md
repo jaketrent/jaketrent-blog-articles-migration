@@ -16,8 +16,6 @@ image: http://i.imgur.com/Vp8Zuix.jpg
 
 Electron will help you make some sweet native desktop apps using web tech.  Now that you're on the desktop, one of the cool things you can do is access the filesystem.  There are a couple ways to access the filesystem via the file open dialog using user input events.
 
-![Electron](http://i.imgur.com/Vp8Zuix.jpg)
-
 <!--more-->
 
 ## From HTML

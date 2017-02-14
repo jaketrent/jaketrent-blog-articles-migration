@@ -18,8 +18,6 @@ image: http://i.imgur.com/1Jg69Pf.jpg
 
 There are a few changes required to convert your Ember app from using EmberFire to Fireplace.  Here are a few that I found to be required.  There are probably more.
 
-![Firebase](http://i.imgur.com/1Jg69Pf.jpg)
-
 <!--more-->
 
 ## Your Options

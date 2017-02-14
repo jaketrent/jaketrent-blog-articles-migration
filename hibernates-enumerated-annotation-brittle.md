@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Hibernate's @Enumerated Annotation is Brittle"
@@ -16,6 +15,7 @@ published: true
 ---
 
 Hibernate's @Enumerated annotation seems much too brittle in the case of using it with EnumType.ORDINAL.   If you're using EnumType.STRING, I think it works beautifully.  This is because the annotation can use the name of the enum to make the mapping.  In the case of ORDINAL, the value of the enum is used.  This presents a couple problems...
+
 <!--more-->
 
 1. The enumeration has a 0th value place, so you need a PLACEHOLDER in your enum.

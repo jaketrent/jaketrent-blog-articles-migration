@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Expose Fields via Java Reflection"
@@ -16,6 +15,7 @@ published: true
 ---
 
 For unit testing purposes, I often want to set field values in objects so that I can setup for the test conditions.  One of most annoying things about testing is the urge to change code design for just the sake of testing -- especially if it's in a way that is considered less safe, like exposing elements or lessening accessibility.  (This is not to say that trying to test code can reveal certain code smells and prompt refactoring).  I, myself, have a number of setter methods with this comment prepended: "// for test only comments".  Stinkers!  Well, sometimes enough becomes enough.  So, here's a way to set any field on an object w/o exposing it.  This is done via reflection.
+
 <!--more-->
 
 ```java

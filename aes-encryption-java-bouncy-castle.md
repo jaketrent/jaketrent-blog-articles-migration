@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "AES Encryption Odyssey in Java with Bouncy Castle"

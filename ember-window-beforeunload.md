@@ -16,8 +16,6 @@ image: http://i.imgur.com/85v8PQP.png
 
 In a long-running app such as you might build in Ember, it can be useful to detect when the window is closing.  This is easily detected with JavaScript, and there are easy places to put the code in your Ember app.
 
-![Ember beforeunload](http://i.imgur.com/85v8PQP.png)
-
 <!--more-->
 
 ## beforeunload

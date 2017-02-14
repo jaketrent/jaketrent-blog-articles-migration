@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Variable Declaration Performance"
@@ -18,7 +17,7 @@ Often when coding, we use a single local variable multiple times, overwriting th
 
 <!--more-->
 
-###Experiment
+### Experiment
 
 My primitive experiment was to create two different Java programs where I kept declaring the variable in one and where I declared it once and then assigned in multiple times in another.
 
@@ -57,10 +56,10 @@ One of my initial theories was that the Java compiler would optimize the differe
 
 So, I instead ran these a few times and tried to determine the difference in time to completion.  I used the Unix 'time' function to record running time.  Who knows how accurate that is, but it was handy at the moment.
 
-###Results
+### Results
 
 <a href="http://picasaweb.google.com/lh/photo/LvQyLtgitOy4XVWZYjX7LQ?feat=embedwebsite"><img src="http://lh6.ggpht.com/_5XZCKcD6--c/Sp6-v4GovRI/AAAAAAAAIWg/KlHJpd4HQsI/s400/VarDeclarationSpeedResults.png" /></a>
-<br />
+
 I didn't run this test many times and look for the average or mean, so there are some outliers here.  But, I think there's a fairly obvious, if not conclusive, pattern.  Defining a variable outside the loop makes a bigger difference the more times you loop.  Even then, some of the time the results are very close or even contradict the previous statement.  Data sets used here weren't very large either, so the difference is less drastic.  
 
 The conclusion?  It's not going to make a big difference whether you declare your variable inside or outside the loop when dealing with a small number of loop iterations.  Here, small has been demonstrated to be up to 100 million.  There may be some situations in which it matters more.  What has been your experience?

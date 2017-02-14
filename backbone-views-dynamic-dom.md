@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Backbone Views in a Dynamic DOM"
@@ -17,6 +16,7 @@ published: true
 ---
 
 When you start writing applications with BackboneJS, that means that you're dealing with some dynamic UI.  There are elements being pushed into and pulled out of the DOM.  I was having problems trying to reference DOM elements that were dynamically inserted into the DOM by other Backbone views.  The fix was simple but not immediately obvious without cracking open Backbone.
+
 <!--more-->
 
 Backbone View Element

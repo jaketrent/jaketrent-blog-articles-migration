@@ -7,11 +7,10 @@ categories: [Review]
 description: When you're ready to quit your day job to pursue your dream job, think twice, and read this book.
 keywords: quitter, jon acuff, dream job, quitter book
 published: true
+image: http://i.imgur.com/mEsJW.png
 ---
 
 When you feel you're ready to quit your day job to pursue your dream job, think twice, and read this book.
-
-![Quitter Book](http://i.imgur.com/mEsJW.png)
 
 <!--more-->
 

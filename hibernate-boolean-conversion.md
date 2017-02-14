@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Hibernate Boolean Conversion"
@@ -18,6 +17,7 @@ published: true
 The object-relational mapping world of JPA and Hibernate has made a lot of things really nice and easy.  As with any framework of this sort, however, it becomes frustrating when the pieces that are supposed to provide magic ease of development do not work as expected.  The frustration is only exacerbated when the docs are skimpy.
 
 Type conversions usually happen automatically in JPA, but possibly due to some databases incredibly not having implemented boolean fields yet (Oracle and pre-5.0 MySQL), an extra bit of help in conversion is needed.
+
 <!--more-->
 
 The object-relational mapping world of JPA and Hibernate has made a lot of things really nice and easy.  As with any framework of this sort, however, it becomes frustrating when the pieces that are supposed to provide magic ease of development do not work as expected.  The frustration is only exacerbated when the docs are skimpy.

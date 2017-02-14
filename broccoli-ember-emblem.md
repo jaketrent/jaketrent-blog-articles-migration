@@ -18,8 +18,6 @@ image: http://i.imgur.com/85v8PQP.png
 
 Make broccoli compile your emblem templates so they're ready for your ember app.
 
-![Broccoli Ember Emblem](http://i.imgur.com/85v8PQP.png)
-
 <!--more-->
 
 ## The Libraries

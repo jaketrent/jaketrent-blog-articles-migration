@@ -15,8 +15,6 @@ image: http://i.imgur.com/gFBW4F4.jpg
 
 Slack is a fantastic tool.  It allows always-on group chat in this spirit of Hipchat or Campfire or your friends' group text thread that just won't end.  You can create channels, public or private, to suit your purpose.  You can gather communities together to talk about specific things.  Slack can become an invaluable source of communication and information for you and your teams.  Without a bit of management and care, however, it can become a burden that distracts you from the essence of your work.
 
-![slack](http://i.imgur.com/gFBW4F4.jpg)
-
 <!--more-->
 
 If your job is to coordinate and communicate all day, every day, this article won't really apply.  You should use Slack to the max and worry about little else.  If, instead, Slack is a tool meant to empower your essential work, especially something that requires focused thinking, creative process, or anything that requires some cognitive flow time, the suggestions in this article are for you.

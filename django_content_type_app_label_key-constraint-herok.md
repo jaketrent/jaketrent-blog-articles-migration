@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "django_content_type_app_label_key Constraint on Heroku"

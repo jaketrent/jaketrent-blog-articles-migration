@@ -13,11 +13,10 @@ tags:
   - "svg"
 description: If you want to make a gauge chart in S3, you'll need a needle on your gauge.  It's not hard to draw a triangle, but here's the extra work to rotate it.
 published: true
+image: http://i.imgur.com/7GSyOFd.png
 ---
 
 If you want to make a gauge chart in S3, you'll need a needle on your gauge.  It's not hard to draw a triangle, but here's the extra work to rotate it.
-
-![D3 Gauge Chart](http://i.imgur.com/7GSyOFd.png)
 
 <!--more-->
 

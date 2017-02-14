@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Generic Interfaces Arabian Magic"
@@ -15,6 +14,7 @@ published: true
 ---
 
 [flash bang!]  Say words like generics, enums, or interfaces, and you've immediately transported to the realm of conjured whirlwind sandstorms and curved-sword-weilding assasins.  Well, I guess we're going there, because I think this is pretty cool.  Plus, undocumented, or at least un-reiterated to myself, and later I'll look at it and think it's just pretty complicated.  Prepare for angle brackets in the amount of parens in lisp. 
+
 <!--more-->
 
 Interfaces allow you to immediately apply a new adjective to an object.  In this case, we're dealing with enums specifically.  We've got a pile of enums in a codebase that I worked on recently that correspond with a lookup table of values in the database.  The lookup values are essentially static, but still in the database so we can make the appropriate associations between data bits.  Take this contrived example:  Here's our enum with an associated PK on the database side specified for each:

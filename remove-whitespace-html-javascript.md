@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Remove Whitespace in Html with Javascript"

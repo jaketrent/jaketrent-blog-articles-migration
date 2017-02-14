@@ -11,11 +11,10 @@ tags:
 description: CoffeeScript functions are defined with arrows.  Fat arrow provides special function binding.
 keywords: ember model, ember view, ember, js, javascript
 published: true
+image: http://i.imgur.com/nGd04zX.jpg
 ---
 
 In CoffeeScript there are two different types of arrows for defining functions:  arrow (`->`) and fat arrow or hash rocket (`=>`).  Usually, you'll use the regular arrow.  But sometimes you'll want the special behavior of the fat arrow.
-
-![CoffeeScript fat arrow](http://i.imgur.com/nGd04zX.jpg)
 
 <!--more-->
 

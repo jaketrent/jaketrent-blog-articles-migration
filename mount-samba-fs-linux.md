@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Mount Samba FS on Linux"
@@ -16,6 +15,7 @@ published: true
 ---
 
 Have you ever wanted to map to a remote drive or mount a samba share on Linux?  The commands a really easy, and they're chronicled here.
+
 <!--more-->
 
 First, grab Samba:

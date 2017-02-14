@@ -17,8 +17,6 @@ image: http://i.imgur.com/XOUecnw.jpg
 
 The default serialization of error states in Rails might not be what you want for your app.  In that case, it'd be worth knowing how to write a custom serialization format for your needs.  In my case, I am trying to match the [JSON API format for errors](http://jsonapi.org/format/#errors).  Here's a potential implementation...
 
-![Rails jsonapi errors](http://i.imgur.com/XOUecnw.jpg)
-
 <!--more-->
 
 ## JSON API Errors Format

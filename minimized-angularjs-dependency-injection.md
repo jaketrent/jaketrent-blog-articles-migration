@@ -11,11 +11,10 @@ tags:
 description: I just minified my AngularJs code, and all my dependency injection broke.  I'm getting a "Unknown Provider" message.
 keywords: js, javascript, angular, angularjs, dependency injection, minimization, uglify
 published: true
+image: http://i.imgur.com/wVBKD.png
 ---
 
 Aren't environment-specific bugs some of the hardest to troubleshoot!  You may find yourself scratching your head after building and deploying your AngularJs code.  If you minimize or uglify your Angular code, there may be a few things you need to do differently to make it work.
-
-![AngularJs](http://i.imgur.com/wVBKD.png)
 
 <!--more-->
 

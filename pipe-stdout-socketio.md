@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Pipe stdout to SocketIO"
@@ -17,6 +16,7 @@ published: true
 ---
 
 When you run a shell script or some other process from NodeJs and want to get the output in a stream to a client, you can redirect or pipe the output from the process that originally outputs to stdout into your socketio stream.  
+
 <!--more-->
 
 First, setup socketio on your server as you normally would:

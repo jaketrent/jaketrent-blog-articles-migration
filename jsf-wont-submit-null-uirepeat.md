@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "JSF Won't Submit Null in ui:repeat"
@@ -15,6 +14,7 @@ published: true
 ---
 
 It stinks when your jsf components don't do what they're supposed to or even what they usually do.    This was the case with my h:inputText field when trying to submit a null value -- but!  only within a ui:repeat component.
+
 <!--more-->
 
 It stinks when your jsf components don't do what they're supposed to or even what they usually do.    This was the case with my h:inputText field when trying to submit a null value -- but!  only within a ui:repeat component.

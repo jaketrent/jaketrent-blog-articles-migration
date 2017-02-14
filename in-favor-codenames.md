@@ -16,8 +16,6 @@ image: http://i.imgur.com/gpqydff.jpg
 
 It seems to be a recurring discussion in the companies I have worked for: should we use a codename for this project or not?  These are software projects.  The codenames are used on things as basic as the repository name or slack channel.  Later, they might be used in many other project-related things like the build server configuration.  The alternative for a codename is calling the thing exactly what it is.  Where's the fun in that?
 
-![project codenames](http://i.imgur.com/gpqydff.jpg)
-
 <!--more-->
 
 ## The Argument Against Codenames

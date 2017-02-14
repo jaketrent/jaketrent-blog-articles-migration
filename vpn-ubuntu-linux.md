@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "VPN on Ubuntu Linux"
@@ -18,6 +17,7 @@ published: true
 It is one of the nicest things to be able to work remotely.  Almost all my jobs have allowed this.  My current job allows it on a limited basis as well.  It's even more attractive an option now that I have a nice desk chair at home, for which I currently long, because I'm currently typing up this post from a 2nd grader mini-chair while I wait for my lovely wife, April.
 
 Remote working goodness is just a few shell commands away via Cisco VPN in Linux!
+
 <!--more-->
 
 It is one of the nicest things to be able to work remotely.  Almost all my jobs have allowed this.  My current job allows it on a limited basis as well.  It's even more attractive an option now that I have a nice desk chair at home, for which I currently long, because I'm currently typing up this post from a 2nd grader mini-chair while I wait for my lovely wife, April.

@@ -15,8 +15,6 @@ image: http://i.imgur.com/1c6FH0f.png
 
 Debugging in Elm is easy once you know where to look.  You need an in-browser tool to help you.  It's almost as simple as just calling `console.log`, but you can't just put your logging statement anywhere.  
 
-![elm debug locally](http://i.imgur.com/1c6FH0f.png)
-
 <!--more-->
 
 ## The Online Option

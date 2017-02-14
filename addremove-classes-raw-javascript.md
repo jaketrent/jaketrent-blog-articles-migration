@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Add/Remove Classes with Raw Javascript"

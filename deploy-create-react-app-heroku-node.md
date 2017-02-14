@@ -17,8 +17,6 @@ image: http://i.imgur.com/6DUwRKt.png
 
 Create-react-app is Facebook's no-config solution to starting a React project.  This setup does not support a server out of the box.  You can create that easily enough.  Node.js can be a good choice for your app server.  Once it's made and functioning, you might want to deploy your static app and app server.  Here's a few tips on getting them up onto Heroku.
 
-![Create-react-app on Heroku](http://i.imgur.com/6DUwRKt.png)
-
 <!--more-->
 
 ## Two Builds

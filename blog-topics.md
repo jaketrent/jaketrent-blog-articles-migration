@@ -7,12 +7,10 @@ categories:
   - "Announcement"
 tags:
   - "blog"
+image: http://farm1.staticflickr.com/1/2612308_456907e315_z.jpg
 ---
 
 I was inspired by [Michael Hyatt's book, Platform,](http://jaketrent.com/post/platform-book-review/) to start writing this blog.  As he suggested, I just started writing.  But also as he suggested, I've been percolating over what my blog topics will be.  I've just been writing for several weeks.  I've finally settled in on a number of categories that will help me focus a bit.  But each are plenty broad to be able to write on most any and all things related to software.
-
-![Categories](http://farm1.staticflickr.com/1/2612308_456907e315_z.jpg)
-http://flic.kr/p/eoxN
 
 <!--more-->
 

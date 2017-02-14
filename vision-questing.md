@@ -15,8 +15,6 @@ image: http://i.imgur.com/kEjGTZc.jpg
 
 Do you ever get home and not remember what you did for the whole day at work?  You were always on the move.  You were always doing something for someone.  Obviously you were a much-valued member of the team to have so much required of you.  So then why can't you remember what you actually did?  And if you can't remember that, surely you can't remember *why* you were doing it!
 
-![the vision quest](http://i.imgur.com/kEjGTZc.jpg)
-
 <!--more-->
 
 ## My Last Job

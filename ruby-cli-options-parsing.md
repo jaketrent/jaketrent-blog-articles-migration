@@ -10,11 +10,10 @@ tags:
 description: Making a CLI tool in Ruby is made more straightforward with an OptionParser in stdlib.
 keywords: ruby, OptionParser, OpenStruct, cli, command line, terminal, tool, options
 published: true
+image: http://i.imgur.com/Z7WWtL0.jpg
 ---
 
 Ruby's stdlib never ceases to amaze.  If you're making a CLI tool in Ruby, your efforts are made more straightforward by the existence of the [OptionParser](http://ruby-doc.org/stdlib-2.2.0/libdoc/optparse/rdoc/OptionParser.html) class.  Use it, and let happiness fill your heart.
-
-![Ruby](http://i.imgur.com/Z7WWtL0.jpg)
 
 <!--more-->
 

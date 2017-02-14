@@ -11,11 +11,10 @@ tags:
 description: Developing an Ember Edge is a great, current intro to Ember.js book.  Go! Go away.  Read some books.
 keywords: ember, javascript, ember edge, book, learn ember
 published: true
+image: http://i.imgur.com/85v8PQP.png
 ---
 
 The latest book on The List at [emberwatch](http://emberwatch.com/books) is [Developing an Ember Edge](http://bleedingedgepress.com/our-books/developing-an-ember-edge/).  It's a great intro book to Ember.js.
-
-![Developing an Ember Edge](http://i.imgur.com/85v8PQP.png)
 
 <!--more-->
 

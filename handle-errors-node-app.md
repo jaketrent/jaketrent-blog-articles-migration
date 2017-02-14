@@ -17,8 +17,6 @@ image: http://i.imgur.com/1arT8Ho.jpg
 
 As with any software, here you can expect the unexpected.  Node apps experience errors as well.  Let's say that an error crops in our Node API -- what should we do about it?
 
-![nodejs](http://i.imgur.com/1arT8Ho.jpg)
-
 <!--more-->
 
 Errors can be handled in a lot of different ways.  "Handling" in this article will essentially mean error response messaging.

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Remapping Ctrl Key in Ubuntu"
@@ -16,6 +15,7 @@ published: true
 ---
 
 On a Sun keyboard, the ctrl key is actually in the space that the caps lock key occupies on a standard qwerty keyboard nowadays.  In a program where the ctrl key is often used, this positioning can be helpful as no Vulcan figure stretches are required for common key patterns.  So, why not change caps lock to be a control key.
+
 <!--more-->
 
 In Linux, this change is much, much easier than the corresponding procedure on a Windows machine, there consisting of registry hacks.  But, on Ubuntu, it's even easier.  There's actually a GUI dialog to accomplish just the thing:

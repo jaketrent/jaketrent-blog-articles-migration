@@ -9,12 +9,10 @@ tags:
   - "js"
   - "nodejs"
   - "express"
+image: http://i.imgur.com/basH6.jpg
 ---
 
 A few routes in a NodeJs app -- no problem.  Just put them in your `app.js`.  More than a handful?  You'll probably want to look at organizing your routes a different way.  This will help keep your core `app.js` clean and make your actual routes easier to find.
-
-![Too many routes](http://i.imgur.com/basH6.jpg)
-http://flic.kr/p/bihZUV
 
 <!--more-->
 

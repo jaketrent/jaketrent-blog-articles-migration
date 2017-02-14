@@ -16,8 +16,6 @@ image: http://i.imgur.com/t4XxrHn.jpg
 
 When you specify dependencies for you app via Bower, some of the packages might rely on different versions of the same library.  You will have to resolve what version of libraries your app actually wants.  In other words, you break the tie.  But you don't want to break it every time, so save your choice.
 
-![Bower](http://i.imgur.com/t4XxrHn.jpg)
-
 <!--more-->
 
 ## bower.json Resolutions

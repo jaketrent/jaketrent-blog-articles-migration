@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "I18n Strings in Javascript"
@@ -17,6 +16,7 @@ published: true
 ---
 
 I've seen a number of different ways that internationalized strings get put into Javascript code.  Of all of them, I kind of like just bundling the resource bundle of key value pairs in Javascript files themselves, one for each language or something close to that.  But, in a recent project, there were a few other constraints, so we did it another way.
+
 <!--more-->
 
 The Situation

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Intro to BackboneJs"
@@ -16,6 +15,7 @@ published: true
 ---
 
 BackboneJs is a great resource for creating rich UIs.  Rich means interactive.  Interactivity grows when the client can do more of the work of an application itself, becoming more reactive and dynamic to user feedback, able to be more event-driven, and hopefully more quick and responsive.  Here's a short history of how we've been creating rich UIs and a simple example of a rich UI in backbonejs
+
 <!--more-->
 
 The background:

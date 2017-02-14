@@ -12,8 +12,6 @@ image: http://i.imgur.com/ZYiky6R.png
 
 There are many files that you don't want to store in your project's Git repo.  Some of these are even specific to the project.  Some are definitely not.  How do you ignore these that aren't related to the project?
 
-![Git ignore](http://i.imgur.com/ZYiky6R.png)
-
 <!--more-->
 
 ## .gitignore For the Project

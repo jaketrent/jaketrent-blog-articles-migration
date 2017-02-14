@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Unexpected Results in MarkLogic Xquery Type Coercion"
@@ -16,6 +15,7 @@ published: true
 ---
 
 Recently, we've been working on writing an API using xquery.  We have wanted to make the API as solid as possible, since we're putting the brunt of the complexity of our system into this module of code.  What might typing our parameters and return types give us?  We are hoping for safety and readability.  
+
 <!--more-->
 
 Safety-wise, we're a little perplexed on how safe typing really is.  In the past, it's helped fail fast, providing feedback on data anomalies or bad conditions during test.  But, if you haven't tested a particular condition that would trigger an error, you're going to have to wait until runtime to then get the app to blow up in your face.  A compile-time check would be really nice here.

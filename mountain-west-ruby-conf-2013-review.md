@@ -12,11 +12,10 @@ tags:
 description: Mountain West Ruby Conference is the premier Ruby Conference in the Mountain West.  :)
 keywords: mountain west, ruby, ruby conf, rails, conference
 published: true
+image: http://i.imgur.com/ABNr5MC.jpg
 ---
 
 I recently attended the Mountain West Ruby Conference.  It was my first time going.  I was pleasantly surprised by the quality of the conference.  I would recommend it.
-
-![Mountain West Ruby Conf](http://i.imgur.com/ABNr5MC.jpg)
 
 <!--more-->
 

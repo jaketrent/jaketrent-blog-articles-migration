@@ -13,11 +13,10 @@ tags:
 description: Integration tests against authenticated urls will require a login first.  Here's a way to maintain your session in your supertest tests.
 keywords: js, javascript, mocha, supertest, superagent, login, authentication, session, session cookie
 published: true
+image: http://i.imgur.com/PFUGV.jpg
 ---
 
 When you're trying to test your authenticated URLs via supertest, there are just a couple things you'll need to do that aren't spelled out in the docs.  
-
-![Supertest](http://i.imgur.com/PFUGV.jpg)
 
 <!--more-->
 

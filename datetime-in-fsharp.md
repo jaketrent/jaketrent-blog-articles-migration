@@ -17,8 +17,6 @@ image: http://i.imgur.com/L5olAv0.png
 
 I've said jokingly, when coding through date/time-related problems, someone could do a PhD on this stuff.  Surely they have.  It can get complicated.  Here are a few core facts related to Utc time and the usage of .Net's `System.DateTime` and `System.DateTimeOffset` classes that you may find useful.
 
-![f#](http://i.imgur.com/L5olAv0.png)
-
 <!--more-->
 
 ## Universal vs. Local Time

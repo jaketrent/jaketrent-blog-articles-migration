@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Windows 7 Dev Environment"

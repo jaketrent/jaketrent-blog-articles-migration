@@ -11,11 +11,10 @@ tags:
 description: In jQuery finding an element within a given context.  Is there an "Angular way" to do the same thing?  Here's one.
 keywords: angularjs, js, find element, sizzle, element in context, jquery
 published: true
+image: http://i.imgur.com/wVBKD.png
 ---
 
 Finding an element in context means that I can select a node from the dom within a certain range -- specifically either a node or any of its children nodes.  Is there an "Angular way" to do this?
-
-![AngularJs find in context](http://i.imgur.com/wVBKD.png)
 
 <!--more-->
 

@@ -9,12 +9,10 @@ tags:
   - "wordpress"
   - "blog"
   - "php"
+image: http://i.imgur.com/Z9HMK.jpg
 ---
 
 Some might ask why a guy who loves his life of code would choose WordPress as the framework for one of his websites. Well, I chose a WordPress blog. I almost didn't. It's been a long time coming. It's early in the game, but I think it was a good choice.
-
-![WordPress T-Shirt](http://i.imgur.com/Z9HMK.jpg)
-http://flic.kr/p/6FFZMy
 
 <!--more-->
 

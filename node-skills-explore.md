@@ -17,8 +17,6 @@ image: http://i.imgur.com/9WglUIw.jpg
 
 We are hiring a bunch of Node.js developers at the moment.  You may be as well.  I'm sure you have a good list of skills that you're looking for in developers that join your posse.  Here are a few _technical_ things I think about when getting the opportunity  to sit down with a Node developer.  
 
-![Exploring Node Skills](http://i.imgur.com/9WglUIw.jpg)
-
 <!--more-->
 What might you add to the list?
 

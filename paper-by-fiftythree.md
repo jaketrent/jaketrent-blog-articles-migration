@@ -9,11 +9,10 @@ tags:
   - "Design"
   - "ios"
   - "art"
+image: http://i.imgur.com/M0kYA.jpg
 ---
 
 Have you ever showed up in the App Store looking for an app in a particular category and been overwhelmed at the number of choices present?  This is certainly the case for the drawing and art app category.  But, there is at least one art app that stands out clearly from the others: ["Paper" by FiftyThree](http://www.fiftythree.com/paper).
-
-![Paper brushes](http://i.imgur.com/M0kYA.jpg)
 
 <!--more-->
 

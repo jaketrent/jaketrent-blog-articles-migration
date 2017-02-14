@@ -16,8 +16,6 @@ image: http://i.imgur.com/Y1WvMlu.jpg
 
 Culture will emerge after a group of people attempt to solve problems again and again in a certain way.  This "way" becomes the culture.  If you are deliberate in your choices on how to solve problems, you will be deliberate in creating a culture.  Once you have a culture in mind and are working toward it or trying to maintain it, how do you determine how healthy it is?  Clay Christensen has a simple question you can ask yourself.
 
-![Healthy culture](http://i.imgur.com/Y1WvMlu.jpg)
-
 <!--more-->
 
 ## How Will You Measure Your Life?

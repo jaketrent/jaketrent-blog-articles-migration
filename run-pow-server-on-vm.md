@@ -11,11 +11,10 @@ tags:
 description: Pow creates an easy way to run Rails server locally.  Running them on a Windows VM is just as easy.
 keywords: pow, vm, rails, windows, virtualbox, powder, ruby
 published: true
+image: http://i.imgur.com/XdExdtS.jpg
 ---
 
 It's really pretty cool how easy [Pow](http://pow.cx/) makes running a Rails server.  [Powder](https://github.com/rodreegez/powder) makes it even easier.  Here's how to run your Rails server via Pow on a VM in order to test IE.
-
-![Pow Server](http://i.imgur.com/XdExdtS.jpg)
 
 <!--more-->
 

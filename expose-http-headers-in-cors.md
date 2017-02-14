@@ -18,8 +18,6 @@ image: http://i.imgur.com/JAce7py.jpg
 
 For APIs, it seems more and more data is making its way into the HTTP headers.  Recently, whilst adding a `Link` header, for paging data, into the HTTP response, I realized that my browser code couldn't see it.  Who was the culprit?  CORS, of course.
 
-![Cors](http://i.imgur.com/JAce7py.jpg)
-
 <!--more-->
 
 ## Headers in Browser 

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Find network hosts with nmap"
@@ -14,6 +13,7 @@ published: true
 ---
 
 I had some fun this morning when the headless box that I'm ssh'ing into to do test app runs randomly changed IP address.  My goal was to find it on the network from my local box.  To my rescue: a cool tool called nmap.
+
 <!--more-->
 
 nmap, according to the man page, is a network exploration tool and security/port scanner.  Basically, I only ran it in a few forms.  But, on the man page, there are many, many options listed. 

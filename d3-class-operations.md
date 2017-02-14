@@ -17,8 +17,6 @@ image: http://i.imgur.com/94JQ8N8.jpg
 
 D3 has operations for class name manipulation that you're used to from jQuery.  These include addClass, removeClass, hasClass, and toggleClass.  They just go by different names.
 
-![d3 class names](http://i.imgur.com/94JQ8N8.jpg)
-
 <!--more-->
 
 ## selection.classed

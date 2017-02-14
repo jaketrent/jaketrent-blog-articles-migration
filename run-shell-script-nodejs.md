@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Run a Shell Script from NodeJs"

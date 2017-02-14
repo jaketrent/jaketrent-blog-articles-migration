@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "MarkLogic Users Conference 2011 Impressions "
@@ -15,6 +14,7 @@ published: true
 ---
 
 I just returned from the MarkLogic Users Conference in San Francisco.  I had a good time.  I think the conference was worthwhile.  I'd go again, and I'd recommend it as a regular ritual for those that create on the MarkLogic platform.
+
 <!--more-->
 
 Venue

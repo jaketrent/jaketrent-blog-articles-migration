@@ -11,11 +11,10 @@ tags:
 description: Add a gem to your gemfile without opening the file.  Do it straight from your terminal
 keywords: ruby, gem, gemfile, gemrat, gem install save
 published: true
+image: http://i.imgur.com/x2I31sl.jpg
 ---
 
 Have you ever wished you could save a gem to your `Gemfile` straight from the command line?  I wish Rubygems had this built in, but it's easy to add.  After all, there's a gem for that.
-
-![Gemrat](http://i.imgur.com/x2I31sl.jpg)
 
 <!--more-->
 

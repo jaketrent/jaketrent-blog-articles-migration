@@ -9,11 +9,10 @@ tags:
   - "js"
   - "grunt"
   - "testacular"
+image: http://i.imgur.com/zze56.jpg
 ---
 
 [Testacular](http://vojtajina.github.com/testacular/) is a test runner for running browser tests.  Once you have it [up and running](http://jaketrent.com/post/test-requirejs-testacular/), you may want to integrate it with your [Grunt](http://gruntjs.com/) build process.  This will allow Testacular to be started and your tests to be run from Grunt.
-
-![Grunt and Testacular](http://i.imgur.com/zze56.jpg)
 
 <!--more-->
 

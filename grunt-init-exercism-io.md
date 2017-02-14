@@ -11,11 +11,10 @@ tags:
 description: Exercism.io has great JavaScript exercises that are made better by a better test runner.  Use grunt-init to set up.
 keywords: grunt, grunt-init, exercism, jasmine_node, watch, js, javascript
 published: true
+image: http://i.imgur.com/4773D.jpg
 ---
 
 [Exercism.io](http://exercism.io) has a great set of JavaScript exercises.  They could be made better by a better test setup and runner.  I've created a small grunt-init template to help in that setup.
-
-![Grunt and Exercism](http://i.imgur.com/4773D.jpg)
 
 <!--more-->
 

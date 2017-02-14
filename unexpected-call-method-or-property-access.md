@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Unexpected call to method or property access"

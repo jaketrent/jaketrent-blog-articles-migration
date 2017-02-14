@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Find and Kill a Process on a Port"
@@ -14,6 +13,7 @@ published: true
 ---
 
 Have you ever tried to start up a local dev server and attach it to a port only to find that the port says it's already in use.  Here's a quick way to find those zombies and kill 'em good.
+
 <!--more-->
 
 ## Server Startup Messages

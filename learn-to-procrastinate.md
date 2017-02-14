@@ -6,11 +6,10 @@ comments: true
 categories: [Productivity]
 description: Sometimes we want everything we could imagine in our software at once.  Learn to procrastinate what is less important.
 published: true
+image: http://i.imgur.com/cXx17co.png
 ---
 
 When making software, sometimes we want everything we can imagine at once.  We want the software to be perfect -- then we'll ship it.  Learn to procrastintate.  You might ship more, and you might like the the eventual outcome better.
-
-![Focus on shipping](http://i.imgur.com/cXx17co.png)
 
 <!--more-->
 

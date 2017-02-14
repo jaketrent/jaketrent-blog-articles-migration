@@ -17,8 +17,6 @@ image: http://i.imgur.com/9VKyXtu.png
 
 Dan Abramov coined the terms [Smart and Dumb components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0).  Later, he called them Container and Presentational components.  I still call them Smart and Dumb.  It's shorter and sits in my mind easier.  How do you identify them?  Why would you want a separation?  What might that separation look like?  Here are a few ideas.
 
-![Smart and Dumb React components](http://i.imgur.com/9VKyXtu.png)
-
 <!--more-->
 
 ## Smart vs Dumb Components

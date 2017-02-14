@@ -10,11 +10,10 @@ tags:
 description: How do you find the number of attributes in a JS object?  Turns out there's not a fantastic way to do it
 keywords: js, javascript attributes, count js attributes
 published: true
+image: http://i.imgur.com/54smb.jpg
 ---
 
 Sometimes it may be useful to know how many attributes a JavaScript object has.  There's not a fantastic way to do this.  Or maybe there is.  Do you know one?  Could cut out IE8 support.  Or, for what it's worth, here's a way.
-
-![Count attributes in js object](http://i.imgur.com/54smb.jpg)
 
 <!--more-->
 

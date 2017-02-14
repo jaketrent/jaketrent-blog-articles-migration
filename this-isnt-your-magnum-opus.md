@@ -17,8 +17,6 @@ image: http://i.imgur.com/4yimUZ1.jpg
 
 Sometimes it seems like we feel everything we produce must be our magnum opus -- not just great work, but *the* great work of our career.  Somehow we end up thinking that this thing we're working on is the final act, the thing that will dwarf all our previous work.  The thing that won't -- in fact, shouldn't -- be toppable.  We tell ourselves that we'll forever be judged by this one artifact.  Is that the case?  Probably not.
 
-![a magnum opus in the making](http://i.imgur.com/4yimUZ1.jpg)
-
 <!--more-->
 
 Of course we should do great work.  But sometimes our view of how great it needs to be, in a real way, gets in the way of its actual greatness.  We are slow to start.  We are intimidated by the blank page.  We shy away from production because we already don't know how to measure up to the expectation we've given ourselves in our head.  Stop expecting, and start doing.

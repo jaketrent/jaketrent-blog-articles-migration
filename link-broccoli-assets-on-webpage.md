@@ -16,8 +16,6 @@ image: http://i.imgur.com/oYpiHcU.jpg
 
 [Broccoli.js](https://github.com/joliss/broccoli) is good at [building assets](http://www.solitr.com/blog/2014/02/broccoli-first-release/).  But now that they're built, how does one use them on a webpage?
 
-![Broccoli](http://i.imgur.com/oYpiHcU.jpg)
-
 <!--more-->
 
 ## Broccoli Serve

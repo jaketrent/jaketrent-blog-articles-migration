@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Forward X11 Thru SSH"
@@ -15,6 +14,7 @@ published: true
 ---
 
 SSH is a great protocol that allows secure connections to remote systems.  It's easy to use, gives you terminal access to the system in question and allows you to function as you would were you at the machine itself -- in the terminal.  But, if you want to see actual windows, thru a GUI window management system like Gnome, for instance, you need to enable <a href="http://en.wikipedia.org/wiki/X11">X11</a> forwarding.  
+
 <!--more-->
 
 You have to configure the server (remote box) and the client (you).

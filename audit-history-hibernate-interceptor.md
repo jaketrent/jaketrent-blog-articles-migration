@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Audit History with Hibernate Interceptor"
@@ -20,6 +19,7 @@ Our goal is to create a history audit tool that fires automatically, tracks only
 We'll cover interceptor config, data types, dependency Injection, and alternate EntityListeners.
 
 The one option that I found that met all these requirements was the Hibernate Interceptor.  There may be better alternatives for you if your requirements differ.
+
 <!--more-->
 
 The interceptor configuration:

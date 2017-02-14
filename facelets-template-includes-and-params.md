@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Facelets Template Includes and Params"
@@ -16,6 +15,7 @@ published: true
 ---
 
 Facelets is a great template framework that sits on top of JSF.  They have some fun template includes and parameters that you can pass into the included templates.  Here is an example with one gotcha pertaining to the parameter name.
+
 <!--more-->
 
 If I want to do an include and pass in some sort of parameter value, I could do this:

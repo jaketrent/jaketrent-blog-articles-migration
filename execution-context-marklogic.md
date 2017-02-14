@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Execution Context in MarkLogic"
@@ -17,6 +16,7 @@ published: true
 Have you ever needed to know the location of the actual file that houses the code that's currently executing?  Well, if you have then you're not alone.  I have been there myself.  The answer might not be as interesting as some of life's deeper mysteries unveiled, but I was excited about it nonetheless.
 
 This information seems especially useful in cases where an absolute path to the code is required but you want to avoid hard-coding context information into your app.  Your app really shouldn't care where it is deployed to afterall.  My love for Django increased when I discovered os.path.dirname(__file__).  Here's an equivalent goody in MarkLogic.
+
 <!--more-->
 
 If I have the following directory structure:

@@ -9,11 +9,10 @@ tags:
   - "art"
   - "illustrator"
   - "branding"
+image: http://i.imgur.com/Hy8OR.jpg
 ---
 
 A logo is an essential part of a brand or image.  For me, I like something iconic that is captured through an eye catching image that is simple and elegant.  Logos have to be one of the visual elements that I enjoy watching others' creativity in the most.  For JakeTrent.com, one of the goals has been to [write on it more and customize it less](http://jaketrent.com/post/why-i-chose-a-wordpress-blog/).  So, far I've met that goal.  But I really couldn't let this otherwise nice [LivingJournal](http://wordpress.org/extend/themes/living-journal) theme sit without adding a bit of pizazz of my own.  So, here's how I created the logo.
-
-![Logo progression](http://i.imgur.com/Hy8OR.jpg)
 
 <!--more-->
 

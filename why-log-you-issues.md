@@ -11,11 +11,10 @@ tags:
 description: Why log issues for the project you're working on?  There are many reasons.  Here are a few.
 keywords: git, git log, communication, teamwork, issues, bugtracker
 published: true
+image: http://i.imgur.com/QNf1k.jpg
 ---
 
 When you're working on a software project, what's the most important deliverable?  Why, the software!  It's your eventual product.  Along the way, however, there will be some things you can do that will make it more likely you successfully ship great software. One of those is logging issues.  Here's why you might want to do it.
-
-![A github log](http://i.imgur.com/QNf1k.jpg)
 
 <!--more-->
 

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Id's from JSF, used in jQuery"
@@ -16,6 +15,7 @@ published: true
 ---
 
 For our view layer on our current project at work, we use JSF/Facelets + some jQuery goodness.  I have found that at some times these two tech's have a hard time working with each other.  I ocassionally have problems with the id's.  Here's a nice little way to guarantee you id's are awesome.
+
 <!--more-->
 
 For our view layer on our current project at work, we use JSF/Facelets + some jQuery goodness.  I have found that at some times these two tech's have a hard time working with each other.  I ocassionally have problems with the id's.  Here's a nice little way to guarantee you id's are awesome.

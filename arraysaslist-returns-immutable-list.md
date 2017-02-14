@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Arrays.asList returns immutable List"
@@ -14,6 +13,7 @@ published: true
 ---
 
 I was having problems doing operations on a java.util.List object returned by Arrays.asList() method call.   The specific exception was a java.lang.UnsupportedOperationException.  I soon found out why this was a problem.
+
 <!--more-->
 
 I like to use Arrays.asList as a nice one-line List creation tool.  But, it turns out that many operations, such as add() and remove() are unusable on the List that is returned.  The List returned is actually of type java.util.Arrays$ArrayList, a private static inner class of Arrays.  
