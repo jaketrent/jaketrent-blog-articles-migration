@@ -26,7 +26,7 @@ For instance, if a function is invoked as a callback in an event handler, `this`
 
 The solution in vanilla JavaScript is to save a reference to the context the function is defined within and then use that reference in lieu of the `this` keyword.  My favorite name to save the `this` reference into is called `self`.  In JavaScript, that might look like:
 
-```javascript manual-reference.js
+```javascript
 this.myVal = "my val"
 var self = this
 var myFn = function () {
@@ -61,13 +61,15 @@ Here are a bunch of examples of bound and non-bound functions.  The first code s
 
 Just regular CoffeeScript function declarations.
 
-```coffeescript non-bound.coffee
+```coffeescript
 myVal: 'my val'
 myNonBoundFn: ->
   console.log @myVal
 ```
 
-```javascript non-bound.js
+And in JavaScript:
+
+```javascript
 ({
   myVal: 'my val',
   myNonBoundFn: function() {
@@ -80,13 +82,15 @@ myNonBoundFn: ->
 
 Introduced the fat arrow
 
-```coffeescript bound.coffee
+```coffeescript
 myVal: 'my val'
 myBoundFn: =>
   console.log @myVal
 ```
 
-```javascript bound.js
+In JavaScript:
+
+```javascript
 var _this = this;
 ({
   myVal: 'my val',
@@ -100,14 +104,16 @@ var _this = this;
 
 Notice the inner function is not bound, and defaults back to just referencing `this`.
 
-```coffeescript non-bound-inner.coffee
+```coffeescript
 myVal: 'my val'
 myBoundFn: =>
   myInnerNonBoundFn = ->
     console.log @myVal
 ```
 
-```javascript non-bound-inner.js
+JavaScript:
+
+```javascript
 var _this = this;
 ({
   myVal: 'my val',
@@ -124,14 +130,16 @@ var _this = this;
 
 Inner bound function uses top-level `_this`.
 
-```coffeescript bound-in-bound.coffee
+```coffeescript
 myVal: 'my val'
 myBoundFn: =>
   myInnerBoundFn = =>
     console.log @myVal
 ```
 
-```javascript bound-in-bound.js
+And the translation:
+
+```javascript
 var _this = this;
 ({
   myVal: 'my val',
@@ -148,7 +156,7 @@ var _this = this;
 
 When `myVeryInnerBoundFn` uses the fat arrow inside of `myInnerNonBoundFn`, which does not, `_this = this` is generated again.  And when `myOtherBoundFn` is called, the `@what` property will be `undefined`.
 
-```coffeescript clobber-this.coffee
+```coffeescript
 myVal: 'my val'
 what: 'is this?'
 myBoundFn: =>
@@ -159,7 +167,9 @@ myOtherBoundFn: =>
   console.log @what
 ```
 
-```javascript clobber-this.js
+Compiled to JavaScript:
+
+```javascript
 var _this = this;
 ({
   myVal: 'my val',

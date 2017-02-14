@@ -24,7 +24,7 @@ Go to the point in your app where your bits touch the network.  This is usually 
 
 So, all my http code might look in essence like this:
 
-```js api.js
+```js
 import axios from 'axios'
 
 export const fetch = {
@@ -40,7 +40,7 @@ export const fetch = {
 
 So, this `request` function returns a Promise.  The logic around the request might look like:
 
-```js actions.js
+```js
 import * as api from './api'
 
 async function fetchWater() {
@@ -57,7 +57,7 @@ async function fetchWater() {
 
 To make this request fail, we need only make the Promise fail, rejecting it like a mouthful of stewed tomatoes.  So, just change `api.js`:
 
-```js api.js
+```js
 import axios from 'axios'
 
 export const fetch = {

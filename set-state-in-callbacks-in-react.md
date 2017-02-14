@@ -64,7 +64,7 @@ It feels a bit like a hack, but it makes the code safe.  Another option...
 
 My asynchronous action is a network request that, when finished, will call the callback function.  When the component unmounts, I can just throw away the request so the callback is never invoked.  To do this, we'll take advantage of another React lifecycle hook, `componentWillUnmount`:
 
-```js my-component.js
+```js
 React.createClass({
   componentDidMount: function () {
     this.req = MyModel.find(function (err, data) {
@@ -80,7 +80,7 @@ React.createClass({
 
 In my model, I'm using the [superagent](https://github.com/visionmedia/superagent) library for network requests which provides an [abort](http://visionmedia.github.io/superagent/#aborting-requests) method.
 
-```js my-model.js
+```js
 var request = require(‘superagent')
 MyModel.prototype.find = function (done) {
   return request(‘modelUrl’)

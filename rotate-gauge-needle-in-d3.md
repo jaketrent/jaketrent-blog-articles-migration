@@ -34,7 +34,7 @@ In svg/d3, you can redefine your coordinates by using a group.  If my `svg` cont
 
 We might write this:
 
-```coffeescript gauge.coffee
+```coffeescript
 height = # ... svg height
 width = # ... svg width
 needleG = svg.append('g')
@@ -47,7 +47,7 @@ To draw a triangle, use an [svg path](https://github.com/mbostock/d3/wiki/SVG-Sh
 
 Let's say that we want our needle to 60px tall and 20px wide at the base.  First we'll draw it pointing straight up.  Let's draw this triangle using the `needleG` coordinates.  In the code, I'll call the corners of the triangle `top`, `left`, and `right`.  The d3 code to draw this might look like:
 
-```coffeescript gauge.coffee
+```coffeescript
 needleLen = 60
 needleRadius = 10
 
@@ -79,7 +79,7 @@ Your input may vary, but mine starts as a percentage.  If yours does not, you co
 
 Let's say in this case our percentage is 65%.  We need to convert from percentage to radians.  Note that all the code for rotation angles will use [radians](http://en.wikipedia.org/wiki/Radian).  Here's some conversion code:
 
-```coffeescript gauge.coffee
+```coffeescript
 percToDeg = (perc) ->
   perc * 360
 
@@ -104,7 +104,7 @@ tan of angle = opposite / adjacent
 
 Using these formulas, let's update our code for finding the endpoints of the triangle:
 
-```coffeescript gauge.coffee
+```coffeescript
 needleLen = 60
 needleRadius = 10
 percent = .65

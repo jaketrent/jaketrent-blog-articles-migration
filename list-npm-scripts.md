@@ -23,8 +23,7 @@ Tools for storing and then later easily running scripts alias names are awesome.
 
 You can specify scripts in your `package.json` for later use.  They go in the `scripts` attribute:
 
-
-```json package.json
+```json
 {
   "scripts": {
     "start": "node server.js",
@@ -65,7 +64,7 @@ dist - webpack -p
 
 This prints the exact code that can be executed for each script.  If I would like to add some prose around any or all of the available scripts, I can do so by adding more config data to my `package.json` that will print when I run `ls-scripts`:
 
-```json package.json
+```json
 {
   "config": {
     "scripts: {

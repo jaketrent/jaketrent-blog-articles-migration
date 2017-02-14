@@ -19,7 +19,7 @@ Angular's ngClicks can be attached to anything.  This makes it easy to add inter
 
 In our app we're going to track the state of the UI via various events that get passed in scope.  We slap our directive as an attribute on an element and it will respond by disabling or enabling on certain events.  Here's the directive:
 
-```coffeescript disable-toggle.coffee
+```coffeescript
 angular.module('app.directives').directive 'disableToggle', ->
   restrict: 'A'
   replace: false

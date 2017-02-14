@@ -26,7 +26,7 @@ Why in the world would you want to use erb helpers inside your script files?  Yo
 
 So your script might use the `asset_path` helper and end up looking something like this:
 
-```coffeescript app.coffee.erb
+```coffeescript
 angular.module('app', []).config ($routeProvider) ->
 
   $routeProvider
@@ -39,9 +39,9 @@ angular.module('app', []).config ($routeProvider) ->
 
 Well, now you have an `app.coffee.erb` file.  You need to get it into [Karma runner](http://karma-runner.github.io).  Normally `*.coffee` files will be brought straight in and compiled automatically by the runner as needed.  In this case, however, the Karma defaults won't recognize the `.coffee.erb` file as a CoffeeScript file need compilation.
 
-To tell Karma to process your erb file as a CoffeeScript file, add this to your config:
+To tell Karma to process your erb file as a CoffeeScript file, add this to your `karma.conf.coffee`:
 
-```coffeescript karma.conf.coffee
+```coffeescript
 module.exports = (config) ->
   config.set
     # ...

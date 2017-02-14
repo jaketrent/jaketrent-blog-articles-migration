@@ -28,7 +28,7 @@ Route changes from a server always have the page title set automatically in the 
 
 First, notice that you can add any arbitrary attributes to an angular route that you desire.  In the code below, notice that each route has a `title` attribute:
 
-```coffeescript app.coffee
+```coffeescript
 angular.module('app', []).config ($routeProvider) ->
 
   $routeProvider
@@ -45,7 +45,7 @@ angular.module('app', []).config ($routeProvider) ->
 
 Then in a place that exists on every route -- something like an `AppCtrl` -- you can gain access to the `current` route's `title` every time the route changes:
 
-```coffeescript app-ctrl.coffee
+```coffeescript
 angular.module('app').controller 'AppCtrl', ($rootScope) ->
   $rootScope.$on '$routeChangeSuccess', (event, current, previous) =>
     $rootScope.pageTitle = $route.current.title
@@ -53,7 +53,7 @@ angular.module('app').controller 'AppCtrl', ($rootScope) ->
 
 Now we have put the route's `title` in `$rootScope.pageTitle` and can use it in our template:
 
-```html app.html
+```html
 <html>
   <head>
     <title ng-bind="pageTitle + ' | MyApp'"></title>

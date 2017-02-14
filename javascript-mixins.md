@@ -61,7 +61,7 @@ We invented our own convention, where each mixin would optionally implement its 
 
 In the case of `AttributesMixin`, it looks as simple as this:
 
-```coffeescript attributes-mixin.coffee
+```coffeescript
 AttributesMixin =
   dependencies: ->
     @_attributes = {}
@@ -71,7 +71,7 @@ AttributesMixin =
 
 The `Model` can include like this:
 
-```coffeescript my-model.coffee
+```coffeescript
 class MyModel extends Model
   @include AttributesMixin
   constructor: ->
@@ -80,7 +80,7 @@ class MyModel extends Model
 
 And the `Model` constructor includes a snippet something like this:
 
-```coffeescript model.coffee
+```coffeescript
 class Model
   constructor: ->
     fn.apply @ for fn in @_dependencyFns if @_dependencyFns?

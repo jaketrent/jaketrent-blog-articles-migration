@@ -34,7 +34,7 @@ Let's say we have a data domain of all the letters in the alphabet.  Let's say w
 
 If we did our own math, it might look like this:
 
-```coffeescript brought-to-you-by.coffee
+```coffeescript
 barOuterPad = 20
 barPad = 10
 
@@ -70,7 +70,7 @@ Here's a great graphic from the d3 wiki on [`ordinal.rangeBands`](https://github
 
 It looks like it knows how to take care of everything in our scenario.  It handles outer padding.  It handles between-bar padding.  Let's use it:
 
-```coffeescript made-possible-by.coffee
+```coffeescript
 barOuterPad = .2
 barPad = .1
 

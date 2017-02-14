@@ -23,7 +23,7 @@ When testing a unit, often you'll want to stub out that unit's dependencies.  So
 
 We're unit testing a module in Node.  That unit has dependencies on some other sub-unit.  For our example, these units are modules. The subject under test is `prep-for-fight.js`.  It has a dependency on `eat-corn.js`.  We want to eventually stub out `eat-corn.js` within our unit test for `prep-for-fight.js`.
 
-```js prep-for-fight.js
+```js
 const eatCorn = require('./eat-corn')
 module.exports = function prepForFight() {
   const nutrients = eatCorn()
@@ -45,7 +45,7 @@ There are libraries that help us stub.  Since we have a `require`d module for `e
 
 An easy way to get a dependency into `prepForFight` is to pass it as a function argument.  The rewrite might look like this:
 
-```js prep-for-fight.js
+```js
 module.exports = function prepForFight(eatCorn) {
   const nutrients = eatCorn()
   if (nutrients > NUTRIENT_LEVELS.EAGLE_EMPOWERMENT)
@@ -56,7 +56,7 @@ module.exports = function prepForFight(eatCorn) {
 
 Now we have no `require` statement, and `prepForFight` gets the dependency it needs.  Given this implementation, we can exercise our two code paths in our test:
 
-```js prep-for-fight.spec.js
+```js
 const test = require('ava') // or whatevs
 
 const subject = require('./prep-for-fight')
@@ -82,7 +82,7 @@ By passing in our stub directly, we control the branching inside the function.
 
 By exposing `eatCorn` as a function parameter, we're telling all consumers that we rely on `eatCorn`.  We've leaked our dependency, lessening our encapsulation.  For the function to work as written, it always needs the consumer to send it the `eatCorn` argument when `prepForFight` is called.  Let's give it a default, and make the consumer code care about our dependencies a bit less.  The default will be our original `require`d module.
 
-```js prep-for-fight.js
+```js
 const defaultEatCorn = require('./eat-corn')
 module.exports = function prepForFight(eatCorn = defaultEatCorn) {
   const nutrients = eatCorn()
@@ -98,7 +98,7 @@ Now if `eatCorn` is *passed* as an argument, it will be used.  Otherwise, `defau
 
 If putting `eatCorn` in your function parameter list bothers you, here's another potential solution.  
 
-```js prep-for-fight.js
+```js
 const eatCorn = require('./eat-corn')
 exports.prepForFight = function prepForFight() {
   const nutrients = eatCorn()
@@ -114,7 +114,7 @@ exports.withEatCornForTest = function withEatCornForTest(eatCornOverride) {
 
 Now you can call `withEatCornForTest` before you exercise your subject under test:
 
-```js prep-for-fight.spec.js
+```js
 const test = require('ava')
 
 const subject = require('./prep-for-fight')
@@ -141,7 +141,7 @@ Previous to reading Sandi Metz' [POODR](http://www.poodr.com/) book, I hadn't co
 
 We can take advantage of these attributes and realize one of our own in our `prepForFight` function.  If we have multiple dependencies, we can put these dependencies and their defaults inside the argument hash, and no consumer has to know anything about it.  There's no ordering problem.  There's no null arugment passing.  We just specify the keys that we care to specify and have defaults for the rest.  A minor refactor might yield some destructuring of a single object sent to the function:
 
-```js prep-for-fight.js
+```js
 const defaultEatCorn = require('./eat-corn')
 module.exports = function prepForFight({ eatCorn = defaultEatCorn /*, more... */ }) {
   const nutrients = eatCorn()

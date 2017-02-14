@@ -43,7 +43,7 @@ Include the script in the `head` tag:
 **Step 2**
 Attach FastClick to all links on the page (or subset if you wish):
 
-```coffeescript a-whole-new-world.coffee
+```coffeescript
 window.addEventListener 'load', ->
   FastClick.attach document.body
 , false

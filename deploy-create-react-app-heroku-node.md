@@ -88,7 +88,7 @@ Then your static assets would be in the expected spot.  But you don't want to ha
 
 In your `package.json` file, add a new script:
 
-```json package.json
+```json
 {
   "scripts": {
     "heroku-postbuild": "npm run build"

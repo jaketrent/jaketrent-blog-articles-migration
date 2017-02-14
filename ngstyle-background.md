@@ -29,7 +29,7 @@ The `ngStyle` directive requires an object for input.  The object key is the css
 
 So let's setup a controller that sets a dynamic color based on something as useful as the time.  Useful, right?
 
-```coffeescript colorCtrl.coffee
+```coffeescript
 angular.module('colorly').controller 'colorCtrl', ($scope) ->
   $scope.getColor = ->
     if new Date().getTime() % 2 is 0 then "red" else "blue"
@@ -37,7 +37,7 @@ angular.module('colorly').controller 'colorCtrl', ($scope) ->
 
 We could use this `getColor` function in our app:
 
-```haml app.jade
+```haml
 html(ng-app="colorly")
   head
     //- ... include Angular, etc
@@ -62,7 +62,7 @@ Make sure to put quotes around the `background-image` key name.  Remember, this 
 
 That example was easy.  Often, however, you don't have data stored in your models that's formatted like `url(icons/pen.png)`.  Instead you often have a field that represents the image path only.  In this case, you must do some JavaScript inside your `ngStyle` declaration:
 
-```coffeescript colorCtrl.coffee
+```coffeescript
 angular.module('colorly').controller 'colorCtrl', ($scope) ->
   $scope.tool =
     name: 'Pen'

@@ -42,7 +42,7 @@ There must be an `errors` root attribute.  Its value is an array.  That array ha
 
 A common place for errors to be reported are in the HTTP responses for requests to the resources in your REST API.  For instance, in your model for your resource -- in this case, let's say it's a book -- you may have some validation rules for what constitutes a well-formed book.  That model might look like:
 
-```ruby book.rb
+```ruby
 class Book < ActiveRecord::Base
   validates :title, presence: true
 end
@@ -50,7 +50,7 @@ end
 
 Thus, if I try to create a new book without a title, I should get some sort of error.  And indeed, I do.  If I have a `books_controller.rb` that looks like this:
 
-```ruby books_controller.rb
+```ruby
 class BooksController < ApplicationController
   def create
     book = Book.new(book_params)
@@ -97,7 +97,7 @@ include ErrorSerializer
 
 The contents of your `error_serializer.rb` can be whatever fits your use case.  For my simple JSON API implementation, it looks like:
 
-```ruby error_serializer.rb
+```ruby
 module ErrorSerializer
 
   def ErrorSerializer.serialize(errors)

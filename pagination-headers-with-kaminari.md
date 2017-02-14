@@ -36,7 +36,7 @@ Now, you have a magical `page` method available on your models.  It works like a
 
 Let's say that I have a `germs_controller.rb` (because it's a great time of year for that), where I have a list of germs that I want to paginate.  I could easily request `/api/v1/germs?page=2` and get the second page with this code in the controller:
 
-```ruby germs_controller.rb
+```ruby
 module Api
   module V1
     class GermsController < ApplicationController
@@ -49,9 +49,9 @@ module Api
 end
 ```
 
-If you want to control the default page size, you can do that in the initializers:
+If you want to control the default page size, you can do that in the initializers (`kaminari_config.rb`):
 
-```ruby kaminari_config.rb
+```ruby
 Kaminari.configure do |config|
   config.default_per_page = 20
 end
@@ -65,7 +65,7 @@ Putting the pagination info into the header follows a pattern used in the [githu
 
 We'll add a function to our `ApplicationController` to helps us out:
 
-```ruby application_controller.rb
+```ruby
 class ApplicationController < ActionController::API
 
   protected
@@ -94,7 +94,7 @@ end
 
 This code will provide a `Link` header in the HTTP response.  Its value might look something like this:
 
-```text Link
+```text
 <http://myapi.com/api/v1/germs?page=1>; rel="prev", <http://myapi.com/api/v1/germs?page=3>; rel="next"
 ```
 
@@ -102,7 +102,7 @@ The values of `first`, `last`, `next`, etc are populated from calls to [Kaminari
 
 In order to have this header set on a response, we need to add it to a callback in our controller:
 
-```ruby germs_controller.rb
+```ruby
 module Api
   module V1
     class GermsController < ApplicationController

@@ -60,7 +60,7 @@ mkdir test
 
 Inside of the `/test` dir, let's `vim mocha.opts` and give it a place to configure jsdom and our other libs:
 
-```text mocha.opts
+```text
 --require test/utils/dom.js
 --require should
 --reporter nyan
@@ -74,7 +74,7 @@ I've tried to come up with several configurations that will make jsdom work well
 
 Here's the full configuration with explanatory comments inline, as it would appear in `test/utils/dom.js`:
 
-```js dom.js
+```js
 var jsdom = require('jsdom')
 
 // setup the simplest document possible
@@ -125,7 +125,7 @@ ReferenceError: navigator is not defined
 
 You are now ready to render React components into a document in your tests.  The document will be provided by jsdom.  You don't need a browser environment to run this.  
 
-```js mycomponent.spec.js
+```js
 var React = require('react/addons')
 var should = require('should')
 var TestUtils = React.addons.TestUtils
@@ -144,7 +144,7 @@ describe('MyComponent', function () {
 
 To run mocha with the configuration above, I like to add an npm script in `package.json`:
  
-```json package.json
+```json
 {
    "scripts": {
      "test": "mocha test/**/*.spec.js"

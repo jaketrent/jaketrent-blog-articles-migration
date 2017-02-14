@@ -36,7 +36,7 @@ So, let's try it out with a couple examples.
 
 Mongo will add a primary surrogate key to each object, called [ObjectId](http://docs.mongodb.org/manual/reference/object-id/), referenced as `_id` in the data.  This will be the key used to refer to objects in other collections.  If I wanted to model players in leagues -- foosball leagues of course --  I might create schemas like this:
 
-```coffeescript player.coffee
+```coffeescript
 mongoose = require 'mongoose'
 Schema = mongoose.Schema
 
@@ -50,7 +50,7 @@ playerSchema = new mongoose.Schema
 Player = mongoose.model 'Player', playerSchema
 ```
 
-```coffeescript league.coffee
+```coffeescript
 mongoose = require 'mongoose'
 Schema = mongoose.Schema
 

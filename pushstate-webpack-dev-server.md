@@ -52,9 +52,9 @@ These options include overriding the name of the index file or rerouting certain
 
 Finally, in order to not have to type this every time you want to run the `webpack-dev-server` cli, you can specify all of these options in the `webpack-config.js` under the `devServer` attribute.  
 
-The simple example looks like:
+The simple example looks like this in `webpack-config.js`:
 
-```js webpack-config.js
+```js
 {
   //...
   devServer: {
@@ -66,7 +66,7 @@ The simple example looks like:
 
 A more complex example might look something like:
 
-```js webpack-config.js
+```js
 {
   //...
   devServer: {

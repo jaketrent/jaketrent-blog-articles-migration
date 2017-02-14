@@ -18,19 +18,21 @@ In developing an email notification system recently, we became interested in cod
 
 <!--more-->
 
-If you have property files that Spring knows about, you could put entries in like this:
+If you have property files that Spring knows about, you could put entries in like this in `defaultContext-dev-test.properties`:
 
-```text defaultContext-dev-test.properties 
+```text
 mailProvider=devTestEmailServiceImpl
 ```
 
-```text defaultContext.properties
+And in `defaultContext.properties`:
+
+```text
 mailProvider=emailServiceImpl
 ```
 
-Then, in your Spring bean context file:
+Then, in your Spring bean `serviceBeanContext.xml` file:
 
-```xml serviceBeanContext.xml
+```xml
 <alias alias="emailService" name="@{mailProvider}"/>
 ```
 

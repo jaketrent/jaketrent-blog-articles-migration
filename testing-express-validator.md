@@ -45,7 +45,7 @@ Note that you should insert the new `express-validator` middleware directly afte
 
 Let's say you're writing a validator for new posts to a blog.  That code might look like this.
 
-```coffeescript blog-new-validator.coffee
+```coffeescript
 module.exports = (req) ->
 
   req.checkBody('title', 'Title is required').notEmpty()
@@ -60,7 +60,7 @@ It checks to see if there is a title and a body given.  If there is not, the val
 
 First, setup a test helper that stubs the request, `req`, for validation:
 
-```coffeescript req.coffee
+```coffeescript
 expressValidator = require('express-validator')()
 
 exports.stubForValidation = (done) ->
@@ -83,7 +83,7 @@ Now, in your test, you can simply:
 2. Setup your fixture data to make the test pass (or not)
 3. Assert validation errors' existence and messages
 
-```coffeescript blog-new-validator.spec.coffee
+```coffeescript
 stubReq = require('req').stubForValidation
 validateNew = require 'blog-new-validator'
 

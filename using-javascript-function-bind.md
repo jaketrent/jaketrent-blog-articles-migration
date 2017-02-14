@@ -33,7 +33,7 @@ For example, in [React](http://facebook.github.io/react/) we write UI components
 
 As a simple example, we'll write a `handleClick` function that wants to call the Component's `doLog` function for interesting logging:
 
-```js event-handling.js
+```js
 class MyComponent extends React.Component {
   doLog() {
     console.log('Yay, you clicked!')

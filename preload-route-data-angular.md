@@ -22,7 +22,7 @@ It's sometimes useful to be able to preload or resolve data previous to an Angul
 
 For the example, our current user object is super simple.  Just pretend that it holds all of the relevant details of a user.  These details are useful for displaying various things in the app that need the context of who the currently logged-in user is.
 
-```coffeescript current-user.coffee
+```coffeescript
   angular.module('app.services').factory 'CurrentUser', ($http, User) ->
     class CurrentUser extends User
       fetch: ->
@@ -43,7 +43,7 @@ Let's say that we have a home page and a profile page for our example.
 
 Each route can be configured with a `resolve` object.  The key of that object is the name of a local variable and the value is a function which returns a promise.  The resolution value of the promise is the data you want before the route executes.After all the promises are resolved, the route is free to switch and execute.  Until then, each unresolved promise will block the route from executing.
 
-```coffeescript app.coffee
+```coffeescript
 angular.module 'app.config', []
 angular.module 'app.services', []
 angular.module 'app.controllers', []
@@ -73,7 +73,7 @@ The `run` method is essentially the Angular app's main method, starting the prog
 
 In our resolve function we setup our own promise via the `$q` service.  We check to see if our singleton `CurrentUser` is already loaded.  If it's not, we fetch it.  If it has been fetched once already, we resolve the promise with the value that's already available.
 
-```coffeescript resolves.coffee
+```coffeescript
 angular.module('app.config').constant 'resolves',
 
   getCurrentUser: ($q, CurrentUser) ->
@@ -94,7 +94,7 @@ angular.module('app.config').constant 'resolves',
 
 Now that we have the `CurrentUser` guaranteed to be resolved (fetched and returned) by the time we enter all routes, we need to grab the value of `CurrentUser` and put it in `$scope` where our program would normally pick up and start using variables.
 
-```coffeescript app-ctrl.coffee
+```coffeescript
 angular.module('app.controllers').controller 'AppCtrl', ($scope) ->
 
   $scope.$on '$routeChangeSuccess', (next, current) ->

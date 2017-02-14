@@ -22,7 +22,7 @@ When testing a directive, you'll often want to setup some fixture element to att
 
 For example, if I had a directive called `AccountList` with isolate scope:
 
-```coffeescript account-list.coffee
+```coffeescript
 angular.module('app').directive 'AccountList', ->
   restrict: 'EA'
   replace: true
@@ -33,7 +33,7 @@ angular.module('app').directive 'AccountList', ->
 
 Then I would setup my test something like this:
 
-```coffeescript account-list.spec.coffee
+```coffeescript
 describe 'AccountList', ->
 
   elm = null

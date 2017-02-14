@@ -47,7 +47,7 @@ I found that following the "Getting Started" example on the Sinonjs page didn't 
 - `sinon.spy` will return a reference to the spy.  You can use that reference to do assertions on or you can use the spied on function itself (ie, `$rootScope.$broadcast`)
 - Use [`sinon-chai`](https://github.com/domenic/sinon-chai).  It provides better assertions and works with `chai`.
 
-```coffeescript model.spec.coffee
+```coffeescript
 assert = chai.assert
 expect = chai.expect
 should = chai.should()

@@ -25,14 +25,14 @@ It is often the case that we'll need to trigger data changes in a react componen
 
 The route to our book detail page is likely defined as:
 
-```js routes.js
+```js
 // ...
 <Route name="book" path="/books/:id" handler={require('./books-show')} />
 ```
 
 The handler is just a controller-component that defines the view.  It might look simply like:
 
-```js books-show.js
+```js
 const React = require('react')
 const {State} = require('react-router')
 
@@ -94,7 +94,7 @@ __Important note__: Make sure the transition action is called after `React.rende
 
 The `BooksAction.transition` definition is something very simple -- something that can trigger events on the dispatcher:
 
-```js books-actions.js
+```js
 exports.transition = () => {
   AppDispatcher.handleViewAction({
     type: ActionTypes.TRANSITION
@@ -104,7 +104,7 @@ exports.transition = () => {
 
 The final connection is in the store, where the dispatched action can be listened for an then trigger the store event, updating the component views:
 
-```js books-store.js
+```js
 var BooksStore = merge(EventEmitter.prototype, {
   find(filter) {
     // ...

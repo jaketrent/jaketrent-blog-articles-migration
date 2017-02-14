@@ -59,9 +59,9 @@ Well, a few great [google results](http://blog.import.io/tech-blog/exposing-head
 
 Like the other CORS headers, the `Access-Control-` prefix is present.  The one you're looking for is [`Access-Control-Expose-Headers`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS).  It is a comma-separated list of header names. You can add this header manually to your response, or depending on the library you're using, it might be added differently.
 
-I was using `rack-cors`.  Thus, my addition ended up looking something like:
+I was using `rack-cors`.  Thus, my addition ended up looking something like this in `config/application.rb`:
 
-```ruby config/application.rb
+```ruby
 # ...
 config.middleware.use Rack::Cors do
   allow do

@@ -34,7 +34,7 @@ For this project, I am using [riotjs](http://riotjs.com/), which is a React-like
 
 I am using [Babel](https://babeljs.io/) to transpile the es2015 code in my project.  I also want es2015 available in the tags.  So, instead of just using the `babel-preset-es2015` preset, I'm using [`babel-preset-es2015-riot`](https://github.com/riot/babel-preset-es2015-riot).  I also want default module export support, so I'm using `babel-plugin-add-module-exports`.  The `.babelrc` file looks like:
 
-```js .babelrc
+```js
 {
   "presets": [
     "es2015-riot",
@@ -46,9 +46,9 @@ I am using [Babel](https://babeljs.io/) to transpile the es2015 code in my proje
 }
 ```
 
-For in-browser module support, I'm using webpack.  So, for `.js`, I'm using `babel-loader`.  For `.tag` riot files, I'm using `babel-loader` _plus_ `riotjs-loader`.  The useful snippet for the loaders is here:
+For in-browser module support, I'm using webpack.  So, for `.js`, I'm using `babel-loader`.  For `.tag` riot files, I'm using `babel-loader` _plus_ `riotjs-loader`.  The useful `webpack.config.js` snippet for the loaders is here:
 
-```js webpack.config.js
+```js
 {
   // ...
   module: {
@@ -69,7 +69,7 @@ Note that the riotjs plugin takes a query parameter for determining what type of
 
 Now a simple app might look like this:
 
-```js app.js
+```js
 import riot from 'riot'
 
 import './app.tag'
@@ -83,7 +83,7 @@ export default {
 
 It's importing the top-most riot component for the app, called `app.tag`:
 
-```html app.tag
+```html
 import './header.tag'
 
 <app>
@@ -92,7 +92,9 @@ import './header.tag'
 </app>
 ```
 
-```html header.tag
+Which uses the `header.tag` file:
+
+```html
 <header>
   <h1>Wow</h1>
 </header>
@@ -104,7 +106,7 @@ Note that the tag file imports other tag files.  To me, this seems to be the rig
 
 In test land, we are using [ava](https://github.com/avajs/ava) as our test runner.  We configure it in the `package.json` file:
 
-```json package.json
+```json
 { 
   "ava": {
     "babel": "inherit",
@@ -134,7 +136,7 @@ The `require` section is used to specify what code needs loaded before the specs
 
 The `node-extensions.js` file is pretty interesting.  It is providing node a new function for how to handle the `.tag` files.  For these files, we'll compile using the riot compiler and then compile that output using babel.  In the end, we should have ready code.  You'll also notice that this custom file loader requires that we load up our `.babelrc` file manually because we're acting outside of ava at this point.
 
-```js test/utils/node-extensions.js
+```js
 const babel = require('babel-core')
 const fs = require('fs')
 const path = require('path')
@@ -166,7 +168,7 @@ require.extensions['.tag'] = function (module, filename) {
 
 Next, we have our dom setup, which is pretty straightforward jsdom:
 
-```js test/utils/dom.js
+```js
 import jsdom from 'jsdom'
 
 const doc = jsdom.jsdom('<!doctype html><html><body></body></html>')
@@ -179,7 +181,7 @@ global.history = win.history
 
 Now we have a dom with a body tag we can render into, so let's try to test out our `app.js` render code -- finally, the test:
 
-```js app.spec.js
+```js
 import test from 'ava'
 
 import subject from '../app'

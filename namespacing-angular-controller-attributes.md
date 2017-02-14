@@ -21,17 +21,17 @@ Usually attributes of your Angular controllers are not namespaced.  But you can 
 
 Usually attributes in an Angular controller, such as functions and variables, are attached to the `$scope` object.  That looks like this:
 
-```coffeescript my-ctrl.coffee
+```coffeescript
 angular.module('myapp').controller 'MyCtrl', ($scope) ->
   $scope.myVar = 'myVal'
   $scope.myFn = ->
     console.log 'does stuff'
 ```
 
-Then in my template I don't know, nor do I need to know, where the attribute comes from.  I just reference it:
+Then in my template I don't know, nor do I need to know, where the attribute comes from.  I just reference it in `my-app.jade`:
 
 {% raw %}
-```haml my-app.jade
+```haml
 html(ng-app="myapp")
   body(ng-controller="MyCtrl")
     h1 My Var: {{myVar}}
@@ -45,7 +45,7 @@ In this simple example, this is no big deal.  But as your app grows in complexit
 
 To do this, you can write your controllers to attach attributes to the controller instead of scope and then put the controller itself on scope.  That looks like this:
 
-```coffeescript my-ctrl.coffee
+```coffeescript
 angular.module('myapp').controller 'MyCtrl', ($scope) ->
   @myVar = 'myVal'
   @myFn = ->
@@ -55,7 +55,7 @@ angular.module('myapp').controller 'MyCtrl', ($scope) ->
 
 Then your template changes to look like this:
 
-```haml my-app.jade
+```haml
 html(ng-app="myapp")
   body(ng-controller="MyCtrl")
     h1 My Var: {{MyCtrl.myVar}}

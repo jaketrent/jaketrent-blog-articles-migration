@@ -32,14 +32,18 @@ Why is file input rule reasonable?  Shouldn't you be able to match the UI design
 
 Don't style the file input to make it look like a photo upload button (or whatever you're marking).  Instead, **hide it**.  And after you hide it, position it **over** another another element, such as a `div`, that you can style much more easily to look like the UI you envision.
 
-Here is some example css on how you might accomplish this:
+Here is some example css on how you might accomplish this.
 
-```haml fileinput.jade
+First, `fileinput.jade`:
+
+```haml
 .file-wrapper
   .file-input(type="file")
 ```
 
-```sass fileinput.styl
+And `fileinput.styl`:
+
+```sass
 .file-wrapper
   position: relative
   overflow: hidden

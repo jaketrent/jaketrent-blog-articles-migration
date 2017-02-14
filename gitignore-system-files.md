@@ -20,7 +20,7 @@ In your project directory, you likely have a `.gitignore` file.  Here, you keep 
 
 For instance, if you're doing a Node.js project, you probably want to track all your own `.js` files, found in `src/`.  But you don't want to track all those 3rd-party modules in `node_modules`.  You probably don't want to track your code compiled for distribution either.  So, your project's `.gitignore` file might look like this:
 
-```text project/.gitignore
+```text
 node_modules
 dist
 ```
@@ -35,7 +35,7 @@ You can make Git ignore files that appear on your system but are unrelated to th
 
 Edit your top-level `~/.gitgnore`.  Add all your system-related things there.  It might end up look like:
 
-```text ~/.gitignore
+```text
 .DS_Store
 .idea
 ```

@@ -23,7 +23,7 @@ A view will function as the translation layer between the state of your models a
 
 If I have a model with state:
 
-```coffeescript my-model.coffee
+```coffeescript
 App.MyModel = App.Model.extend
   hasSomeState: true
 ```
@@ -32,7 +32,7 @@ App.MyModel = App.Model.extend
 
 Based on that state, I want to add a `has-some-state` class to the UI if it's true, and remove the class if it's false.  The view might look like:
 
-```coffeescript my-model-view.coffee
+```coffeescript
 App.MyModelView = Ember.View.extend
   # ...
   classNameBindings: ['hasSomeState']
@@ -45,9 +45,9 @@ The `hasSomeState` function will return a boolean has to whether or not the `has
 
 ## Bind to Model Properties
 
-Now use the view in the template, being careful to match the binding of `content` so the property watching works:
+Now use the view in the template, being careful to match the binding of `content` so the property watching works.  Here in `template-fragment.jade`:
 
-```haml template-fragment.jade
+```haml
 App.MyModelView contentBinding="this.myModelInstance"
 ```
 

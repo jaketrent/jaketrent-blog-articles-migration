@@ -73,7 +73,7 @@ In order to integrate this main process code with user interaction, we need to d
 
 First, export the code from your main process module:
 
-```js main.js
+```js
 exports.selectDirectory = function () {
   // dialog.showOpenDialog as before
 }
@@ -81,7 +81,7 @@ exports.selectDirectory = function () {
 
 And then in the renderer process, capture user events as before and call the main process function, `selectDirectory`:
 
-```js renderer.js
+```js
 const electron = require('electron')
 const remote = electron.remote
 const mainProcess = remote.require('./main')
