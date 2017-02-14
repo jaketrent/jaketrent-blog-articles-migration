@@ -18,9 +18,9 @@ EasyMock is a great tool for separating external dependencies from unit tests.  
 
 <!--more-->
 
-###Argument Matcher
+### Argument Matcher
 
-####Exception
+#### Exception
 
 ```java
 java.lang.IllegalStateException: 2 matchers expected, 1 recorded.
@@ -34,7 +34,7 @@ java.lang.IllegalStateException: 2 matchers expected, 1 recorded.
   at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
     ...
 ```
-####Behavior
+#### Behavior
 
 Sometimes you don't know the exact instance of the objects that will be passed as arguments into methods on external dependencies.  Thus, the mocked call on that method will be different than normal.  EasyMock provides a method, EasyMock.isA().  From the JavaDoc, this method "Expects an object implementing the given class."  Essentially, it looks for type (class) instead of instance (object) when setting up the EasyMock.expect().  This is useful when you don't have the actual instance of a method parameter from the context of your test, like a local variable.
 
@@ -69,7 +69,7 @@ public void testDoSomething() {
 
 I will inevitably get the above exception.
 
-####Explanation
+#### Explanation
 
 So, now to get rid of this nasty exception.  Use of isA() either implies that you really don't care what the exact instance of the method parameter is or you use it to get around another constraint on your code.  Either way, EasyMock, through this wonderful exception, is trying to tell you that <strong>if you're going to use isA() for one of the method parameters, it must be used on all!</strong>  Thus, to keep your StringBuilder isA() call, you must add one for Integer in this example.
 
@@ -77,9 +77,9 @@ So, now to get rid of this nasty exception.  Use of isA() either implies that yo
 externalService.serviceCall(isA(StringBuilder.class), isA(Integer.class));
 ```
 
-###Behavior Definition
+### Behavior Definition
 
-####Exception
+#### Exception
 
 ```java
 java.lang.IllegalStateException: missing behavior definition for the preceeding method call getIsInitialized()
@@ -88,7 +88,7 @@ java.lang.IllegalStateException: missing behavior definition for the preceeding 
 ...
 ```
 
-####Behavior
+#### Behavior
 
 If I was testing a method like this:
 
@@ -119,7 +119,7 @@ public void testDoSomething() {
 
 I just may get the above exception.
 
-####Explanation
+#### Explanation
 
 The issue is that you've only half-told EasyMock what you expect to happen.  Because the checkSomething() method has a return type other than void, when need to explicitly tell EasyMock what to expect as the return value.  That is done by using the andReturn() method.
 
@@ -127,9 +127,9 @@ The issue is that you've only half-told EasyMock what you expect to happen.  Bec
 expect(externalService.checkSomething()).andReturn(0);
 ```
 
-###Mock methods use Mocks
+### Mock methods use Mocks
 
-####Exception
+#### Exception
 
 Here's an exception that may very well be thrown in many instances by EasyMock.  It might not be very helpful there; it certainly wasn't here.
 
@@ -140,7 +140,7 @@ org.easymock.internal.RuntimeExceptionWrapper
 ...
 ```
 
-###Behavior
+### Behavior
 
 When you're using EasyMock, there are several steps that you need to take in setting up your mock scenario.  And we all know that the more steps a process takes, the more prone it is to error.  Well, as the user of the EasyMock API, I make errors all the time.  For instance, as I'm evolving my test, deciding that some objects will be mocked one moment and not mocked the next, the test changes but sometimes I forget to adjust the multi-step EasyMock setup process at every step.  For instance, I had a test:
 
@@ -170,7 +170,7 @@ public void testSomething() {
 }
 ```
 
-####Explanation
+#### Explanation
 
 I changed the Else class to not be a mock object for the test.  But, I forgot to remove the reference to else from the replay() and verify() methods  (statically imported EasyMock methods).  So, this RuntimeExceptionWrapper exception makes no sense, but I have had it thrown many times for this reason.  To fix it, remove the non-mocks from the mock-related methods.
 
@@ -186,9 +186,9 @@ public void testSomething() {
 }
 ```
 
-###Last Call for Mocks
+### Last Call for Mocks
 
-####Exception
+#### Exception
 
 Again, I believe I may have seen this exception in more than one type of situation.  This is just one.
 
@@ -199,7 +199,7 @@ java.lang.IllegalStateException: no last call on a mock available
   ...
 ```
 
-####Behavior
+#### Behavior
 
 I use IntelliJ IDEA, which I love for many reasons.  One of them is it's robust refactoring toolset.  For instance, Ctrl-Alt-V, by default, is the introduce variable shortcut.  So, you select the expression that returns some value, introduce variable, and voila, that return value is stored in a nice local variable for you (or there are other options to refactor into fields, constants, parameters, and such.  End shameless plug.  Anywho, EasyMock scenarios value ordering of method calls.  This can become problematic if you're not careful to maintain its delicate order needs (which a refactoring tool, for instance, knows nothing about).
 
@@ -220,7 +220,7 @@ expectLastCall().andThrow(e);
 
 You will get the above exception.
 
-####Explanation
+#### Explanation
 
 Simply, the problem is that something has been interjected in between the method call and the expect.  Because these things are syntatically separate with the void return type methods, this becomes a possible pitfall.  To fix, put the two together, keep the ordering correct.
 
@@ -230,9 +230,9 @@ someObj.doSomething();
 expectLastCall().andThrow(e);
 ```
 
-###Throws like a girl
+### Throws like a girl
 
-####Exception
+#### Exception
 
 ```java
 java.lang.IllegalArgumentException: last method called on mock cannot throw com.lowagie.text.DocumentException
@@ -240,7 +240,7 @@ java.lang.IllegalArgumentException: last method called on mock cannot throw com.
    ...
 ```
 
-####Behavior
+#### Behavior
 
 When I'm trying to test the catch blocks in my code, often times I will simulate an exception being thrown with the mock andThrow() method.  If I start with a class like this:
 
@@ -274,7 +274,7 @@ public void testDoSomething() {
 
 You are likely to get the above problematic exception.
 
-####Explanation
+#### Explanation
 
 Sure you catch the exception; sure you want to check your catch block logic (lame here); but andThrow() needs to know that it's doing the right thing.  Expectations in mocks are really quite flexible and allow us to make the code do things it might not otherwise do through simulated conditions in a test.  But, EasyMock will not do the impossible.  And in this case, it knows that if you're expecting a checked exception to be thrown, it must be declared as thrown, which it is not.  So, to fix this, your code must actually declare that it throws Exception.  Of course, only do this if it makes sense.  And, if it doesn't, why are you testing it anyway?
 
@@ -284,9 +284,9 @@ For interface and implementing class:
 void callService() throws Exception;
 ```
 
-###Half-Mocked Expectations
+### Half-Mocked Expectations
 
-####Exception
+#### Exception
 
 This exception is very similar to that mentioned in the "<a href="#mocksusemocks">Mock methods use Mocks</a>" section above.
 
@@ -296,7 +296,7 @@ java.lang.IllegalStateException: void method cannot return a value
    ...
 ```
 
-####Behavior
+#### Behavior
 
 It is convenient and more unit-like to test one method in a class that calls other methods in that class but not test the other method at that point.  Thus, we half-mock the class, mocking the "external" methods, the ones not being tested in this particular test, but not mocking the method being tested.  Did I mention how useful this is?  Let's try it.
 
@@ -341,7 +341,7 @@ TestMe me = new TestMe();
 
 We will get the icky exception shown above.
 
-####Explanation
+#### Explanation
 
 The first thing we tried to do worked, but the reason we got the exception that we're decrypting is because we made the refactor to the test, making the TestMe instance totally non-mocked, but we left the expectLastCall() on the me.doTestLater() call.  Simply remove that expectation and you're good to go again.  Just remember, now you're actually calling into the body of doTestLater().
 

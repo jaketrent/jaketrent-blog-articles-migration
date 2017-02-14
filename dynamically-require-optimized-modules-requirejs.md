@@ -17,11 +17,11 @@ Often when building a single-page app, you'll want to optimize all your js into 
 
 <!--more-->
 
-##3rd-party Modules
+## 3rd-party Modules
 
 In my case, those dynamically-loaded collections of modules are written, potentially, by 3rd parties to be included in my webapp, requested dynamically at runtime.  Thus, I optimize my app, and each of the widgets that might appear on my app are optimized individually and independently.
 
-##Optimized Modules
+## Optimized Modules
 
 Once you run your RequireJs modules through the r.js build process via:
 
@@ -45,7 +45,7 @@ define('SubComponent2', [], function () {
 
 All of your define blocks now live in a single js file.
 
-##Require Optimized Modules
+## Require Optimized Modules
 
 How should you request such a thing.  Well, if you were going to request `MyWidget.js` dynamically from your `App.js`, it would normally look like this (non-optimized):
 
@@ -61,7 +61,7 @@ define(['require'], function (require) {
 
 This will work fine in a dev, non-optimized module world, but as soon as you want to require an optimized module like this, you'll start having `Widget` come back as `undefined` in your require callback.
 
-##Modules vs. Scripts
+## Modules vs. Scripts
 
 Maybe the old thinking cap was broken, but I could not figure out why this was for a while.  Now that I know the solution, the principle is simple and I've seen it hundreds of times before in RequireJs:  A RequireJs module will be made available via an alias in the require callback.  Everything else (eg, a regular js script file) will not.  And it turns out that when your optimize your widget, so that the resulting `MyWidget.js` file includes multiple define blocks, suddenly RequireJs no longer sees it as a module;  it's a script.
 

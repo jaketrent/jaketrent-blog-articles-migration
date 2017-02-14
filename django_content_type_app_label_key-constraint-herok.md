@@ -55,21 +55,21 @@ Make the Magic Live Again
 
 There are a couple ways around this:
 
-###Dump Something Specific
+### Dump Something Specific
 When you dumpdata, only [dump specific apps](https://docs.djangoproject.com/en/dev/ref/django-admin/#dumpdata-appname-appname-appname-model) instead of the whole project.  For example:
 
 ```bash
 python manage.py dumpdata myApp
 ```
 
-###Django 1.3 Exclude
+### Django 1.3 Exclude
 If you're on Django 1.3 or above, you get a nice new option with dumpdata to [exclude certain apps](https://docs.djangoproject.com/en/dev/ref/django-admin/#django-admin-option---exclude).  So you could run:
 
 ```bash
 python manage.py dumpdata --exclude contenttypes
 ```
 
-###Try in Vain to Reset
+### Try in Vain to Reset
 Another one I tried (but didn't work) was:
 
 ```bash
@@ -77,7 +77,7 @@ heroku run python aprilandjake/manage.py reset contenttypes
 ```
 
 
-###Sql Truncate
+### Sql Truncate
 Or, if you're still trying to dumpdata on your whole project, you could `syncdb` on Heroku and then truncate the data out of `django_content_type` like this:
 
 ```bash
@@ -104,7 +104,7 @@ heroku pg:psql
 !  Cannot ingress to a shared database
 ```
 
-###Delete via Admin UI
+### Delete via Admin UI
 And finally, if you want to get rid of the data via the admin UI, set it up to appear as editable.  In an [`admin.py`](https://docs.djangoproject.com/en/dev/ref/contrib/admin/#modeladmin-objects) in your project, try something like this:
 
 ```python

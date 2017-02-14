@@ -21,7 +21,7 @@ Facelets is a great addition to jsf.  It is very extensible, and it makes creati
 In memory of a good [sandwich post](http://bentanner.blogspot.com/2009/02/lets-talk-about-sandwiches-baby.html), I present this to you al la phases.
 
 
-####1. Create stub source file
+#### 1. Create stub source file
 
 This custom component is to wrap together a many-to-many picker than I made <a href="http://aprilandjake.com/content/manytomany-relationships-jsf/">earlier</a>.
 
@@ -40,7 +40,7 @@ This custom component is to wrap together a many-to-many picker than I made <a h
 </html>
 ```
 
-####2. Create Taglib
+#### 2. Create Taglib
 
 ```xml
 <?xml version="1.0"?>
@@ -56,7 +56,7 @@ This custom component is to wrap together a many-to-many picker than I made <a h
 </facelet-taglib>
 ```
 
-####3. Implement the component
+#### 3. Implement the component
 
 ```jsp
 <?xml version="1.0" encoding="UTF-8"?>
@@ -122,7 +122,7 @@ This custom component is to wrap together a many-to-many picker than I made <a h
 </html>
 ```
 
-####4. Use the tag
+#### 4. Use the tag
 
 ```jsp
 <!-- ... --->

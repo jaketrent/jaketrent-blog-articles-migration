@@ -19,7 +19,7 @@ In software development, be <a href="http://en.wikipedia.org/wiki/Don%27t_repeat
 
 You can define a context processor, containing within in the things that you would like to be present and available for use within the given context.  There are two ways that I've found to include context processors: Per request or for all requests.
 
-####Per Request
+#### Per Request
 
 Pass the context processor into the request in your view.py:
 
@@ -46,7 +46,7 @@ def content_common(request):
   }
 ```
 
-####For All Requests
+#### For All Requests
 
 Sometimes you don't have absolute control of all the views in your project (ie, plugins).  So, what if you want to apply the context processor to those views as well?  The best way that I've found is by including the context processor definition in the settings.py file:
 

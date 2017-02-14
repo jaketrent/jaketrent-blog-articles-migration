@@ -21,13 +21,13 @@ HandlebarsJs is a great Javascript templating engine.  It's pretty much Mustache
 
 Thanks to a bit of looking, Zander (see comment thread below), has discovered that Handlebars [now supports a native loop index accessor called `@index`](https://github.com/wycats/handlebars.js/issues/250#issuecomment-9514811).  And there's a [jsfiddle to prove it](http://jsfiddle.net/mpetrovich/gER9M/).  Thanks, Zander.
 
-##When We're Helping We're Happy
+## When We're Helping We're Happy
 
 Compared to Mustache templates, Handlebars has the Rogaine element of helper functions.  You have the ability to register as many custom functions for use in your templates as you find useful.  And we're gonna make a sweet one.
 
 Lots of languages have the built-in ability to let you access the current index of a `for` loop.  We'll have to build our own
 
-##For Loop Index Helper
+## For Loop Index Helper
 
 The default Handlebars loop helper is `{% raw %}{{#each}}{% endraw %}` .  We will replace it with `{% raw %}{{#iter}}{% endraw %}`.  It essentially copies the current implementation of the for loop and adds a few more parameters to the loop context.
 

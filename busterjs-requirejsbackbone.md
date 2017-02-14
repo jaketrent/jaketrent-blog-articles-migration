@@ -19,7 +19,7 @@ BusterJs is a still-in-beta library that allows for testing your Javascript.  It
 
 <!--more-->
 
-##Install
+## Install
 Buster is easily installed everywhere (but apparently not in Windows, which I have not tried):
 
 ```bash
@@ -28,7 +28,7 @@ Buster is easily installed everywhere (but apparently not in Windows, which I ha
 
 The [buster docs](http://busterjs.org/docs/getting-started/) indicate not to use sudo, but I'm reckless.
 
-##Buster Config
+## Buster Config
 
 My directory structure looks something like:
 
@@ -74,7 +74,7 @@ A few salient points related to RequireJs / Backbone:
 
 The [other configuration options/details](http://busterjs.org/docs/configuration/) are well documented.
 
-##BusterJs Test Example
+## BusterJs Test Example
 
 There are a few [simple examples](https://github.com/trodrigues/buster-amd-example/) of other busterjs tests that test AMD modules.  Mine looks something like:
 
@@ -106,7 +106,7 @@ More from the peanut gallery:
 * `baseUrl` needs to jive with your buster rootPath so that your RequireJs relative paths will match up and work in your app runtime and in the test runtime.
 * `run` - notice this is called within the require callback manually.
 
-##BusterJs Runner
+## BusterJs Runner
 
 If you call within the next 15 minutes, the travel-size test runner is included.  Operators are standing by.  Start your test server:
 
@@ -131,7 +131,7 @@ Finished in 0.02s
 
 And now for a few parting tips...
 
-##Mismatched Define Module
+## Mismatched Define Module
 
 If you happen to include a js file in your 'libs' attribute or another section that's loaded previous to your tests running that includes a `define()` block, you're going to get stuck with this wonder:
 
@@ -143,7 +143,7 @@ As the [require docs](http://requirejs.org/docs/errors.html#mismatch) point out,
 
 >Be sure to load all scripts that call define() via the RequireJS API.
 
-##RequireJs 2.0 shim
+## RequireJs 2.0 shim
 
 I wasn't able to get the shim setup for getting underscore/backbone loaded and in the correct order.  Instead, I just listed these non-AMD files in the correct order under the 'libs' attribute in buster.config.
 

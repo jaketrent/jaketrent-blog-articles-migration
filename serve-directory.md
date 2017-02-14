@@ -18,7 +18,7 @@ Don't you hate developing a blasted simple webpage that does some asynchronous r
 
 <!--more-->
 
-##Attacked by Snakes
+## Attacked by Snakes
 
 First, Verify you have python installed:
 

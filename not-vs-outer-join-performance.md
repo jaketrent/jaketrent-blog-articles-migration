@@ -47,7 +47,7 @@ So, instead of using "not in" a set, I select all the legacy rows, then outer jo
 
 I thought it was pretty sweet.  No magic bullet, though, as Reed tells me that there is a fair amount of debate over the performance difference between the two methods.  You just have to try it and find out.  For me, in this case, the outer join was more awesome.
 
-###Update
+### Update
 
 Another savvy DBA, Bill, has graced us with another method yet:
 

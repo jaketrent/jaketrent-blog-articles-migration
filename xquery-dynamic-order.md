@@ -17,7 +17,7 @@ published: true
 When ordering a sequence of items in XQuery, sometimes it's desirable to be able to decide the order based on a parameter value (something dynamic).  XQuery doesn't look extremely elegant when it comes to this feature, but depending on exactly what you want, you should be able to get the job done.
 <!--more-->
 
-##Static sort
+## Static sort
 
 In XQuery, an a FLWOR statement can be ordered (the "O" in FLWOR).  Here are some taffy f
 
@@ -35,7 +35,7 @@ return $i
 
 Note that if you want to sort by something besides the natural order of string values (in this case, an `xs:integer`), you need to cast the value.
 
-##Dynamic ascending or descending
+## Dynamic ascending or descending
 
 Ascending order means lowest values will be listed first, and the higher values will be listed later.  Descending means just the opposite.  By default, XQuery order by clauses are sorted in ascending order.
 
@@ -59,7 +59,7 @@ return $i
 
 The syntax is a little odd in order for us to get the result we want.  There are two `if` expressions.  They are separated by commas, so it is pretty much just a primary, then secondary sort.  The conditional is the same on each ("if is ascending");  But then notice that was just a way to get the syntax to work, because it's really an if-else.  
 
-##Multiple Sort Values
+## Multiple Sort Values
 
 The next case is slightly more complicated, but I initially tried the Michael Blakely approach.  This case introduced another parameter:  Sometimes I wanted to sort by quantity, but other times I instead wanted to sort by the name of the flavor.  So, I came out with something like this:
 
@@ -83,7 +83,7 @@ return $i
 
 El problemo is that because these are essentially just a list of secondary sorts and each `if` conditional has an `else` with an actual sort value, I'm not really sorting by just one thing.  This scenario has `$sortby` set to "flavor", but it's really still sorting by quantity descending primarily, then flavor descending secondarily.  Blast.
 
-##Fully-dynamic order by clause -- and everything else
+## Fully-dynamic order by clause -- and everything else
 
 At this point, I was contemplating doing the full smash and just evaluating a dynamically-built string describing my desired query:
 
@@ -109,7 +109,7 @@ I guess that's all right.  I try to avoid string->query conversions just for saf
 
 So, what did I end up with?
 
-##Sort by dynamic value first
+## Sort by dynamic value first
 
 Again, all I wanted to was to sort by a single value based on a parameter, and have ascending/descending be another variable parameter.  If you don't care to get a descending sort, then dynamic order by is actually not too bad.  So, get that out of the way and then decide if you like the order or not.  If not, it must be backward, so reverse it:
 

@@ -52,7 +52,7 @@ void removeStuff() {
 
 Interestingly, and it was true in this case, the JavaDoc also states: "ConcurrentModificationException  should be used only to detect bugs."
 
-####Update
+#### Update
 
 My friend, Steve, found a better way to do this inline w/o the exception that employs a manual iterator:
 

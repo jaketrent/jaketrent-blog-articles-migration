@@ -35,7 +35,7 @@ I prefer option #2:
 ```bash
 emacs ~/.bashrc
 
-#add this line
+# add this line
 export SVN_EDITOR="/usr/bin/emacs"
 ```
 
